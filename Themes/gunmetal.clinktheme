@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.6509803921568628,
+    "g" : 0.5843137254901961,
+    "r" : 0.5333333333333333
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.09019607843137255,
+    "g" : 0.0784313725490196,
+    "r" : 0.07058823529411765
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "gunmetal",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.21568627450980393,
+    "g" : 0.18823529411764706,
+    "r" : 0.17254901960784313
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9333333333333333,
+    "g" : 0.9137254901960784,
+    "r" : 0.9019607843137255
+  },
+  "material" : "metal",
+  "metalVariant" : "gunmetal",
+  "name" : "Gunmetal",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.1411764705882353,
+    "g" : 0.12156862745098039,
+    "r" : 0.10980392156862745
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.7294117647058823,
+    "g" : 0.6901960784313725,
+    "r" : 0.6666666666666666
+  },
+  "threeDVariant" : "retro"
+}

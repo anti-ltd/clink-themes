@@ -1,0 +1,110 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.47843137254901963,
+    "g" : 1,
+    "r" : 0.2235294117647059
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.0196078431372549,
+    "g" : 0.0392156862745098,
+    "r" : 0.011764705882352941
+  },
+  "backgroundEffect" : {
+    "blend" : "glow",
+    "colorMode" : "accent",
+    "density" : 0.7,
+    "intensity" : 0.7,
+    "reactionStrength" : 1,
+    "reactive" : true,
+    "scale" : 1,
+    "speed" : 1,
+    "style" : "rain"
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "matrix",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.058823529411764705,
+    "g" : 0.10196078431372549,
+    "r" : 0.043137254901960784
+  },
+  "keyFontDesign" : "monospaced",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.5843137254901961,
+    "g" : 1,
+    "r" : 0.4196078431372549
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Matrix",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.03137254901960784,
+    "g" : 0.07058823529411765,
+    "r" : 0.03137254901960784
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.41568627450980394,
+    "g" : 0.7490196078431373,
+    "r" : 0.24705882352941178
+  },
+  "threeDVariant" : "retro"
+}

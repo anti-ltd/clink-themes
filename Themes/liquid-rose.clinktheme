@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.6039215686274509,
+    "g" : 0.4,
+    "r" : 0.8784313725490196
+  },
+  "background" : {
+    "a" : 0.22,
+    "b" : 0.9019607843137255,
+    "g" : 0.8627450980392157,
+    "r" : 0.9647058823529412
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "liquid-rose",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 0.3,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.1803921568627451,
+    "g" : 0.12549019607843137,
+    "r" : 0.25098039215686274
+  },
+  "material" : "liquidGlass",
+  "metalVariant" : "silver",
+  "name" : "Liquid Rose",
+  "specialKeyFill" : {
+    "a" : 0.05,
+    "b" : 0,
+    "g" : 0,
+    "r" : 0
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.1803921568627451,
+    "g" : 0.12549019607843137,
+    "r" : 0.25098039215686274
+  },
+  "threeDVariant" : "retro"
+}

@@ -1,0 +1,134 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.6039215686274509,
+    "g" : 0.4117647058823529,
+    "r" : 0.8313725490196079
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.9019607843137255,
+    "g" : 0.8627450980392157,
+    "r" : 0.9647058823529412
+  },
+  "backgroundEffect" : {
+    "blend" : "glow",
+    "colorMode" : "accent",
+    "density" : 0.5,
+    "intensity" : 0.55,
+    "reactionStrength" : 1,
+    "reactive" : true,
+    "scale" : 1.1,
+    "speed" : 0.6,
+    "style" : "bokeh"
+  },
+  "backgroundGradient" : {
+    "rotation" : 160,
+    "stops" : [
+      {
+        "color" : {
+          "a" : 1,
+          "b" : 0.9254901960784314,
+          "g" : 0.8941176470588236,
+          "r" : 0.9764705882352941
+        },
+        "position" : 0
+      },
+      {
+        "color" : {
+          "a" : 1,
+          "b" : 0.8705882352941177,
+          "g" : 0.8,
+          "r" : 0.9411764705882353
+        },
+        "position" : 1
+      }
+    ],
+    "type" : "linear"
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "chloe",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.9882352941176471,
+    "g" : 0.984313725490196,
+    "r" : 1
+  },
+  "keyFontDesign" : "georgia",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.24313725490196078,
+    "g" : 0.16470588235294117,
+    "r" : 0.35294117647058826
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Chloé",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.8392156862745098,
+    "g" : 0.7764705882352941,
+    "r" : 0.9333333333333333
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.24313725490196078,
+    "g" : 0.16470588235294117,
+    "r" : 0.35294117647058826
+  },
+  "threeDVariant" : "retro"
+}

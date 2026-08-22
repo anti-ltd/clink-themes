@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.2901960784313726,
+    "g" : 0.7058823529411765,
+    "r" : 0.8509803921568627
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.2,
+    "g" : 0.08627450980392157,
+    "r" : 0.0784313725490196
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "royal",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.34901960784313724,
+    "g" : 0.15294117647058825,
+    "r" : 0.13725490196078433
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 1,
+    "g" : 0.9450980392156862,
+    "r" : 0.9490196078431372
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Royal",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.25098039215686274,
+    "g" : 0.10980392156862745,
+    "r" : 0.10196078431372549
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.9176470588235294,
+    "g" : 0.7450980392156863,
+    "r" : 0.7254901960784313
+  },
+  "threeDVariant" : "retro"
+}

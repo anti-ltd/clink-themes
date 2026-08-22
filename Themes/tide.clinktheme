@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.7215686274509804,
+    "g" : 0.5882352941176471,
+    "r" : 0.054901960784313725
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.9607843137254902,
+    "g" : 0.9333333333333333,
+    "r" : 0.8627450980392157
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "tide",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.25098039215686274,
+    "g" : 0.19607843137254902,
+    "r" : 0.07058823529411765
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Tide",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.9254901960784314,
+    "g" : 0.8784313725490196,
+    "r" : 0.7607843137254902
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.25098039215686274,
+    "g" : 0.19607843137254902,
+    "r" : 0.07058823529411765
+  },
+  "threeDVariant" : "retro"
+}

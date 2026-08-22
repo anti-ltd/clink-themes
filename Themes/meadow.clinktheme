@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.3568627450980392,
+    "g" : 0.6196078431372549,
+    "r" : 0.1843137254901961
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.8705882352941177,
+    "g" : 0.9411764705882353,
+    "r" : 0.8745098039215686
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "meadow",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.1411764705882353,
+    "g" : 0.20784313725490197,
+    "r" : 0.10588235294117647
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Meadow",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.7607843137254902,
+    "g" : 0.8862745098039215,
+    "r" : 0.7686274509803922
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.1411764705882353,
+    "g" : 0.20784313725490197,
+    "r" : 0.10588235294117647
+  },
+  "threeDVariant" : "retro"
+}

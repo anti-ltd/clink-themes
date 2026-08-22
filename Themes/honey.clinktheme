@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.11764705882352941,
+    "g" : 0.6352941176470588,
+    "r" : 0.8784313725490196
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.807843137254902,
+    "g" : 0.9411764705882353,
+    "r" : 0.984313725490196
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "honey",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.9529411764705882,
+    "g" : 0.9921568627450981,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.06274509803921569,
+    "g" : 0.1803921568627451,
+    "r" : 0.22745098039215686
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Honey",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.6588235294117647,
+    "g" : 0.8784313725490196,
+    "r" : 0.9411764705882353
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.06274509803921569,
+    "g" : 0.1803921568627451,
+    "r" : 0.22745098039215686
+  },
+  "threeDVariant" : "retro"
+}

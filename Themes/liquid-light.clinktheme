@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 1,
+    "g" : 0.47843137254901963,
+    "r" : 0
+  },
+  "background" : {
+    "a" : 0.22,
+    "b" : 0.9686274509803922,
+    "g" : 0.9607843137254902,
+    "r" : 0.9607843137254902
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "liquid-light",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 0.32,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.11764705882352941,
+    "g" : 0.10980392156862745,
+    "r" : 0.10980392156862745
+  },
+  "material" : "liquidGlass",
+  "metalVariant" : "silver",
+  "name" : "Liquid Light",
+  "specialKeyFill" : {
+    "a" : 0.06,
+    "b" : 0,
+    "g" : 0,
+    "r" : 0
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.11764705882352941,
+    "g" : 0.10980392156862745,
+    "r" : 0.10980392156862745
+  },
+  "threeDVariant" : "retro"
+}

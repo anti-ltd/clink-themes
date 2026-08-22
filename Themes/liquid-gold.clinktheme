@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.35294117647058826,
+    "g" : 0.7647058823529411,
+    "r" : 0.9098039215686274
+  },
+  "background" : {
+    "a" : 0.3,
+    "b" : 0.03137254901960784,
+    "g" : 0.0784313725490196,
+    "r" : 0.10196078431372549
+  },
+  "glassInteractive" : true,
+  "glassTintStrength" : 0.85,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "liquid-gold",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 0.12,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.8235294117647058,
+    "g" : 0.9372549019607843,
+    "r" : 0.984313725490196
+  },
+  "material" : "liquidGlass",
+  "metalVariant" : "silver",
+  "name" : "Liquid Gold",
+  "specialKeyFill" : {
+    "a" : 0.06,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.6274509803921569,
+    "g" : 0.8235294117647058,
+    "r" : 0.9058823529411765
+  },
+  "threeDVariant" : "retro"
+}

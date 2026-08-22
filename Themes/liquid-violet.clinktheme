@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 1,
+    "g" : 0.4196078431372549,
+    "r" : 0.615686274509804
+  },
+  "background" : {
+    "a" : 0.3,
+    "b" : 0.1411764705882353,
+    "g" : 0.0392156862745098,
+    "r" : 0.08235294117647059
+  },
+  "glassInteractive" : true,
+  "glassTintStrength" : 0.8,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "liquid-violet",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 0.12,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.984313725490196,
+    "g" : 0.9137254901960784,
+    "r" : 0.9450980392156862
+  },
+  "material" : "liquidGlass",
+  "metalVariant" : "silver",
+  "name" : "Liquid Violet",
+  "specialKeyFill" : {
+    "a" : 0.06,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.9098039215686274,
+    "g" : 0.7137254901960784,
+    "r" : 0.788235294117647
+  },
+  "threeDVariant" : "retro"
+}

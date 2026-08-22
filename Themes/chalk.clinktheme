@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.3607843137254902,
+    "g" : 0.8392156862745098,
+    "r" : 0.9490196078431372
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.1411764705882353,
+    "g" : 0.16470588235294117,
+    "r" : 0.11372549019607843
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "chalk",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.19607843137254902,
+    "g" : 0.22745098039215686,
+    "r" : 0.16470588235294117
+  },
+  "keyFontDesign" : "chalkboard",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9333333333333333,
+    "g" : 0.9568627450980393,
+    "r" : 0.9490196078431372
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Chalk",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.1607843137254902,
+    "g" : 0.18823529411764706,
+    "r" : 0.13333333333333333
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.7686274509803922,
+    "g" : 0.8156862745098039,
+    "r" : 0.7490196078431373
+  },
+  "threeDVariant" : "retro"
+}

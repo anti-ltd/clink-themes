@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.2823529411764706,
+    "g" : 0.3843137254901961,
+    "r" : 0.9411764705882353
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.9490196078431372,
+    "g" : 0.9411764705882353,
+    "r" : 0.9411764705882353
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "studio",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "avenir",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.15294117647058825,
+    "g" : 0.13333333333333333,
+    "r" : 0.13333333333333333
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Studio",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.8941176470588236,
+    "g" : 0.8784313725490196,
+    "r" : 0.8784313725490196
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.15294117647058825,
+    "g" : 0.13333333333333333,
+    "r" : 0.13333333333333333
+  },
+  "threeDVariant" : "retro"
+}

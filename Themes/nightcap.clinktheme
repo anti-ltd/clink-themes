@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.9372549019607843,
+    "g" : 0.5529411764705883,
+    "r" : 0.3568627450980392
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.09411764705882353,
+    "g" : 0.07450980392156863,
+    "r" : 0.06666666666666667
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "nightcap",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.2196078431372549,
+    "g" : 0.1803921568627451,
+    "r" : 0.16470588235294117
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9568627450980393,
+    "g" : 0.9372549019607843,
+    "r" : 0.9294117647058824
+  },
+  "material" : "3d",
+  "metalVariant" : "silver",
+  "name" : "Nightcap",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.15294117647058825,
+    "g" : 0.12156862745098039,
+    "r" : 0.10980392156862745
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.7607843137254902,
+    "g" : 0.7058823529411765,
+    "r" : 0.6823529411764706
+  },
+  "threeDVariant" : "retro"
+}

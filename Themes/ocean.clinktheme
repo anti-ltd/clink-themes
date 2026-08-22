@@ -1,0 +1,110 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.8392156862745098,
+    "g" : 0.7568627450980392,
+    "r" : 0.15294117647058825
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.14901960784313725,
+    "g" : 0.10196078431372549,
+    "r" : 0.03137254901960784
+  },
+  "backgroundEffect" : {
+    "blend" : "glow",
+    "colorMode" : "accent",
+    "density" : 0.6,
+    "intensity" : 0.7,
+    "reactionStrength" : 1,
+    "reactive" : true,
+    "scale" : 1,
+    "speed" : 0.7,
+    "style" : "waves"
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "ocean",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.25098039215686274,
+    "g" : 0.1803921568627451,
+    "r" : 0.058823529411764705
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.984313725490196,
+    "g" : 0.9607843137254902,
+    "r" : 0.9019607843137255
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Ocean",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.19215686274509805,
+    "g" : 0.13333333333333333,
+    "r" : 0.0392156862745098
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.8392156862745098,
+    "g" : 0.7764705882352941,
+    "r" : 0.6235294117647059
+  },
+  "threeDVariant" : "retro"
+}

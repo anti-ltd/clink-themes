@@ -1,0 +1,20 @@
+name: Release themes
+
+on:
+  push:
+    branches: [main]
+    paths: ["Themes/**", "tools/build-manifest.py", ".github/workflows/release.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/build-manifest.py
+      - run: gh release delete latest --yes || true
+        env: { GH_TOKEN: "${{ github.token }}" }
+      - run: gh release create latest Themes/*.clinktheme manifest.json --title "Latest themes" --latest
+        env: { GH_TOKEN: "${{ github.token }}" }

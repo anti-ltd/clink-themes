@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.5254901960784314,
+    "g" : 0.7215686274509804,
+    "r" : 0.07058823529411765
+  },
+  "background" : {
+    "a" : 0.2,
+    "b" : 0.8862745098039215,
+    "g" : 0.9372549019607843,
+    "r" : 0.8392156862745098
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "liquid-mint",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 0.3,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.1411764705882353,
+    "g" : 0.2,
+    "r" : 0.0784313725490196
+  },
+  "material" : "liquidGlass",
+  "metalVariant" : "silver",
+  "name" : "Liquid Mint",
+  "specialKeyFill" : {
+    "a" : 0.05,
+    "b" : 0,
+    "g" : 0,
+    "r" : 0
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.1411764705882353,
+    "g" : 0.2,
+    "r" : 0.0784313725490196
+  },
+  "threeDVariant" : "retro"
+}

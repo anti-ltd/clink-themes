@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.20784313725490197,
+    "g" : 0.4196078431372549,
+    "r" : 1
+  },
+  "background" : {
+    "a" : 0.3,
+    "b" : 0.06274509803921569,
+    "g" : 0.0784313725490196,
+    "r" : 0.16470588235294117
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "liquid-ember",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 0.1,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9098039215686274,
+    "g" : 0.9411764705882353,
+    "r" : 1
+  },
+  "material" : "liquidGlass",
+  "metalVariant" : "silver",
+  "name" : "Liquid Ember",
+  "specialKeyFill" : {
+    "a" : 0.06,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.7803921568627451,
+    "g" : 0.8509803921568627,
+    "r" : 1
+  },
+  "threeDVariant" : "retro"
+}

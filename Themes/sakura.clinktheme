@@ -1,0 +1,110 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.49411764705882355,
+    "g" : 0.33725490196078434,
+    "r" : 0.9098039215686274
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.8901960784313725,
+    "g" : 0.8627450980392157,
+    "r" : 0.9647058823529412
+  },
+  "backgroundEffect" : {
+    "blend" : "glow",
+    "colorMode" : "accent",
+    "density" : 0.55,
+    "intensity" : 0.65,
+    "reactionStrength" : 1,
+    "reactive" : true,
+    "scale" : 1,
+    "speed" : 0.7,
+    "style" : "bokeh"
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "sakura",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.9607843137254902,
+    "g" : 0.9490196078431372,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.21176470588235294,
+    "g" : 0.1803921568627451,
+    "r" : 0.2901960784313726
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Sakura",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.7686274509803922,
+    "g" : 0.7137254901960784,
+    "r" : 0.9098039215686274
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.21176470588235294,
+    "g" : 0.1803921568627451,
+    "r" : 0.2901960784313726
+  },
+  "threeDVariant" : "retro"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "repo-nebula",
+  "name": "Nebula",
+  "material": "solid",
+  "background": { "r": 0.055, "g": 0.039, "b": 0.12, "a": 1 },
+  "keyFill": { "r": 0.13, "g": 0.09, "b": 0.24, "a": 1 },
+  "keyText": { "r": 0.95, "g": 0.91, "b": 1, "a": 1 },
+  "specialKeyFill": { "r": 0.2, "g": 0.13, "b": 0.34, "a": 1 },
+  "specialKeyText": { "r": 0.82, "g": 0.72, "b": 1, "a": 1 },
+  "accent": { "r": 0.67, "g": 0.38, "b": 1, "a": 1 },
+  "isDark": true
+}

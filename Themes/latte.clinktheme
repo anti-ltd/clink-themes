@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.3137254901960784,
+    "g" : 0.47843137254901963,
+    "r" : 0.6901960784313725
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.8666666666666667,
+    "g" : 0.9058823529411765,
+    "r" : 0.9372549019607843
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "latte",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.9607843137254902,
+    "g" : 0.984313725490196,
+    "r" : 1
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.1803921568627451,
+    "g" : 0.23137254901960785,
+    "r" : 0.2901960784313726
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Latte",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.7607843137254902,
+    "g" : 0.8235294117647058,
+    "r" : 0.8745098039215686
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.1803921568627451,
+    "g" : 0.23137254901960785,
+    "r" : 0.2901960784313726
+  },
+  "threeDVariant" : "retro"
+}

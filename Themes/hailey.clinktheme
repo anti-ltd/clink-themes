@@ -1,0 +1,134 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.26666666666666666,
+    "g" : 0.11764705882352941,
+    "r" : 1
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.03529411764705882,
+    "g" : 0.0196078431372549,
+    "r" : 0.0784313725490196
+  },
+  "backgroundEffect" : {
+    "blend" : "glow",
+    "colorMode" : "accent",
+    "density" : 0.6,
+    "intensity" : 0.85,
+    "reactionStrength" : 1,
+    "reactive" : true,
+    "scale" : 1,
+    "speed" : 0.85,
+    "style" : "lava"
+  },
+  "backgroundGradient" : {
+    "rotation" : 180,
+    "stops" : [
+      {
+        "color" : {
+          "a" : 1,
+          "b" : 0.07058823529411765,
+          "g" : 0.0392156862745098,
+          "r" : 0.16470588235294117
+        },
+        "position" : 0
+      },
+      {
+        "color" : {
+          "a" : 1,
+          "b" : 0.03529411764705882,
+          "g" : 0.01568627450980392,
+          "r" : 0.07058823529411765
+        },
+        "position" : 1
+      }
+    ],
+    "type" : "radial"
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "hailey",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.08235294117647059,
+    "g" : 0.043137254901960784,
+    "r" : 0.1803921568627451
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "medium",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9333333333333333,
+    "g" : 0.9137254901960784,
+    "r" : 1
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Hailey",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.06274509803921569,
+    "g" : 0.03137254901960784,
+    "r" : 0.12941176470588237
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.7529411764705882,
+    "g" : 0.7058823529411765,
+    "r" : 0.9490196078431372
+  },
+  "threeDVariant" : "retro"
+}

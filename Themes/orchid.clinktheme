@@ -1,0 +1,110 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.6352941176470588,
+    "g" : 0.37254901960784315,
+    "r" : 1
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.08627450980392157,
+    "g" : 0.0392156862745098,
+    "r" : 0.11764705882352941
+  },
+  "backgroundEffect" : {
+    "blend" : "glow",
+    "colorMode" : "accent",
+    "density" : 0.55,
+    "intensity" : 0.7,
+    "reactionStrength" : 1,
+    "reactive" : true,
+    "scale" : 1,
+    "speed" : 0.6,
+    "style" : "bokeh"
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "orchid",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.14901960784313725,
+    "g" : 0.07058823529411765,
+    "r" : 0.2196078431372549
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9450980392156862,
+    "g" : 0.9019607843137255,
+    "r" : 0.9882352941176471
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Orchid",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.10196078431372549,
+    "g" : 0.050980392156862744,
+    "r" : 0.15294117647058825
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.7764705882352941,
+    "g" : 0.6588235294117647,
+    "r" : 0.8784313725490196
+  },
+  "threeDVariant" : "retro"
+}

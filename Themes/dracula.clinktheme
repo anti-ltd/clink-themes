@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.4823529411764706,
+    "g" : 0.9803921568627451,
+    "r" : 0.3137254901960784
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.21176470588235294,
+    "g" : 0.16470588235294117,
+    "r" : 0.1568627450980392
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "dracula",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.3176470588235294,
+    "g" : 0.23921568627450981,
+    "r" : 0.22745098039215686
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9490196078431372,
+    "g" : 0.9725490196078431,
+    "r" : 0.9725490196078431
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Dracula",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.24313725490196078,
+    "g" : 0.18823529411764706,
+    "r" : 0.1803921568627451
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.9764705882352941,
+    "g" : 0.5764705882352941,
+    "r" : 0.7411764705882353
+  },
+  "threeDVariant" : "retro"
+}

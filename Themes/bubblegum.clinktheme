@@ -1,0 +1,110 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.6901960784313725,
+    "g" : 0.30980392156862746,
+    "r" : 1
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.9450980392156862,
+    "g" : 0.8941176470588236,
+    "r" : 0.9882352941176471
+  },
+  "backgroundEffect" : {
+    "blend" : "solid",
+    "colorMode" : "accent",
+    "density" : 0.55,
+    "intensity" : 0.8,
+    "reactionStrength" : 1,
+    "reactive" : true,
+    "scale" : 1,
+    "speed" : 0.9,
+    "style" : "confetti"
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "bubblegum",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "rounded",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.3058823529411765,
+    "g" : 0.12156862745098039,
+    "r" : 0.23921568627450981
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Bubblegum",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.8941176470588236,
+    "g" : 0.7764705882352941,
+    "r" : 0.9647058823529412
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.3058823529411765,
+    "g" : 0.12156862745098039,
+    "r" : 0.23921568627450981
+  },
+  "threeDVariant" : "retro"
+}

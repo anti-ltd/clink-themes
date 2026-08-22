@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.4196078431372549,
+    "g" : 0.5450980392156862,
+    "r" : 0.788235294117647
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.8784313725490196,
+    "g" : 0.8941176470588236,
+    "r" : 0.9529411764705882
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "rosegold",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.7450980392156863,
+    "g" : 0.7803921568627451,
+    "r" : 0.9058823529411765
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.1568627450980392,
+    "g" : 0.16470588235294117,
+    "r" : 0.22745098039215686
+  },
+  "material" : "metal",
+  "metalVariant" : "roseGold",
+  "name" : "Rose Gold",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.8,
+    "g" : 0.8274509803921568,
+    "r" : 0.9176470588235294
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.1568627450980392,
+    "g" : 0.16470588235294117,
+    "r" : 0.22745098039215686
+  },
+  "threeDVariant" : "retro"
+}

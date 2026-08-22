@@ -1,0 +1,110 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.35294117647058826,
+    "g" : 0.7647058823529411,
+    "r" : 0.9098039215686274
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.11764705882352941,
+    "g" : 0.058823529411764705,
+    "r" : 0.0392156862745098
+  },
+  "backgroundEffect" : {
+    "blend" : "glow",
+    "colorMode" : "accent",
+    "density" : 0.7,
+    "intensity" : 0.7,
+    "reactionStrength" : 1,
+    "reactive" : true,
+    "scale" : 1,
+    "speed" : 0.6,
+    "style" : "starfield"
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "nocturne",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.22745098039215686,
+    "g" : 0.12549019607843137,
+    "r" : 0.08627450980392157
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.8941176470588236,
+    "g" : 0.9411764705882353,
+    "r" : 0.9529411764705882
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Nocturne",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.18823529411764706,
+    "g" : 0.09411764705882353,
+    "r" : 0.06274509803921569
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.5490196078431373,
+    "g" : 0.7254901960784313,
+    "r" : 0.7843137254901961
+  },
+  "threeDVariant" : "retro"
+}

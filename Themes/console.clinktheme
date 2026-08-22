@@ -1,0 +1,99 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.19607843137254902,
+    "g" : 0.49019607843137253,
+    "r" : 0.1803921568627451
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.8941176470588236,
+    "g" : 0.9137254901960784,
+    "r" : 0.9058823529411765
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "console",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 1,
+    "g" : 1,
+    "r" : 1
+  },
+  "keyFontDesign" : "monospaced",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.10980392156862745,
+    "g" : 0.1411764705882353,
+    "r" : 0.11764705882352941
+  },
+  "material" : "solid",
+  "metalVariant" : "silver",
+  "name" : "Console",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.796078431372549,
+    "g" : 0.8392156862745098,
+    "r" : 0.8235294117647058
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.10980392156862745,
+    "g" : 0.1411764705882353,
+    "r" : 0.11764705882352941
+  },
+  "threeDVariant" : "retro"
+}
