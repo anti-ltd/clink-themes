@@ -15,6 +15,7 @@ for path in sorted((root / "Themes").glob("*.clinktheme")):
         "id": path.stem,
         "name": theme["name"],
         "version": "latest",
+        "preview": theme,
         "asset": {
             "path": path.name,
             "url": f"https://github.com/{repository}/releases/download/latest/{path.name}",

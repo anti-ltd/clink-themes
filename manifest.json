@@ -1,0 +1,6069 @@
+{
+  "version": "latest",
+  "themes": [
+    {
+      "id": "amethyst",
+      "name": "Amethyst",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 1,
+          "g": 0.4196078431372549,
+          "r": 0.615686274509804
+        },
+        "background": {
+          "a": 1,
+          "b": 0.12549019607843137,
+          "g": 0.0392156862745098,
+          "r": 0.0784313725490196
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.6,
+          "intensity": 0.75,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "speed": 0.7,
+          "style": "nebula"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "amethyst",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.25098039215686274,
+          "g": 0.08627450980392157,
+          "r": 0.15294117647058825
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.984313725490196,
+          "g": 0.9137254901960784,
+          "r": 0.9450980392156862
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Amethyst",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.18823529411764706,
+          "g": 0.06274509803921569,
+          "r": 0.10980392156862745
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.8784313725490196,
+          "g": 0.6901960784313725,
+          "r": 0.7686274509803922
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "amethyst.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/amethyst.clinktheme",
+        "sha256": "8e7eaa06a95992fe27cd4e89c374306027ff893da09a5ccac3fffb4066cc8f06",
+        "byteCount": 1968
+      }
+    },
+    {
+      "id": "apricot",
+      "name": "Apricot",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.17254901960784313,
+          "g": 0.47843137254901963,
+          "r": 0.9098039215686274
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8470588235294118,
+          "g": 0.9098039215686274,
+          "r": 0.984313725490196
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "apricot",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9686274509803922,
+          "g": 0.984313725490196,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.09019607843137255,
+          "g": 0.1450980392156863,
+          "r": 0.22745098039215686
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Apricot",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7333333333333333,
+          "g": 0.8274509803921568,
+          "r": 0.9529411764705882
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.09019607843137255,
+          "g": 0.1450980392156863,
+          "r": 0.22745098039215686
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "apricot.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/apricot.clinktheme",
+        "sha256": "60a44b7c58035348b5faca8c6b39c89b7dc4c91890324523bcbb42773dbba68f",
+        "byteCount": 1731
+      }
+    },
+    {
+      "id": "bauhaus",
+      "name": "Bauhaus",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.8784313725490196,
+          "g": 0.35294117647058826,
+          "r": 0.11764705882352941
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9176470588235294,
+          "g": 0.9294117647058824,
+          "r": 0.9294117647058824
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "bauhaus",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "futura",
+        "keyFontWeight": "medium",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.11764705882352941,
+          "g": 0.10588235294117647,
+          "r": 0.10588235294117647
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Bauhaus",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8431372549019608,
+          "g": 0.8627450980392157,
+          "r": 0.8627450980392157
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.11764705882352941,
+          "g": 0.10588235294117647,
+          "r": 0.10588235294117647
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "bauhaus.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/bauhaus.clinktheme",
+        "sha256": "82bd2a71050e556e5a7bc73b30a6fbdb5fbeb4f0133fed1f14c89dd597184154",
+        "byteCount": 1699
+      }
+    },
+    {
+      "id": "bronze",
+      "name": "Bronze",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.24313725490196078,
+          "g": 0.5411764705882353,
+          "r": 0.788235294117647
+        },
+        "background": {
+          "a": 1,
+          "b": 0.07058823529411765,
+          "g": 0.09019607843137255,
+          "r": 0.10980392156862745
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "bronze",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.19607843137254902,
+          "g": 0.27450980392156865,
+          "r": 0.35294117647058826
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.08235294117647059,
+          "g": 0.12549019607843137,
+          "r": 0.16470588235294117
+        },
+        "material": "metal",
+        "metalVariant": "bronze",
+        "name": "Bronze",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.08235294117647059,
+          "g": 0.11372549019607843,
+          "r": 0.1411764705882353
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.6274509803921569,
+          "g": 0.7647058823529411,
+          "r": 0.8470588235294118
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "bronze.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/bronze.clinktheme",
+        "sha256": "d151331c62fe074e23808269ac13ae34e580a3f3f47bb3d09ba84f240f6b6d7b",
+        "byteCount": 1752
+      }
+    },
+    {
+      "id": "bubblegum",
+      "name": "Bubblegum",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6901960784313725,
+          "g": 0.30980392156862746,
+          "r": 1
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9450980392156862,
+          "g": 0.8941176470588236,
+          "r": 0.9882352941176471
+        },
+        "backgroundEffect": {
+          "blend": "solid",
+          "colorMode": "accent",
+          "density": 0.55,
+          "intensity": 0.8,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "speed": 0.9,
+          "style": "confetti"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "bubblegum",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.3058823529411765,
+          "g": 0.12156862745098039,
+          "r": 0.23921568627450981
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Bubblegum",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8941176470588236,
+          "g": 0.7764705882352941,
+          "r": 0.9647058823529412
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.3058823529411765,
+          "g": 0.12156862745098039,
+          "r": 0.23921568627450981
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "bubblegum.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/bubblegum.clinktheme",
+        "sha256": "f8ced439f78649bb271de03543cf9487e183ad54cf9aecbc6dba018eb03d30b0",
+        "byteCount": 1923
+      }
+    },
+    {
+      "id": "chalk",
+      "name": "Chalk",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.3607843137254902,
+          "g": 0.8392156862745098,
+          "r": 0.9490196078431372
+        },
+        "background": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.16470588235294117,
+          "r": 0.11372549019607843
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "chalk",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.19607843137254902,
+          "g": 0.22745098039215686,
+          "r": 0.16470588235294117
+        },
+        "keyFontDesign": "chalkboard",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9333333333333333,
+          "g": 0.9568627450980393,
+          "r": 0.9490196078431372
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Chalk",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.1607843137254902,
+          "g": 0.18823529411764706,
+          "r": 0.13333333333333333
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7686274509803922,
+          "g": 0.8156862745098039,
+          "r": 0.7490196078431373
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "chalk.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/chalk.clinktheme",
+        "sha256": "38a28a7ac39557dd84860b20b28e6400e54737c2e3e5ea00cea4c47967d92bd2",
+        "byteCount": 1749
+      }
+    },
+    {
+      "id": "cherry",
+      "name": "Cherry",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.16862745098039217,
+          "g": 0.2235294117647059,
+          "r": 0.7529411764705882
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8666666666666667,
+          "g": 0.8901960784313725,
+          "r": 0.9058823529411765
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "cherry",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9215686274509803,
+          "g": 0.9490196078431372,
+          "r": 0.9647058823529412
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.12549019607843137,
+          "g": 0.1411764705882353,
+          "r": 0.16470588235294117
+        },
+        "material": "3d",
+        "metalVariant": "silver",
+        "name": "Cherry",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7607843137254902,
+          "g": 0.8117647058823529,
+          "r": 0.8470588235294118
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.13333333333333333,
+          "g": 0.16470588235294117,
+          "r": 0.47843137254901963
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "cherry.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/cherry.clinktheme",
+        "sha256": "231de64ac0397385027756f77f5290d2916e03cb2680cd8d085152ec99b47f82",
+        "byteCount": 1745
+      }
+    },
+    {
+      "id": "chloe",
+      "name": "Chlo\u00e9",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6039215686274509,
+          "g": 0.4117647058823529,
+          "r": 0.8313725490196079
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9019607843137255,
+          "g": 0.8627450980392157,
+          "r": 0.9647058823529412
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.5,
+          "intensity": 0.55,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1.1,
+          "speed": 0.6,
+          "style": "bokeh"
+        },
+        "backgroundGradient": {
+          "rotation": 160,
+          "stops": [
+            {
+              "color": {
+                "a": 1,
+                "b": 0.9254901960784314,
+                "g": 0.8941176470588236,
+                "r": 0.9764705882352941
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "a": 1,
+                "b": 0.8705882352941177,
+                "g": 0.8,
+                "r": 0.9411764705882353
+              },
+              "position": 1
+            }
+          ],
+          "type": "linear"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "chloe",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9882352941176471,
+          "g": 0.984313725490196,
+          "r": 1
+        },
+        "keyFontDesign": "georgia",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.24313725490196078,
+          "g": 0.16470588235294117,
+          "r": 0.35294117647058826
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Chlo\u00e9",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8392156862745098,
+          "g": 0.7764705882352941,
+          "r": 0.9333333333333333
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.24313725490196078,
+          "g": 0.16470588235294117,
+          "r": 0.35294117647058826
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "chloe.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/chloe.clinktheme",
+        "sha256": "0abfa5c00c8cb55cd9f74aa0cb46b2643276ada856d6ff600c554202fad67749",
+        "byteCount": 2442
+      }
+    },
+    {
+      "id": "citrus",
+      "name": "Citrus",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.5411764705882353,
+          "r": 0.9411764705882353
+        },
+        "background": {
+          "a": 1,
+          "b": 0.6901960784313725,
+          "g": 0.9058823529411765,
+          "r": 0.9686274509803922
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "citrus",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.8,
+          "g": 0.9568627450980393,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.06274509803921569,
+          "g": 0.26666666666666666,
+          "r": 0.35294117647058826
+        },
+        "material": "3d",
+        "metalVariant": "silver",
+        "name": "Citrus",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.49411764705882355,
+          "g": 0.807843137254902,
+          "r": 0.9137254901960784
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.06274509803921569,
+          "g": 0.26666666666666666,
+          "r": 0.35294117647058826
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "citrus.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/citrus.clinktheme",
+        "sha256": "39a22e8262161b62325fc5b8fe1edeb83ea8e4bdd1c43d4929084c8de76b0100",
+        "byteCount": 1713
+      }
+    },
+    {
+      "id": "console",
+      "name": "Console",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.19607843137254902,
+          "g": 0.49019607843137253,
+          "r": 0.1803921568627451
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8941176470588236,
+          "g": 0.9137254901960784,
+          "r": 0.9058823529411765
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "console",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "monospaced",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.10980392156862745,
+          "g": 0.1411764705882353,
+          "r": 0.11764705882352941
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Console",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.796078431372549,
+          "g": 0.8392156862745098,
+          "r": 0.8235294117647058
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.10980392156862745,
+          "g": 0.1411764705882353,
+          "r": 0.11764705882352941
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "console.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/console.clinktheme",
+        "sha256": "4de6960253cc6dc130e5f38f43079cf22074f7385ab2715b0c6c9e2dd46d8b7d",
+        "byteCount": 1701
+      }
+    },
+    {
+      "id": "copper",
+      "name": "Copper",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.27058823529411763,
+          "g": 0.47843137254901963,
+          "r": 0.8470588235294118
+        },
+        "background": {
+          "a": 1,
+          "b": 0.050980392156862744,
+          "g": 0.06666666666666667,
+          "r": 0.09411764705882353
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "copper",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.14901960784313725,
+          "g": 0.2549019607843137,
+          "r": 0.4196078431372549
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.07058823529411765,
+          "g": 0.10588235294117647,
+          "r": 0.16470588235294117
+        },
+        "material": "metal",
+        "metalVariant": "copper",
+        "name": "Copper",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.06274509803921569,
+          "g": 0.08627450980392157,
+          "r": 0.12549019607843137
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.6,
+          "g": 0.7254901960784313,
+          "r": 0.8784313725490196
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "copper.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/copper.clinktheme",
+        "sha256": "72295ac37df415d3040c5f006d705b112a4bd240ca41eb91b67e7e9c89d45c1a",
+        "byteCount": 1739
+      }
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.4823529411764706,
+          "g": 0.9803921568627451,
+          "r": 0.3137254901960784
+        },
+        "background": {
+          "a": 1,
+          "b": 0.21176470588235294,
+          "g": 0.16470588235294117,
+          "r": 0.1568627450980392
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "dracula",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.3176470588235294,
+          "g": 0.23921568627450981,
+          "r": 0.22745098039215686
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9490196078431372,
+          "g": 0.9725490196078431,
+          "r": 0.9725490196078431
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Dracula",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.24313725490196078,
+          "g": 0.18823529411764706,
+          "r": 0.1803921568627451
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.9764705882352941,
+          "g": 0.5764705882352941,
+          "r": 0.7411764705882353
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "dracula.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/dracula.clinktheme",
+        "sha256": "b313f08ae8b40b520e3915426d062cdbe10e653f4143569c9a3b3991cd2f5068",
+        "byteCount": 1749
+      }
+    },
+    {
+      "id": "ember",
+      "name": "Ember",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.23529411764705882,
+          "g": 0.5176470588235295,
+          "r": 0.9490196078431372
+        },
+        "background": {
+          "a": 1,
+          "b": 0.047058823529411764,
+          "g": 0.07058823529411765,
+          "r": 0.10196078431372549
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.65,
+          "intensity": 0.8,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "speed": 0.9,
+          "style": "embers"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "ember",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.08627450980392157,
+          "g": 0.12549019607843137,
+          "r": 0.1803921568627451
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.8862745098039215,
+          "g": 0.9372549019607843,
+          "r": 0.9882352941176471
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Ember",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.06666666666666667,
+          "g": 0.09411764705882353,
+          "r": 0.1411764705882353
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.611764705882353,
+          "g": 0.7176470588235294,
+          "r": 0.8392156862745098
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "ember.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/ember.clinktheme",
+        "sha256": "5d8ee07205d25b590e827e3e3fe08cc815d606a218a2962da74182e2cc96c45b",
+        "byteCount": 1982
+      }
+    },
+    {
+      "id": "engraved",
+      "name": "Engraved",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.2980392156862745,
+          "g": 0.6431372549019608,
+          "r": 0.788235294117647
+        },
+        "background": {
+          "a": 1,
+          "b": 0.10196078431372549,
+          "g": 0.08627450980392157,
+          "r": 0.08235294117647059
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "engraved",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.15294117647058825,
+          "r": 0.1450980392156863
+        },
+        "keyFontDesign": "copperplate",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.8705882352941177,
+          "g": 0.9137254901960784,
+          "r": 0.9294117647058824
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Engraved",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.13725490196078433,
+          "g": 0.11764705882352941,
+          "r": 0.10980392156862745
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.596078431372549,
+          "g": 0.6823529411764706,
+          "r": 0.7137254901960784
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "engraved.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/engraved.clinktheme",
+        "sha256": "3acd3ce8c573840a21628de9e9c6183c4717ecfcdb2e23776845f27231c12809",
+        "byteCount": 1754
+      }
+    },
+    {
+      "id": "folio",
+      "name": "Folio",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.3568627450980392,
+          "g": 0.6039215686274509,
+          "r": 0.7803921568627451
+        },
+        "background": {
+          "a": 1,
+          "b": 0.07058823529411765,
+          "g": 0.09019607843137255,
+          "r": 0.10588235294117647
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "folio",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.11372549019607843,
+          "g": 0.1411764705882353,
+          "r": 0.16470588235294117
+        },
+        "keyFontDesign": "georgia",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.8470588235294118,
+          "g": 0.9058823529411765,
+          "r": 0.9372549019607843
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Folio",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.08235294117647059,
+          "g": 0.10588235294117647,
+          "r": 0.12941176470588237
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.6235294117647059,
+          "g": 0.7176470588235294,
+          "r": 0.7725490196078432
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "folio.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/folio.clinktheme",
+        "sha256": "44eecd72c4ededebb6c712f075e39ddf5d950735ca31b2a4a0d8e9ff38eb0079",
+        "byteCount": 1747
+      }
+    },
+    {
+      "id": "forest",
+      "name": "Forest",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.4980392156862745,
+          "g": 0.7490196078431373,
+          "r": 0.24705882352941178
+        },
+        "background": {
+          "a": 1,
+          "b": 0.07058823529411765,
+          "g": 0.10196078431372549,
+          "r": 0.047058823529411764
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.55,
+          "intensity": 0.7,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "speed": 0.6,
+          "style": "fireflies"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "forest",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.14901960784313725,
+          "g": 0.2,
+          "r": 0.08627450980392157
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9254901960784314,
+          "g": 0.9607843137254902,
+          "r": 0.9058823529411765
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Forest",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.09411764705882353,
+          "g": 0.1411764705882353,
+          "r": 0.06274509803921569
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7058823529411765,
+          "g": 0.796078431372549,
+          "r": 0.6549019607843137
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "forest.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/forest.clinktheme",
+        "sha256": "5416d28a3416f2506a4fc53e3e595171222ebf233d09e63c02627cc3e7547515",
+        "byteCount": 1972
+      }
+    },
+    {
+      "id": "gunmetal",
+      "name": "Gunmetal",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6509803921568628,
+          "g": 0.5843137254901961,
+          "r": 0.5333333333333333
+        },
+        "background": {
+          "a": 1,
+          "b": 0.09019607843137255,
+          "g": 0.0784313725490196,
+          "r": 0.07058823529411765
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "gunmetal",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.21568627450980393,
+          "g": 0.18823529411764706,
+          "r": 0.17254901960784313
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9333333333333333,
+          "g": 0.9137254901960784,
+          "r": 0.9019607843137255
+        },
+        "material": "metal",
+        "metalVariant": "gunmetal",
+        "name": "Gunmetal",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.12156862745098039,
+          "r": 0.10980392156862745
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7294117647058823,
+          "g": 0.6901960784313725,
+          "r": 0.6666666666666666
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "gunmetal.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/gunmetal.clinktheme",
+        "sha256": "ea1f173a4942f3a11036239b97746fd3965a7aca88a5894be5844fc4442d50ea",
+        "byteCount": 1754
+      }
+    },
+    {
+      "id": "hailey",
+      "name": "Hailey",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.26666666666666666,
+          "g": 0.11764705882352941,
+          "r": 1
+        },
+        "background": {
+          "a": 1,
+          "b": 0.03529411764705882,
+          "g": 0.0196078431372549,
+          "r": 0.0784313725490196
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.6,
+          "intensity": 0.85,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "speed": 0.85,
+          "style": "lava"
+        },
+        "backgroundGradient": {
+          "rotation": 180,
+          "stops": [
+            {
+              "color": {
+                "a": 1,
+                "b": 0.07058823529411765,
+                "g": 0.0392156862745098,
+                "r": 0.16470588235294117
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "a": 1,
+                "b": 0.03529411764705882,
+                "g": 0.01568627450980392,
+                "r": 0.07058823529411765
+              },
+              "position": 1
+            }
+          ],
+          "type": "radial"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "hailey",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.08235294117647059,
+          "g": 0.043137254901960784,
+          "r": 0.1803921568627451
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "medium",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9333333333333333,
+          "g": 0.9137254901960784,
+          "r": 1
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Hailey",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.06274509803921569,
+          "g": 0.03137254901960784,
+          "r": 0.12941176470588237
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7529411764705882,
+          "g": 0.7058823529411765,
+          "r": 0.9490196078431372
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "hailey.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/hailey.clinktheme",
+        "sha256": "65cd0b9038ac39c5fcb51ea3e5bc05a83d29892e6ced5cacfb40cf74260ce7ed",
+        "byteCount": 2446
+      }
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.11764705882352941,
+          "g": 0.6352941176470588,
+          "r": 0.8784313725490196
+        },
+        "background": {
+          "a": 1,
+          "b": 0.807843137254902,
+          "g": 0.9411764705882353,
+          "r": 0.984313725490196
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "honey",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9529411764705882,
+          "g": 0.9921568627450981,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.06274509803921569,
+          "g": 0.1803921568627451,
+          "r": 0.22745098039215686
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Honey",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.6588235294117647,
+          "g": 0.8784313725490196,
+          "r": 0.9411764705882353
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.06274509803921569,
+          "g": 0.1803921568627451,
+          "r": 0.22745098039215686
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "honey.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/honey.clinktheme",
+        "sha256": "3a4e30b405c80411d4d97dd899753b20113492fe8ecf0765b24988d0726a98a1",
+        "byteCount": 1726
+      }
+    },
+    {
+      "id": "jade",
+      "name": "Jade",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6509803921568628,
+          "g": 0.8392156862745098,
+          "r": 0.12156862745098039
+        },
+        "background": {
+          "a": 1,
+          "b": 0.07450980392156863,
+          "g": 0.08627450980392157,
+          "r": 0.023529411764705882
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "jade",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.14901960784313725,
+          "g": 0.17254901960784313,
+          "r": 0.054901960784313725
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9411764705882353,
+          "g": 0.9686274509803922,
+          "r": 0.8901960784313725
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Jade",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.10980392156862745,
+          "g": 0.12941176470588237,
+          "r": 0.0392156862745098
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7607843137254902,
+          "g": 0.8117647058823529,
+          "r": 0.6235294117647059
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "jade.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/jade.clinktheme",
+        "sha256": "37dd4a19a37e7100628f65fc90e04d448374d59aef4a8031b8e21280fd5617a2",
+        "byteCount": 1748
+      }
+    },
+    {
+      "id": "keycap",
+      "name": "Keycap",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.9411764705882353,
+          "g": 0.48627450980392156,
+          "r": 0.5411764705882353
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9411764705882353,
+          "g": 0.7843137254901961,
+          "r": 0.7803921568627451
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "keycap",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9882352941176471,
+          "g": 0.9411764705882353,
+          "r": 0.9490196078431372
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9254901960784314,
+          "g": 0.4823529411764706,
+          "r": 0.6235294117647059
+        },
+        "material": "3d",
+        "metalVariant": "silver",
+        "name": "Keycap",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.9019607843137255,
+          "g": 0.6235294117647059,
+          "r": 0.6078431372549019
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.6588235294117647,
+          "g": 0.30196078431372547,
+          "r": 0.29411764705882354
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "keycap.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/keycap.clinktheme",
+        "sha256": "6cfcbf40d78dda3fa6925cbf35921501bd8cff0a5f4a818cdd8272a68ba5b96d",
+        "byteCount": 1742
+      }
+    },
+    {
+      "id": "latte",
+      "name": "Latte",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.3137254901960784,
+          "g": 0.47843137254901963,
+          "r": 0.6901960784313725
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8666666666666667,
+          "g": 0.9058823529411765,
+          "r": 0.9372549019607843
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "latte",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9607843137254902,
+          "g": 0.984313725490196,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.23137254901960785,
+          "r": 0.2901960784313726
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Latte",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7607843137254902,
+          "g": 0.8235294117647058,
+          "r": 0.8745098039215686
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.23137254901960785,
+          "r": 0.2901960784313726
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "latte.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/latte.clinktheme",
+        "sha256": "21d520579b01d4326d04afe7b4678f73cd178dc821fcfe7533dcd134f9c8c279",
+        "byteCount": 1725
+      }
+    },
+    {
+      "id": "lilac",
+      "name": "Lilac",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.9411764705882353,
+          "g": 0.3607843137254902,
+          "r": 0.5411764705882353
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9686274509803922,
+          "g": 0.8901960784313725,
+          "r": 0.9215686274509803
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "lilac",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.25098039215686274,
+          "g": 0.12156862745098039,
+          "r": 0.17254901960784313
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Lilac",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.9333333333333333,
+          "g": 0.788235294117647,
+          "r": 0.8470588235294118
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.25098039215686274,
+          "g": 0.12156862745098039,
+          "r": 0.17254901960784313
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "lilac.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/lilac.clinktheme",
+        "sha256": "6af21ddaa95b2fbb11832c313227092080658e77be9a3f03c4d1e6626837a74b",
+        "byteCount": 1694
+      }
+    },
+    {
+      "id": "liquid-aqua",
+      "name": "Liquid Aqua",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.8,
+          "g": 0.7098039215686275,
+          "r": 0.09411764705882353
+        },
+        "background": {
+          "a": 0.18,
+          "b": 0.9607843137254902,
+          "g": 0.9411764705882353,
+          "r": 0.8470588235294118
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 0.6,
+        "glassVariant": "clear",
+        "groupPaint": [],
+        "id": "liquid-aqua",
+        "isDark": false,
+        "keyFill": {
+          "a": 0.2,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.23137254901960785,
+          "g": 0.19607843137254902,
+          "r": 0.054901960784313725
+        },
+        "material": "liquidGlass",
+        "metalVariant": "silver",
+        "name": "Liquid Aqua",
+        "specialKeyFill": {
+          "a": 0.05,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.23137254901960785,
+          "g": 0.19607843137254902,
+          "r": 0.054901960784313725
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "liquid-aqua.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/liquid-aqua.clinktheme",
+        "sha256": "91646e2f6766c373ad684780939ae55d0a47f6d241e87895de56f07384543f99",
+        "byteCount": 1658
+      }
+    },
+    {
+      "id": "liquid-ember",
+      "name": "Liquid Ember",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.20784313725490197,
+          "g": 0.4196078431372549,
+          "r": 1
+        },
+        "background": {
+          "a": 0.3,
+          "b": 0.06274509803921569,
+          "g": 0.0784313725490196,
+          "r": 0.16470588235294117
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "liquid-ember",
+        "isDark": true,
+        "keyFill": {
+          "a": 0.1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9098039215686274,
+          "g": 0.9411764705882353,
+          "r": 1
+        },
+        "material": "liquidGlass",
+        "metalVariant": "silver",
+        "name": "Liquid Ember",
+        "specialKeyFill": {
+          "a": 0.06,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7803921568627451,
+          "g": 0.8509803921568627,
+          "r": 1
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "liquid-ember.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/liquid-ember.clinktheme",
+        "sha256": "3a2782bcde2cf54fcdf75d80487f1971910881d47e9ef5c2c84fcb28309d4951",
+        "byteCount": 1616
+      }
+    },
+    {
+      "id": "liquid-gold",
+      "name": "Liquid Gold",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.35294117647058826,
+          "g": 0.7647058823529411,
+          "r": 0.9098039215686274
+        },
+        "background": {
+          "a": 0.3,
+          "b": 0.03137254901960784,
+          "g": 0.0784313725490196,
+          "r": 0.10196078431372549
+        },
+        "glassInteractive": true,
+        "glassTintStrength": 0.85,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "liquid-gold",
+        "isDark": true,
+        "keyFill": {
+          "a": 0.12,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.8235294117647058,
+          "g": 0.9372549019607843,
+          "r": 0.984313725490196
+        },
+        "material": "liquidGlass",
+        "metalVariant": "silver",
+        "name": "Liquid Gold",
+        "specialKeyFill": {
+          "a": 0.06,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.6274509803921569,
+          "g": 0.8235294117647058,
+          "r": 0.9058823529411765
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "liquid-gold.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/liquid-gold.clinktheme",
+        "sha256": "52a436a404ce7eefea46a855f1d54bcc81f56be780d7d374f45b488847e8d16c",
+        "byteCount": 1667
+      }
+    },
+    {
+      "id": "liquid-light",
+      "name": "Liquid Light",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 1,
+          "g": 0.47843137254901963,
+          "r": 0
+        },
+        "background": {
+          "a": 0.22,
+          "b": 0.9686274509803922,
+          "g": 0.9607843137254902,
+          "r": 0.9607843137254902
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "liquid-light",
+        "isDark": false,
+        "keyFill": {
+          "a": 0.32,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.11764705882352941,
+          "g": 0.10980392156862745,
+          "r": 0.10980392156862745
+        },
+        "material": "liquidGlass",
+        "metalVariant": "silver",
+        "name": "Liquid Light",
+        "specialKeyFill": {
+          "a": 0.06,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.11764705882352941,
+          "g": 0.10980392156862745,
+          "r": 0.10980392156862745
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "liquid-light.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/liquid-light.clinktheme",
+        "sha256": "07d646007ee0488ca69dcce3e5016a9ac370c557ea5824b6892de40774bcaccb",
+        "byteCount": 1640
+      }
+    },
+    {
+      "id": "liquid-mint",
+      "name": "Liquid Mint",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.5254901960784314,
+          "g": 0.7215686274509804,
+          "r": 0.07058823529411765
+        },
+        "background": {
+          "a": 0.2,
+          "b": 0.8862745098039215,
+          "g": 0.9372549019607843,
+          "r": 0.8392156862745098
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "liquid-mint",
+        "isDark": false,
+        "keyFill": {
+          "a": 0.3,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.2,
+          "r": 0.0784313725490196
+        },
+        "material": "liquidGlass",
+        "metalVariant": "silver",
+        "name": "Liquid Mint",
+        "specialKeyFill": {
+          "a": 0.05,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.2,
+          "r": 0.0784313725490196
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "liquid-mint.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/liquid-mint.clinktheme",
+        "sha256": "69c4cd3a174edb831403ff72601eee63fb1d3cf0d259988e5447811ca59961e7",
+        "byteCount": 1634
+      }
+    },
+    {
+      "id": "liquid-noir",
+      "name": "Liquid Noir",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.7450980392156863,
+          "g": 0.7058823529411765,
+          "r": 0.6901960784313725
+        },
+        "background": {
+          "a": 0.24,
+          "b": 0.054901960784313725,
+          "g": 0.047058823529411764,
+          "r": 0.047058823529411764
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 0.5,
+        "glassVariant": "clear",
+        "groupPaint": [],
+        "id": "liquid-noir",
+        "isDark": true,
+        "keyFill": {
+          "a": 0.08,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "material": "liquidGlass",
+        "metalVariant": "silver",
+        "name": "Liquid Noir",
+        "specialKeyFill": {
+          "a": 0.05,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.9176470588235294,
+          "g": 0.9019607843137255,
+          "r": 0.9019607843137255
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "liquid-noir.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/liquid-noir.clinktheme",
+        "sha256": "7f8a6afa68b25fea711eaa7b75e4ec55b6074e553e5fbb7276a134304824b83a",
+        "byteCount": 1619
+      }
+    },
+    {
+      "id": "liquid-rose",
+      "name": "Liquid Rose",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6039215686274509,
+          "g": 0.4,
+          "r": 0.8784313725490196
+        },
+        "background": {
+          "a": 0.22,
+          "b": 0.9019607843137255,
+          "g": 0.8627450980392157,
+          "r": 0.9647058823529412
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "liquid-rose",
+        "isDark": false,
+        "keyFill": {
+          "a": 0.3,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.12549019607843137,
+          "r": 0.25098039215686274
+        },
+        "material": "liquidGlass",
+        "metalVariant": "silver",
+        "name": "Liquid Rose",
+        "specialKeyFill": {
+          "a": 0.05,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.12549019607843137,
+          "r": 0.25098039215686274
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "liquid-rose.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/liquid-rose.clinktheme",
+        "sha256": "a49a03d9bc59fbfa5e303c10be057a19acc3c64022de796b79ea7f1b5b4012c6",
+        "byteCount": 1653
+      }
+    },
+    {
+      "id": "liquid-violet",
+      "name": "Liquid Violet",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 1,
+          "g": 0.4196078431372549,
+          "r": 0.615686274509804
+        },
+        "background": {
+          "a": 0.3,
+          "b": 0.1411764705882353,
+          "g": 0.0392156862745098,
+          "r": 0.08235294117647059
+        },
+        "glassInteractive": true,
+        "glassTintStrength": 0.8,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "liquid-violet",
+        "isDark": true,
+        "keyFill": {
+          "a": 0.12,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.984313725490196,
+          "g": 0.9137254901960784,
+          "r": 0.9450980392156862
+        },
+        "material": "liquidGlass",
+        "metalVariant": "silver",
+        "name": "Liquid Violet",
+        "specialKeyFill": {
+          "a": 0.06,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.9098039215686274,
+          "g": 0.7137254901960784,
+          "r": 0.788235294117647
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "liquid-violet.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/liquid-violet.clinktheme",
+        "sha256": "f8af7957e115440df5fae8e0fd4b6fd77ed6d574c0e2ee4ce9c9f18ff09dd50f",
+        "byteCount": 1649
+      }
+    },
+    {
+      "id": "manuscript",
+      "name": "Manuscript",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.22745098039215686,
+          "g": 0.3254901960784314,
+          "r": 0.6901960784313725
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8352941176470589,
+          "g": 0.9019607843137255,
+          "r": 0.9372549019607843
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "manuscript",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9137254901960784,
+          "g": 0.9607843137254902,
+          "r": 0.984313725490196
+        },
+        "keyFontDesign": "typewriter",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.10980392156862745,
+          "g": 0.1607843137254902,
+          "r": 0.2
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Manuscript",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7333333333333333,
+          "g": 0.8274509803921568,
+          "r": 0.8784313725490196
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.10980392156862745,
+          "g": 0.1607843137254902,
+          "r": 0.2
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "manuscript.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/manuscript.clinktheme",
+        "sha256": "fa195a9f03436ddbd6214a3b00e8c65cfaa717c32d6d41c1b37f23bcec972e10",
+        "byteCount": 1725
+      }
+    },
+    {
+      "id": "matrix",
+      "name": "Matrix",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.47843137254901963,
+          "g": 1,
+          "r": 0.2235294117647059
+        },
+        "background": {
+          "a": 1,
+          "b": 0.0196078431372549,
+          "g": 0.0392156862745098,
+          "r": 0.011764705882352941
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.7,
+          "intensity": 0.7,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "speed": 1,
+          "style": "rain"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "matrix",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.058823529411764705,
+          "g": 0.10196078431372549,
+          "r": 0.043137254901960784
+        },
+        "keyFontDesign": "monospaced",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.5843137254901961,
+          "g": 1,
+          "r": 0.4196078431372549
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Matrix",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.03137254901960784,
+          "g": 0.07058823529411765,
+          "r": 0.03137254901960784
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.41568627450980394,
+          "g": 0.7490196078431373,
+          "r": 0.24705882352941178
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "matrix.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/matrix.clinktheme",
+        "sha256": "4057d29c179b27d321cf634994ac383f0b81bdfd9176fa73e4162bcc7055c323",
+        "byteCount": 1953
+      }
+    },
+    {
+      "id": "meadow",
+      "name": "Meadow",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.3568627450980392,
+          "g": 0.6196078431372549,
+          "r": 0.1843137254901961
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8705882352941177,
+          "g": 0.9411764705882353,
+          "r": 0.8745098039215686
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "meadow",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.20784313725490197,
+          "r": 0.10588235294117647
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Meadow",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7607843137254902,
+          "g": 0.8862745098039215,
+          "r": 0.7686274509803922
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.20784313725490197,
+          "r": 0.10588235294117647
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "meadow.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/meadow.clinktheme",
+        "sha256": "be34b74f953839601e62f66fcd11dd76f3128da26507eb15f3cf5b6e45d83f3e",
+        "byteCount": 1695
+      }
+    },
+    {
+      "id": "mechanical",
+      "name": "Machined",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.34509803921568627,
+          "g": 0.6431372549019608,
+          "r": 0.8784313725490196
+        },
+        "background": {
+          "a": 1,
+          "b": 0.07450980392156863,
+          "g": 0.08627450980392157,
+          "r": 0.10196078431372549
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "mechanical",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.22745098039215686,
+          "g": 0.25882352941176473,
+          "r": 0.2901960784313726
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.0784313725490196,
+          "g": 0.12941176470588237,
+          "r": 0.16470588235294117
+        },
+        "material": "metal",
+        "metalVariant": "gold",
+        "name": "Machined",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.12549019607843137,
+          "g": 0.1411764705882353,
+          "r": 0.16470588235294117
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7450980392156863,
+          "g": 0.8509803921568627,
+          "r": 0.9098039215686274
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "mechanical.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/mechanical.clinktheme",
+        "sha256": "3e2b24c1431c70668979c822d7ee150f0fd8d29e5df2a81095b04acaae2e4b51",
+        "byteCount": 1755
+      }
+    },
+    {
+      "id": "mint",
+      "name": "Mint",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.5254901960784314,
+          "g": 0.7215686274509804,
+          "r": 0.07058823529411765
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9176470588235294,
+          "g": 0.9529411764705882,
+          "r": 0.8666666666666667
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "mint",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.1568627450980392,
+          "g": 0.18823529411764706,
+          "r": 0.0784313725490196
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Mint",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8549019607843137,
+          "g": 0.9019607843137255,
+          "r": 0.7607843137254902
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.1568627450980392,
+          "g": 0.18823529411764706,
+          "r": 0.0784313725490196
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "mint.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/mint.clinktheme",
+        "sha256": "e9825358b74904aa8bd73ae690ad045def15a9de500ae3163d7b771da1577659",
+        "byteCount": 1690
+      }
+    },
+    {
+      "id": "nebula",
+      "name": "Nebula",
+      "version": "latest",
+      "preview": {
+        "id": "repo-nebula",
+        "name": "Nebula",
+        "material": "solid",
+        "background": {
+          "r": 0.055,
+          "g": 0.039,
+          "b": 0.12,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.13,
+          "g": 0.09,
+          "b": 0.24,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.95,
+          "g": 0.91,
+          "b": 1,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.2,
+          "g": 0.13,
+          "b": 0.34,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.82,
+          "g": 0.72,
+          "b": 1,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.67,
+          "g": 0.38,
+          "b": 1,
+          "a": 1
+        },
+        "isDark": true
+      },
+      "asset": {
+        "path": "nebula.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/nebula.clinktheme",
+        "sha256": "b28b538307f3aef01b97cb633f8e4a7e489829abb764f72c51ad570692a46bd2",
+        "byteCount": 443
+      }
+    },
+    {
+      "id": "nightcap",
+      "name": "Nightcap",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.9372549019607843,
+          "g": 0.5529411764705883,
+          "r": 0.3568627450980392
+        },
+        "background": {
+          "a": 1,
+          "b": 0.09411764705882353,
+          "g": 0.07450980392156863,
+          "r": 0.06666666666666667
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "nightcap",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.2196078431372549,
+          "g": 0.1803921568627451,
+          "r": 0.16470588235294117
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9568627450980393,
+          "g": 0.9372549019607843,
+          "r": 0.9294117647058824
+        },
+        "material": "3d",
+        "metalVariant": "silver",
+        "name": "Nightcap",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.15294117647058825,
+          "g": 0.12156862745098039,
+          "r": 0.10980392156862745
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7607843137254902,
+          "g": 0.7058823529411765,
+          "r": 0.6823529411764706
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "nightcap.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/nightcap.clinktheme",
+        "sha256": "7b90c1498664825a9d1b446f59baa8b1e7b4bfe1d8e9d77d7ee73ce3d15b8a37",
+        "byteCount": 1749
+      }
+    },
+    {
+      "id": "nocturne",
+      "name": "Nocturne",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.35294117647058826,
+          "g": 0.7647058823529411,
+          "r": 0.9098039215686274
+        },
+        "background": {
+          "a": 1,
+          "b": 0.11764705882352941,
+          "g": 0.058823529411764705,
+          "r": 0.0392156862745098
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.7,
+          "intensity": 0.7,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "speed": 0.6,
+          "style": "starfield"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "nocturne",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.22745098039215686,
+          "g": 0.12549019607843137,
+          "r": 0.08627450980392157
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.8941176470588236,
+          "g": 0.9411764705882353,
+          "r": 0.9529411764705882
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Nocturne",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.18823529411764706,
+          "g": 0.09411764705882353,
+          "r": 0.06274509803921569
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.5490196078431373,
+          "g": 0.7254901960784313,
+          "r": 0.7843137254901961
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "nocturne.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/nocturne.clinktheme",
+        "sha256": "a199a03589bef7bb18850c190323b99cbce266989902b486d77c3fe11141eef4",
+        "byteCount": 1992
+      }
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.8156862745098039,
+          "g": 0.7529411764705882,
+          "r": 0.5333333333333333
+        },
+        "background": {
+          "a": 1,
+          "b": 0.25098039215686274,
+          "g": 0.20392156862745098,
+          "r": 0.1803921568627451
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "nord",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.3215686274509804,
+          "g": 0.25882352941176473,
+          "r": 0.23137254901960785
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9568627450980393,
+          "g": 0.9372549019607843,
+          "r": 0.9254901960784314
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Nord",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.2901960784313726,
+          "g": 0.23529411764705882,
+          "r": 0.20784313725490197
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.9137254901960784,
+          "g": 0.8705882352941177,
+          "r": 0.8470588235294118
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "nord.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/nord.clinktheme",
+        "sha256": "1288e9e89d59f775a24d6fc77d06fc40066a0cd242a21141ff02103d9902ade0",
+        "byteCount": 1743
+      }
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.8392156862745098,
+          "g": 0.7568627450980392,
+          "r": 0.15294117647058825
+        },
+        "background": {
+          "a": 1,
+          "b": 0.14901960784313725,
+          "g": 0.10196078431372549,
+          "r": 0.03137254901960784
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.6,
+          "intensity": 0.7,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "speed": 0.7,
+          "style": "waves"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "ocean",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.25098039215686274,
+          "g": 0.1803921568627451,
+          "r": 0.058823529411764705
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.984313725490196,
+          "g": 0.9607843137254902,
+          "r": 0.9019607843137255
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Ocean",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.19215686274509805,
+          "g": 0.13333333333333333,
+          "r": 0.0392156862745098
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.8392156862745098,
+          "g": 0.7764705882352941,
+          "r": 0.6235294117647059
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "ocean.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/ocean.clinktheme",
+        "sha256": "fee89c86ad0b4f99e60d97317af5f089e51b1b2de21e141e89086545336d46e2",
+        "byteCount": 1980
+      }
+    },
+    {
+      "id": "orchid",
+      "name": "Orchid",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.6352941176470588,
+          "g": 0.37254901960784315,
+          "r": 1
+        },
+        "background": {
+          "a": 1,
+          "b": 0.08627450980392157,
+          "g": 0.0392156862745098,
+          "r": 0.11764705882352941
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.55,
+          "intensity": 0.7,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "speed": 0.6,
+          "style": "bokeh"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "orchid",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.14901960784313725,
+          "g": 0.07058823529411765,
+          "r": 0.2196078431372549
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9450980392156862,
+          "g": 0.9019607843137255,
+          "r": 0.9882352941176471
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Orchid",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.10196078431372549,
+          "g": 0.050980392156862744,
+          "r": 0.15294117647058825
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7764705882352941,
+          "g": 0.6588235294117647,
+          "r": 0.8784313725490196
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "orchid.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/orchid.clinktheme",
+        "sha256": "6799602d82f24f2d96cf9f40c4ed81a1bd64aa86bd16a7bde9eaa738a3a6f43d",
+        "byteCount": 1967
+      }
+    },
+    {
+      "id": "paper",
+      "name": "Paper",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.23529411764705882,
+          "g": 0.4392156862745098,
+          "r": 0.6901960784313725
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9019607843137255,
+          "g": 0.9372549019607843,
+          "r": 0.9529411764705882
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "paper",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9725490196078431,
+          "g": 0.9921568627450981,
+          "r": 1
+        },
+        "keyFontDesign": "georgia",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.12549019607843137,
+          "g": 0.14901960784313725,
+          "r": 0.17254901960784313
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Paper",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8,
+          "g": 0.8627450980392157,
+          "r": 0.8941176470588236
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.12549019607843137,
+          "g": 0.14901960784313725,
+          "r": 0.17254901960784313
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "paper.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/paper.clinktheme",
+        "sha256": "0fdd3d3bee9dd79aa97c2f30ebc32a6f588f8de707b3641e9f30403bcb0f7bde",
+        "byteCount": 1715
+      }
+    },
+    {
+      "id": "pistachio",
+      "name": "Pistachio",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.13725490196078433,
+          "g": 0.5568627450980392,
+          "r": 0.4196078431372549
+        },
+        "background": {
+          "a": 1,
+          "b": 0.6588235294117647,
+          "g": 0.8901960784313725,
+          "r": 0.8117647058823529
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "pistachio",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9019607843137255,
+          "g": 0.9686274509803922,
+          "r": 0.9568627450980393
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.10980392156862745,
+          "g": 0.25098039215686274,
+          "r": 0.2
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Pistachio",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.5254901960784314,
+          "g": 0.807843137254902,
+          "r": 0.7137254901960784
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.10980392156862745,
+          "g": 0.25098039215686274,
+          "r": 0.2
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "pistachio.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/pistachio.clinktheme",
+        "sha256": "8de5f32eeb27f4d8fa08a4fc37832dba91c577ea0b0f0533a49b492554f547a8",
+        "byteCount": 1722
+      }
+    },
+    {
+      "id": "platinum",
+      "name": "Platinum",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.596078431372549,
+          "g": 0.5254901960784314,
+          "r": 0.48627450980392156
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9333333333333333,
+          "g": 0.9176470588235294,
+          "r": 0.9098039215686274
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "platinum",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.8392156862745098,
+          "g": 0.803921568627451,
+          "r": 0.788235294117647
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.15294117647058825,
+          "r": 0.1411764705882353
+        },
+        "material": "metal",
+        "metalVariant": "silver",
+        "name": "Platinum",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8823529411764706,
+          "g": 0.8549019607843137,
+          "r": 0.8431372549019608
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.15294117647058825,
+          "r": 0.1411764705882353
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "platinum.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/platinum.clinktheme",
+        "sha256": "a3ebead33c73ec2bd1ce8d1337b3f167eebaa9331ca271cc90446cdb7f37840e",
+        "byteCount": 1746
+      }
+    },
+    {
+      "id": "rosegold",
+      "name": "Rose Gold",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.4196078431372549,
+          "g": 0.5450980392156862,
+          "r": 0.788235294117647
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8784313725490196,
+          "g": 0.8941176470588236,
+          "r": 0.9529411764705882
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "rosegold",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.7450980392156863,
+          "g": 0.7803921568627451,
+          "r": 0.9058823529411765
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.1568627450980392,
+          "g": 0.16470588235294117,
+          "r": 0.22745098039215686
+        },
+        "material": "metal",
+        "metalVariant": "roseGold",
+        "name": "Rose Gold",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8,
+          "g": 0.8274509803921568,
+          "r": 0.9176470588235294
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.1568627450980392,
+          "g": 0.16470588235294117,
+          "r": 0.22745098039215686
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "rosegold.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/rosegold.clinktheme",
+        "sha256": "fff102d4d255af53ea6d25ef1374c109f162a0df11f5aa50b2d48e3ad6ed759a",
+        "byteCount": 1737
+      }
+    },
+    {
+      "id": "royal",
+      "name": "Royal",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.2901960784313726,
+          "g": 0.7058823529411765,
+          "r": 0.8509803921568627
+        },
+        "background": {
+          "a": 1,
+          "b": 0.2,
+          "g": 0.08627450980392157,
+          "r": 0.0784313725490196
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "royal",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.34901960784313724,
+          "g": 0.15294117647058825,
+          "r": 0.13725490196078433
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 1,
+          "g": 0.9450980392156862,
+          "r": 0.9490196078431372
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Royal",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.25098039215686274,
+          "g": 0.10980392156862745,
+          "r": 0.10196078431372549
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.9176470588235294,
+          "g": 0.7450980392156863,
+          "r": 0.7254901960784313
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "royal.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/royal.clinktheme",
+        "sha256": "bb013b1b716e081fb7ca841cda91d7aff8f5d437bc764a674daea81c516d379b",
+        "byteCount": 1714
+      }
+    },
+    {
+      "id": "sakura",
+      "name": "Sakura",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.49411764705882355,
+          "g": 0.33725490196078434,
+          "r": 0.9098039215686274
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8901960784313725,
+          "g": 0.8627450980392157,
+          "r": 0.9647058823529412
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.55,
+          "intensity": 0.65,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "speed": 0.7,
+          "style": "bokeh"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "sakura",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9607843137254902,
+          "g": 0.9490196078431372,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.21176470588235294,
+          "g": 0.1803921568627451,
+          "r": 0.2901960784313726
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Sakura",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7686274509803922,
+          "g": 0.7137254901960784,
+          "r": 0.9098039215686274
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.21176470588235294,
+          "g": 0.1803921568627451,
+          "r": 0.2901960784313726
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "sakura.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/sakura.clinktheme",
+        "sha256": "3ca214b28c3cec12781a38aee9c225b9694c6b9463b8dc5e3a6ec1f76824b55c",
+        "byteCount": 1964
+      }
+    },
+    {
+      "id": "sketch",
+      "name": "Sketch",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.5254901960784314,
+          "g": 0.30980392156862746,
+          "r": 1
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9450980392156862,
+          "g": 0.9647058823529412,
+          "r": 0.9686274509803922
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "sketch",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "marker",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.16470588235294117,
+          "g": 0.16470588235294117,
+          "r": 0.16470588235294117
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Sketch",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8784313725490196,
+          "g": 0.9058823529411765,
+          "r": 0.9098039215686274
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.16470588235294117,
+          "g": 0.16470588235294117,
+          "r": 0.16470588235294117
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "sketch.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/sketch.clinktheme",
+        "sha256": "f7abcb3f088467daa5c5c3b362d33574a176fab6af0095f1f725970a66b481f1",
+        "byteCount": 1680
+      }
+    },
+    {
+      "id": "slate",
+      "name": "Slate",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.8196078431372549,
+          "g": 0.6078431372549019,
+          "r": 0.4235294117647059
+        },
+        "background": {
+          "a": 1,
+          "b": 0.1607843137254902,
+          "g": 0.12549019607843137,
+          "r": 0.10980392156862745
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "slate",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.24705882352941178,
+          "g": 0.19607843137254902,
+          "r": 0.17254901960784313
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9529411764705882,
+          "g": 0.9254901960784314,
+          "r": 0.9098039215686274
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Slate",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.2,
+          "g": 0.1568627450980392,
+          "r": 0.13725490196078433
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7607843137254902,
+          "g": 0.6980392156862745,
+          "r": 0.6627450980392157
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "slate.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/slate.clinktheme",
+        "sha256": "fa57344f95fe93859e7967c7bf1bde28cf0856b2478d5e5f22e98eaf6ef30bb0",
+        "byteCount": 1730
+      }
+    },
+    {
+      "id": "steel",
+      "name": "Steel",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.8,
+          "g": 0.6588235294117647,
+          "r": 0.4980392156862745
+        },
+        "background": {
+          "a": 1,
+          "b": 0.10980392156862745,
+          "g": 0.09411764705882353,
+          "r": 0.08235294117647059
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "steel",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.2823529411764706,
+          "g": 0.25098039215686274,
+          "r": 0.22745098039215686
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9490196078431372,
+          "g": 0.9333333333333333,
+          "r": 0.9215686274509803
+        },
+        "material": "metal",
+        "metalVariant": "steel",
+        "name": "Steel",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.17254901960784313,
+          "g": 0.14901960784313725,
+          "r": 0.13333333333333333
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7686274509803922,
+          "g": 0.7294117647058823,
+          "r": 0.7058823529411765
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "steel.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/steel.clinktheme",
+        "sha256": "e011494624ff4bba5c33f6931994fcde25860224c204079881577c2948319788",
+        "byteCount": 1731
+      }
+    },
+    {
+      "id": "studio",
+      "name": "Studio",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.2823529411764706,
+          "g": 0.3843137254901961,
+          "r": 0.9411764705882353
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9490196078431372,
+          "g": 0.9411764705882353,
+          "r": 0.9411764705882353
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "studio",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "avenir",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.15294117647058825,
+          "g": 0.13333333333333333,
+          "r": 0.13333333333333333
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Studio",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8941176470588236,
+          "g": 0.8784313725490196,
+          "r": 0.8784313725490196
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.15294117647058825,
+          "g": 0.13333333333333333,
+          "r": 0.13333333333333333
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "studio.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/studio.clinktheme",
+        "sha256": "774c7df8d0b747e2e600de1ab1cd11d5b466b58f553a9aeefd04d1640e7e5e41",
+        "byteCount": 1696
+      }
+    },
+    {
+      "id": "synthwave",
+      "name": "Synthwave",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.9019607843137255,
+          "g": 0.8862745098039215,
+          "r": 0.17647058823529413
+        },
+        "background": {
+          "a": 1,
+          "b": 0.2,
+          "g": 0.06274509803921569,
+          "r": 0.10196078431372549
+        },
+        "backgroundEffect": {
+          "blend": "glow",
+          "colorMode": "accent",
+          "density": 0.6,
+          "intensity": 0.8,
+          "reactionStrength": 1,
+          "reactive": true,
+          "scale": 1,
+          "secondaryColorMode": "keyFill",
+          "speed": 0.9,
+          "style": "nebula"
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "synthwave",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.3686274509803922,
+          "g": 0.10588235294117647,
+          "r": 0.17647058823529413
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 1,
+          "g": 0.9411764705882353,
+          "r": 0.9686274509803922
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Synthwave",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.2823529411764706,
+          "g": 0.07058823529411765,
+          "r": 0.13333333333333333
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.8470588235294118,
+          "g": 0.43529411764705883,
+          "r": 1
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "synthwave.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/synthwave.clinktheme",
+        "sha256": "8fbbea791dbaeef9e084c8e487f0fcd50b4ecde2abbe728f2538e3f6cfc60a0e",
+        "byteCount": 1978
+      }
+    },
+    {
+      "id": "tealcap",
+      "name": "Teal Cap",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.7529411764705882,
+          "g": 0.8196078431372549,
+          "r": 0.16470588235294117
+        },
+        "background": {
+          "a": 1,
+          "b": 0.11372549019607843,
+          "g": 0.11764705882352941,
+          "r": 0.043137254901960784
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "tealcap",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.2627450980392157,
+          "g": 0.27058823529411763,
+          "r": 0.09411764705882353
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9490196078431372,
+          "g": 0.9607843137254902,
+          "r": 0.8784313725490196
+        },
+        "material": "3d",
+        "metalVariant": "silver",
+        "name": "Teal Cap",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.17254901960784313,
+          "g": 0.1803921568627451,
+          "r": 0.06274509803921569
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7686274509803922,
+          "g": 0.796078431372549,
+          "r": 0.5607843137254902
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "tealcap.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/tealcap.clinktheme",
+        "sha256": "15807e4847c8b87d1bf680fddb6dd0b9d68a7e0d63ee25401337f7fc0c1ef374",
+        "byteCount": 1749
+      }
+    },
+    {
+      "id": "tide",
+      "name": "Tide",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.7215686274509804,
+          "g": 0.5882352941176471,
+          "r": 0.054901960784313725
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9607843137254902,
+          "g": 0.9333333333333333,
+          "r": 0.8627450980392157
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "tide",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.25098039215686274,
+          "g": 0.19607843137254902,
+          "r": 0.07058823529411765
+        },
+        "material": "solid",
+        "metalVariant": "silver",
+        "name": "Tide",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.9254901960784314,
+          "g": 0.8784313725490196,
+          "r": 0.7607843137254902
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.25098039215686274,
+          "g": 0.19607843137254902,
+          "r": 0.07058823529411765
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "tide.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/tide.clinktheme",
+        "sha256": "2717164929ec4d9d9e3442722cff820056e7914b363386365b3ae50b7a2ce6ee",
+        "byteCount": 1695
+      }
+    },
+    {
+      "id": "titanium",
+      "name": "Titanium",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.5058823529411764,
+          "g": 0.4627450980392157,
+          "r": 0.43137254901960786
+        },
+        "background": {
+          "a": 1,
+          "b": 0.9137254901960784,
+          "g": 0.9058823529411765,
+          "r": 0.9019607843137255
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "titanium",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.7843137254901961,
+          "g": 0.7647058823529411,
+          "r": 0.7490196078431373
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.1607843137254902,
+          "r": 0.14901960784313725
+        },
+        "material": "metal",
+        "metalVariant": "titanium",
+        "name": "Titanium",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.8509803921568627,
+          "g": 0.8352941176470589,
+          "r": 0.8235294117647058
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.1803921568627451,
+          "g": 0.1607843137254902,
+          "r": 0.14901960784313725
+        },
+        "threeDVariant": "retro"
+      },
+      "asset": {
+        "path": "titanium.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/titanium.clinktheme",
+        "sha256": "89bc23bbe70163ef3ad770160de28e687d7df2d6f61a0f05711219b101b7a459",
+        "byteCount": 1751
+      }
+    }
+  ]
+}
