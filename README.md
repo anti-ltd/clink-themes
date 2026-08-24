@@ -52,6 +52,16 @@ your-name/my-clink-themes
 
 Then open **Customize → Look**, choose your repository's chip, and download a theme. Downloaded themes remain available offline. They stay read-only, but anyone can make an editable copy.
 
+## Make a theme with an AI agent
+
+This repository includes [`PROMPT.md`](PROMPT.md), a ready-to-use brief for an AI coding agent. Fork the repository, open the fork in your agent, and say:
+
+```text
+Read PROMPT.md and create a [describe the visual direction] theme.
+```
+
+The prompt tells the agent which existing themes to inspect, which fields are safe to use, and how to regenerate the manifest. Review the resulting JSON and import it into Clink before publishing.
+
 ## What Clink verifies
 
 Clink accepts only public HTTPS GitHub release manifests. Each theme must come from that repository's release, be a `.clinktheme` JSON file no larger than 128 KB, and match the SHA-256 hash and byte count in the manifest.
