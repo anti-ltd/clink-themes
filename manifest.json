@@ -660,6 +660,112 @@
       }
     },
     {
+      "id": "cherry-mechanical",
+      "name": "Cherry Mechanical",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.16862745098039217,
+          "g": 0.2235294117647059,
+          "r": 0.7529411764705882
+        },
+        "background": {
+          "a": 1,
+          "b": 0.8666666666666667,
+          "g": 0.8901960784313725,
+          "r": 0.9058823529411765
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "cherry-mechanical",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.9215686274509803,
+          "g": 0.9490196078431372,
+          "r": 0.9647058823529412
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.12549019607843137,
+          "g": 0.1411764705882353,
+          "r": 0.16470588235294117
+        },
+        "material": "3d",
+        "metalVariant": "silver",
+        "name": "Cherry Mechanical",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.7607843137254902,
+          "g": 0.8117647058823529,
+          "r": 0.8470588235294118
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.13333333333333333,
+          "g": 0.16470588235294117,
+          "r": 0.47843137254901963
+        },
+        "threeDVariant": "mechanical"
+      },
+      "asset": {
+        "path": "cherry-mechanical.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/cherry-mechanical.clinktheme",
+        "sha256": "9299d7593a546b18e105d66acccc5f029ee896aeffb33ee5ae4cf08f4466b470",
+        "byteCount": 1686
+      }
+    },
+    {
       "id": "cherry",
       "name": "Cherry",
       "version": "latest",
@@ -904,6 +1010,112 @@
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/chloe.clinktheme",
         "sha256": "0abfa5c00c8cb55cd9f74aa0cb46b2643276ada856d6ff600c554202fad67749",
         "byteCount": 2442
+      }
+    },
+    {
+      "id": "citrus-modern",
+      "name": "Citrus Modern",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.1411764705882353,
+          "g": 0.5411764705882353,
+          "r": 0.9411764705882353
+        },
+        "background": {
+          "a": 1,
+          "b": 0.6901960784313725,
+          "g": 0.9058823529411765,
+          "r": 0.9686274509803922
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "citrus-modern",
+        "isDark": false,
+        "keyFill": {
+          "a": 1,
+          "b": 0.8,
+          "g": 0.9568627450980393,
+          "r": 1
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.06274509803921569,
+          "g": 0.26666666666666666,
+          "r": 0.35294117647058826
+        },
+        "material": "3d",
+        "metalVariant": "silver",
+        "name": "Citrus Modern",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.49411764705882355,
+          "g": 0.807843137254902,
+          "r": 0.9137254901960784
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.06274509803921569,
+          "g": 0.26666666666666666,
+          "r": 0.35294117647058826
+        },
+        "threeDVariant": "modern"
+      },
+      "asset": {
+        "path": "citrus-modern.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/citrus-modern.clinktheme",
+        "sha256": "85ac0f75dd8f711c18ec9515bcfcdb3e2da5a7249341332bd4d072b3dbef82e2",
+        "byteCount": 1642
       }
     },
     {
@@ -3996,6 +4208,112 @@
       }
     },
     {
+      "id": "nightcap-modern",
+      "name": "Nightcap Modern",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.9372549019607843,
+          "g": 0.5529411764705883,
+          "r": 0.3568627450980392
+        },
+        "background": {
+          "a": 1,
+          "b": 0.09411764705882353,
+          "g": 0.07450980392156863,
+          "r": 0.06666666666666667
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "nightcap-modern",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.2196078431372549,
+          "g": 0.1803921568627451,
+          "r": 0.16470588235294117
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9568627450980393,
+          "g": 0.9372549019607843,
+          "r": 0.9294117647058824
+        },
+        "material": "3d",
+        "metalVariant": "silver",
+        "name": "Nightcap Modern",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.15294117647058825,
+          "g": 0.12156862745098039,
+          "r": 0.10980392156862745
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7607843137254902,
+          "g": 0.7058823529411765,
+          "r": 0.6823529411764706
+        },
+        "threeDVariant": "modern"
+      },
+      "asset": {
+        "path": "nightcap-modern.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/nightcap-modern.clinktheme",
+        "sha256": "e1375338cfe8c0d9116edb45beba4a8506eabe2482349d2cf146c33086368363",
+        "byteCount": 1678
+      }
+    },
+    {
       "id": "nightcap",
       "name": "Nightcap",
       "version": "latest",
@@ -5745,6 +6063,112 @@
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/synthwave.clinktheme",
         "sha256": "8fbbea791dbaeef9e084c8e487f0fcd50b4ecde2abbe728f2538e3f6cfc60a0e",
         "byteCount": 1978
+      }
+    },
+    {
+      "id": "tealcap-mechanical",
+      "name": "Teal Cap Mechanical",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.7529411764705882,
+          "g": 0.8196078431372549,
+          "r": 0.16470588235294117
+        },
+        "background": {
+          "a": 1,
+          "b": 0.11372549019607843,
+          "g": 0.11764705882352941,
+          "r": 0.043137254901960784
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "tealcap-mechanical",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.2627450980392157,
+          "g": 0.27058823529411763,
+          "r": 0.09411764705882353
+        },
+        "keyFontDesign": "default",
+        "keyFontWeight": "regular",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.3,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "style": "none",
+          "width": 1
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.35,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": false,
+          "radius": 4,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9490196078431372,
+          "g": 0.9607843137254902,
+          "r": 0.8784313725490196
+        },
+        "material": "3d",
+        "metalVariant": "silver",
+        "name": "Teal Cap Mechanical",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.17254901960784313,
+          "g": 0.1803921568627451,
+          "r": 0.06274509803921569
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.7686274509803922,
+          "g": 0.796078431372549,
+          "r": 0.5607843137254902
+        },
+        "threeDVariant": "mechanical"
+      },
+      "asset": {
+        "path": "tealcap-mechanical.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/tealcap-mechanical.clinktheme",
+        "sha256": "4028f680ead272857ca7b43a2ac5f9395ede8654b6268ac409ee3065792f7bfa",
+        "byteCount": 1690
       }
     },
     {

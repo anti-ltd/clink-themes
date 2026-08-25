@@ -1,0 +1,95 @@
+{
+  "accent": {
+    "a": 1,
+    "b": 0.1411764705882353,
+    "g": 0.5411764705882353,
+    "r": 0.9411764705882353
+  },
+  "background": {
+    "a": 1,
+    "b": 0.6901960784313725,
+    "g": 0.9058823529411765,
+    "r": 0.9686274509803922
+  },
+  "glassInteractive": false,
+  "glassTintStrength": 1,
+  "glassVariant": "regular",
+  "groupPaint": [],
+  "id": "citrus-modern",
+  "isDark": false,
+  "keyFill": {
+    "a": 1,
+    "b": 0.8,
+    "g": 0.9568627450980393,
+    "r": 1
+  },
+  "keyFontDesign": "default",
+  "keyFontWeight": "regular",
+  "keyInnerShadow": {
+    "color": {
+      "a": 0.35,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "isOn": false,
+    "radius": 4,
+    "x": 0,
+    "y": 2
+  },
+  "keyInnerStroke": {
+    "color": {
+      "a": 0.3,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "style": "none",
+    "width": 1
+  },
+  "keyOuterStroke": {
+    "color": {
+      "a": 0.3,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "style": "none",
+    "width": 1
+  },
+  "keyPaint": {},
+  "keyShadow": {
+    "color": {
+      "a": 0.35,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "isOn": false,
+    "radius": 4,
+    "x": 0,
+    "y": 2
+  },
+  "keyText": {
+    "a": 1,
+    "b": 0.06274509803921569,
+    "g": 0.26666666666666666,
+    "r": 0.35294117647058826
+  },
+  "material": "3d",
+  "metalVariant": "silver",
+  "name": "Citrus Modern",
+  "specialKeyFill": {
+    "a": 1,
+    "b": 0.49411764705882355,
+    "g": 0.807843137254902,
+    "r": 0.9137254901960784
+  },
+  "specialKeyText": {
+    "a": 1,
+    "b": 0.06274509803921569,
+    "g": 0.26666666666666666,
+    "r": 0.35294117647058826
+  },
+  "threeDVariant": "modern"
+}

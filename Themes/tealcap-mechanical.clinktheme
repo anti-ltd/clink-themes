@@ -1,0 +1,95 @@
+{
+  "accent": {
+    "a": 1,
+    "b": 0.7529411764705882,
+    "g": 0.8196078431372549,
+    "r": 0.16470588235294117
+  },
+  "background": {
+    "a": 1,
+    "b": 0.11372549019607843,
+    "g": 0.11764705882352941,
+    "r": 0.043137254901960784
+  },
+  "glassInteractive": false,
+  "glassTintStrength": 1,
+  "glassVariant": "regular",
+  "groupPaint": [],
+  "id": "tealcap-mechanical",
+  "isDark": true,
+  "keyFill": {
+    "a": 1,
+    "b": 0.2627450980392157,
+    "g": 0.27058823529411763,
+    "r": 0.09411764705882353
+  },
+  "keyFontDesign": "default",
+  "keyFontWeight": "regular",
+  "keyInnerShadow": {
+    "color": {
+      "a": 0.35,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "isOn": false,
+    "radius": 4,
+    "x": 0,
+    "y": 2
+  },
+  "keyInnerStroke": {
+    "color": {
+      "a": 0.3,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "style": "none",
+    "width": 1
+  },
+  "keyOuterStroke": {
+    "color": {
+      "a": 0.3,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "style": "none",
+    "width": 1
+  },
+  "keyPaint": {},
+  "keyShadow": {
+    "color": {
+      "a": 0.35,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "isOn": false,
+    "radius": 4,
+    "x": 0,
+    "y": 2
+  },
+  "keyText": {
+    "a": 1,
+    "b": 0.9490196078431372,
+    "g": 0.9607843137254902,
+    "r": 0.8784313725490196
+  },
+  "material": "3d",
+  "metalVariant": "silver",
+  "name": "Teal Cap Mechanical",
+  "specialKeyFill": {
+    "a": 1,
+    "b": 0.17254901960784313,
+    "g": 0.1803921568627451,
+    "r": 0.06274509803921569
+  },
+  "specialKeyText": {
+    "a": 1,
+    "b": 0.7686274509803922,
+    "g": 0.796078431372549,
+    "r": 0.5607843137254902
+  },
+  "threeDVariant": "mechanical"
+}
