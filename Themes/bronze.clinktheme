@@ -81,7 +81,6 @@
     "r" : 0.16470588235294117
   },
   "material" : "metal",
-  "metalVariant" : "bronze",
   "name" : "Bronze",
   "specialKeyFill" : {
     "a" : 1,

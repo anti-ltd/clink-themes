@@ -1,0 +1,17 @@
+{
+  "id": "liquid-coral",
+  "name": "Liquid Coral",
+  "material": "liquidGlass",
+  "background": { "r": 0.98, "g": 0.48, "b": 0.40, "a": 0.26 },
+  "backgroundGradient": { "type": "radial", "rotation": 0, "stops": [{ "color": { "r": 1, "g": 0.76, "b": 0.61, "a": 1 }, "position": 0 }, { "color": { "r": 0.83, "g": 0.22, "b": 0.39, "a": 1 }, "position": 1 }] },
+  "keyFill": { "r": 1, "g": 0.98, "b": 0.94, "a": 0.20 },
+  "keyText": { "r": 0.26, "g": 0.06, "b": 0.10, "a": 1 },
+  "specialKeyFill": { "r": 0.88, "g": 0.16, "b": 0.34, "a": 0.19 },
+  "specialKeyText": { "r": 0.31, "g": 0.04, "b": 0.11, "a": 1 },
+  "accent": { "r": 0.79, "g": 0.08, "b": 0.25, "a": 1 },
+  "isDark": false,
+  "glassVariant": "clear",
+  "glassTintStrength": 0.62,
+  "keyFontDesign": "rounded",
+  "keyFontWeight": "semibold"
+}

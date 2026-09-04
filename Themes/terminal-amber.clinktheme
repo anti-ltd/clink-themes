@@ -1,0 +1,14 @@
+{
+  "id": "terminal-amber",
+  "name": "Terminal Amber",
+  "material": "solid",
+  "background": { "r": 0.025, "g": 0.020, "b": 0.012, "a": 1 },
+  "keyFill": { "r": 0.10, "g": 0.073, "b": 0.025, "a": 1 },
+  "keyText": { "r": 1, "g": 0.74, "b": 0.27, "a": 1 },
+  "specialKeyFill": { "r": 0.055, "g": 0.040, "b": 0.015, "a": 1 },
+  "specialKeyText": { "r": 0.84, "g": 0.51, "b": 0.16, "a": 1 },
+  "accent": { "r": 1, "g": 0.49, "b": 0.08, "a": 1 },
+  "isDark": true,
+  "keyFontDesign": "typewriter",
+  "keyFontWeight": "medium"
+}

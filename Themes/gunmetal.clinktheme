@@ -81,7 +81,6 @@
     "r" : 0.9019607843137255
   },
   "material" : "metal",
-  "metalVariant" : "gunmetal",
   "name" : "Gunmetal",
   "specialKeyFill" : {
     "a" : 1,

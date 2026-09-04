@@ -81,7 +81,6 @@
     "r" : 0.14901960784313725
   },
   "material" : "metal",
-  "metalVariant" : "titanium",
   "name" : "Titanium",
   "specialKeyFill" : {
     "a" : 1,

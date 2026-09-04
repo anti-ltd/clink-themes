@@ -1,0 +1,15 @@
+{
+  "id": "linen",
+  "name": "Linen",
+  "material": "solid",
+  "background": { "r": 0.93, "g": 0.90, "b": 0.84, "a": 1 },
+  "backgroundGradient": { "type": "linear", "rotation": 145, "stops": [{ "color": { "r": 0.97, "g": 0.94, "b": 0.88, "a": 1 }, "position": 0 }, { "color": { "r": 0.86, "g": 0.82, "b": 0.74, "a": 1 }, "position": 1 }] },
+  "keyFill": { "r": 1, "g": 0.985, "b": 0.94, "a": 1 },
+  "keyText": { "r": 0.19, "g": 0.15, "b": 0.10, "a": 1 },
+  "specialKeyFill": { "r": 0.78, "g": 0.72, "b": 0.62, "a": 1 },
+  "specialKeyText": { "r": 0.16, "g": 0.12, "b": 0.08, "a": 1 },
+  "accent": { "r": 0.58, "g": 0.31, "b": 0.16, "a": 1 },
+  "isDark": false,
+  "keyFontDesign": "georgia",
+  "keyFontWeight": "regular"
+}

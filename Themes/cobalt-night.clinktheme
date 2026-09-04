@@ -1,0 +1,15 @@
+{
+  "id": "cobalt-night",
+  "name": "Cobalt Night",
+  "material": "solid",
+  "background": { "r": 0.025, "g": 0.055, "b": 0.14, "a": 1 },
+  "backgroundGradient": { "type": "linear", "rotation": 155, "stops": [{ "color": { "r": 0.04, "g": 0.13, "b": 0.31, "a": 1 }, "position": 0 }, { "color": { "r": 0.012, "g": 0.025, "b": 0.075, "a": 1 }, "position": 1 }] },
+  "keyFill": { "r": 0.075, "g": 0.16, "b": 0.33, "a": 1 },
+  "keyText": { "r": 0.89, "g": 0.95, "b": 1, "a": 1 },
+  "specialKeyFill": { "r": 0.035, "g": 0.09, "b": 0.21, "a": 1 },
+  "specialKeyText": { "r": 0.50, "g": 0.77, "b": 1, "a": 1 },
+  "accent": { "r": 0.18, "g": 0.56, "b": 1, "a": 1 },
+  "isDark": true,
+  "keyFontDesign": "monospaced",
+  "keyFontWeight": "medium"
+}

@@ -81,7 +81,6 @@
     "r" : 0.9215686274509803
   },
   "material" : "metal",
-  "metalVariant" : "steel",
   "name" : "Steel",
   "specialKeyFill" : {
     "a" : 1,

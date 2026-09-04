@@ -81,7 +81,6 @@
     "r" : 0.1411764705882353
   },
   "material" : "metal",
-  "metalVariant" : "silver",
   "name" : "Platinum",
   "specialKeyFill" : {
     "a" : 1,

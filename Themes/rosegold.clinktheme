@@ -81,7 +81,6 @@
     "r" : 0.22745098039215686
   },
   "material" : "metal",
-  "metalVariant" : "roseGold",
   "name" : "Rose Gold",
   "specialKeyFill" : {
     "a" : 1,

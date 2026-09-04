@@ -225,6 +225,295 @@
       }
     },
     {
+      "id": "arcade-gamepad",
+      "name": "Arcade Gamepad",
+      "version": "latest",
+      "preview": {
+        "id": "arcade-gamepad",
+        "name": "Arcade Gamepad",
+        "material": "gamepad",
+        "background": {
+          "r": 0.025,
+          "g": 0.035,
+          "b": 0.075,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.1,
+          "g": 0.15,
+          "b": 0.28,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.88,
+          "g": 0.96,
+          "b": 1,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.055,
+          "g": 0.08,
+          "b": 0.16,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.42,
+          "g": 0.88,
+          "b": 1,
+          "a": 1
+        },
+        "accent": {
+          "r": 1,
+          "g": 0.27,
+          "b": 0.46,
+          "a": 1
+        },
+        "isDark": true,
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "bold"
+      },
+      "asset": {
+        "path": "arcade-gamepad.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/arcade-gamepad.clinktheme",
+        "sha256": "063e0153a23d1f5b136953a6cd4248bef240e335464f08ce55ea05b326a399b6",
+        "byteCount": 413
+      }
+    },
+    {
+      "id": "arctic-ice-clear",
+      "name": "Arctic Ice Clear",
+      "version": "latest",
+      "preview": {
+        "id": "arctic-ice-clear",
+        "name": "Arctic Ice Clear",
+        "material": "liquidIce",
+        "background": {
+          "r": 0.66,
+          "g": 0.89,
+          "b": 0.96,
+          "a": 0.28
+        },
+        "backgroundGradient": {
+          "type": "linear",
+          "rotation": 140,
+          "stops": [
+            {
+              "color": {
+                "r": 0.78,
+                "g": 0.96,
+                "b": 1,
+                "a": 1
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "r": 0.38,
+                "g": 0.7,
+                "b": 0.86,
+                "a": 1
+              },
+              "position": 1
+            }
+          ]
+        },
+        "keyFill": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.16
+        },
+        "keyText": {
+          "r": 0.035,
+          "g": 0.16,
+          "b": 0.25,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.2,
+          "g": 0.62,
+          "b": 0.82,
+          "a": 0.18
+        },
+        "specialKeyText": {
+          "r": 0.02,
+          "g": 0.18,
+          "b": 0.29,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.02,
+          "g": 0.48,
+          "b": 0.78,
+          "a": 1
+        },
+        "isDark": false,
+        "glassVariant": "clear",
+        "glassInteractive": true,
+        "glassTintStrength": 0.45,
+        "keyFontWeight": "semibold"
+      },
+      "asset": {
+        "path": "arctic-ice-clear.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/arctic-ice-clear.clinktheme",
+        "sha256": "a0adf5e10379cfeb8c1cd612f8d2e6aaf3d8b5e90ba615bc6813823cb4dea888",
+        "byteCount": 653
+      }
+    },
+    {
+      "id": "arctic-ice",
+      "name": "Arctic Ice",
+      "version": "latest",
+      "preview": {
+        "id": "arctic-ice",
+        "name": "Arctic Ice",
+        "material": "liquidIce",
+        "background": {
+          "r": 0.04,
+          "g": 0.13,
+          "b": 0.21,
+          "a": 0.72
+        },
+        "backgroundGradient": {
+          "type": "radial",
+          "rotation": 0,
+          "stops": [
+            {
+              "color": {
+                "r": 0.06,
+                "g": 0.3,
+                "b": 0.42,
+                "a": 1
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "r": 0.015,
+                "g": 0.045,
+                "b": 0.1,
+                "a": 1
+              },
+              "position": 1
+            }
+          ]
+        },
+        "keyFill": {
+          "r": 0.64,
+          "g": 0.9,
+          "b": 1,
+          "a": 0.22
+        },
+        "keyText": {
+          "r": 0.94,
+          "g": 0.99,
+          "b": 1,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.28,
+          "g": 0.66,
+          "b": 0.86,
+          "a": 0.18
+        },
+        "specialKeyText": {
+          "r": 0.72,
+          "g": 0.93,
+          "b": 1,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.22,
+          "g": 0.82,
+          "b": 1,
+          "a": 1
+        },
+        "isDark": true,
+        "glassVariant": "regular",
+        "glassTintStrength": 0.72,
+        "keyFontWeight": "semibold"
+      },
+      "asset": {
+        "path": "arctic-ice.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/arctic-ice.clinktheme",
+        "sha256": "5e490045b186ccedfb0c7f8a7def75a235ec288e956d4929ece10cedecf5eebe",
+        "byteCount": 617
+      }
+    },
+    {
+      "id": "aurora-grove",
+      "name": "Aurora Grove",
+      "version": "latest",
+      "preview": {
+        "id": "aurora-grove",
+        "name": "Aurora Grove",
+        "material": "solid",
+        "background": {
+          "r": 0.015,
+          "g": 0.075,
+          "b": 0.09,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.075,
+          "g": 0.2,
+          "b": 0.2,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.88,
+          "g": 1,
+          "b": 0.95,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.035,
+          "g": 0.12,
+          "b": 0.14,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.46,
+          "g": 1,
+          "b": 0.83,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.2,
+          "g": 1,
+          "b": 0.66,
+          "a": 1
+        },
+        "isDark": true,
+        "keyFontDesign": "avenir",
+        "keyFontWeight": "medium",
+        "backgroundEffect": {
+          "style": "aurora",
+          "speed": 0.48,
+          "intensity": 0.64,
+          "density": 0.58,
+          "scale": 1.35,
+          "reactive": true,
+          "reactionStrength": 0.9,
+          "blend": "glow",
+          "colorMode": "accent",
+          "secondaryColorMode": "custom",
+          "customColor2": {
+            "r": 0.24,
+            "g": 0.56,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      "asset": {
+        "path": "aurora-grove.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/aurora-grove.clinktheme",
+        "sha256": "77145c306ca60ec56ad38af033597c87e3843c6219b4b83a26060dfcf632f8aa",
+        "byteCount": 656
+      }
+    },
+    {
       "id": "bauhaus",
       "name": "Bauhaus",
       "version": "latest",
@@ -413,7 +702,6 @@
           "r": 0.16470588235294117
         },
         "material": "metal",
-        "metalVariant": "bronze",
         "name": "Bronze",
         "specialKeyFill": {
           "a": 1,
@@ -432,8 +720,8 @@
       "asset": {
         "path": "bronze.clinktheme",
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/bronze.clinktheme",
-        "sha256": "d151331c62fe074e23808269ac13ae34e580a3f3f47bb3d09ba84f240f6b6d7b",
-        "byteCount": 1752
+        "sha256": "11f930e2f14f2eadde7509791b9ee7a9a1077eb4c8d65b9b1e1caaef6f1b9dde",
+        "byteCount": 1724
       }
     },
     {
@@ -551,6 +839,321 @@
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/bubblegum.clinktheme",
         "sha256": "f8ced439f78649bb271de03543cf9487e183ad54cf9aecbc6dba018eb03d30b0",
         "byteCount": 1923
+      }
+    },
+    {
+      "id": "canvas-signal",
+      "name": "Canvas Signal",
+      "version": "latest",
+      "preview": {
+        "id": "canvas-signal",
+        "name": "Canvas Signal",
+        "material": "solid",
+        "background": {
+          "r": 0.025,
+          "g": 0.03,
+          "b": 0.07,
+          "a": 1
+        },
+        "backgroundGradient": {
+          "type": "angular",
+          "rotation": 210,
+          "stops": [
+            {
+              "color": {
+                "r": 0.025,
+                "g": 0.03,
+                "b": 0.07,
+                "a": 1
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "r": 0.07,
+                "g": 0.02,
+                "b": 0.14,
+                "a": 1
+              },
+              "position": 0.5
+            },
+            {
+              "color": {
+                "r": 0.025,
+                "g": 0.03,
+                "b": 0.07,
+                "a": 1
+              },
+              "position": 1
+            }
+          ]
+        },
+        "keyFill": {
+          "r": 0.1,
+          "g": 0.12,
+          "b": 0.2,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.9,
+          "g": 0.94,
+          "b": 1,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.055,
+          "g": 0.07,
+          "b": 0.13,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.58,
+          "g": 0.84,
+          "b": 1,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.96,
+          "g": 0.26,
+          "b": 0.62,
+          "a": 1
+        },
+        "isDark": true,
+        "keyFontDesign": "monospaced",
+        "keyFontWeight": "bold",
+        "keyInnerStroke": {
+          "style": "dotted",
+          "color": {
+            "r": 0.4,
+            "g": 0.88,
+            "b": 1,
+            "a": 0.68
+          },
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "style": "dashed",
+          "color": {
+            "r": 1,
+            "g": 0.25,
+            "b": 0.62,
+            "a": 0.48
+          },
+          "width": 0.75
+        },
+        "keyShadow": {
+          "isOn": true,
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.55
+          },
+          "radius": 5,
+          "x": 0,
+          "y": 3
+        },
+        "keyInnerShadow": {
+          "isOn": true,
+          "color": {
+            "r": 0.01,
+            "g": 0.02,
+            "b": 0.06,
+            "a": 0.7
+          },
+          "radius": 2,
+          "x": 0,
+          "y": 1
+        },
+        "groupPaint": {
+          "letters": {
+            "fill": {
+              "r": 0.08,
+              "g": 0.22,
+              "b": 0.29,
+              "a": 1
+            },
+            "text": {
+              "r": 0.8,
+              "g": 1,
+              "b": 0.96,
+              "a": 1
+            }
+          },
+          "numbers": {
+            "fill": {
+              "r": 0.24,
+              "g": 0.08,
+              "b": 0.26,
+              "a": 1
+            },
+            "text": {
+              "r": 1,
+              "g": 0.78,
+              "b": 0.96,
+              "a": 1
+            }
+          },
+          "return": {
+            "fill": {
+              "r": 0.92,
+              "g": 0.18,
+              "b": 0.48,
+              "a": 1
+            },
+            "text": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "activeFill": {
+              "r": 0.28,
+              "g": 0.92,
+              "b": 0.72,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.01,
+              "g": 0.08,
+              "b": 0.08,
+              "a": 1
+            },
+            "pressed": {
+              "r": 1,
+              "g": 0.7,
+              "b": 0.18,
+              "a": 1
+            }
+          }
+        },
+        "keyPaint": {
+          "c:q": {
+            "fill": {
+              "r": 0.93,
+              "g": 0.66,
+              "b": 0.14,
+              "a": 1
+            },
+            "text": {
+              "r": 0.08,
+              "g": 0.05,
+              "b": 0.01,
+              "a": 1
+            },
+            "outline": {
+              "r": 1,
+              "g": 0.92,
+              "b": 0.5,
+              "a": 1
+            },
+            "pressed": {
+              "r": 1,
+              "g": 0.28,
+              "b": 0.17,
+              "a": 1
+            }
+          },
+          "f:shift": {
+            "activeFill": {
+              "r": 0.16,
+              "g": 0.88,
+              "b": 0.9,
+              "a": 1
+            },
+            "activeText": {
+              "r": 0.01,
+              "g": 0.1,
+              "b": 0.13,
+              "a": 1
+            },
+            "pressed": {
+              "r": 0.95,
+              "g": 0.32,
+              "b": 0.65,
+              "a": 1
+            }
+          }
+        }
+      },
+      "asset": {
+        "path": "canvas-signal.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/canvas-signal.clinktheme",
+        "sha256": "ab252cd480d6b2a97ffd93bb0e5adc569c6731fe2a505db7fbfd655f45cf9014",
+        "byteCount": 1789
+      }
+    },
+    {
+      "id": "celebration",
+      "name": "Celebration",
+      "version": "latest",
+      "preview": {
+        "id": "celebration",
+        "name": "Celebration",
+        "material": "solid",
+        "background": {
+          "r": 0.035,
+          "g": 0.015,
+          "b": 0.09,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.14,
+          "g": 0.06,
+          "b": 0.25,
+          "a": 1
+        },
+        "keyText": {
+          "r": 1,
+          "g": 0.93,
+          "b": 0.74,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.3,
+          "g": 0.09,
+          "b": 0.36,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 1,
+          "g": 0.79,
+          "b": 0.91,
+          "a": 1
+        },
+        "accent": {
+          "r": 1,
+          "g": 0.3,
+          "b": 0.48,
+          "a": 1
+        },
+        "isDark": true,
+        "keyFontDesign": "serif",
+        "keyFontWeight": "black",
+        "backgroundEffect": {
+          "style": "fireworks",
+          "speed": 0.92,
+          "intensity": 0.92,
+          "density": 0.64,
+          "scale": 1.12,
+          "reactive": true,
+          "reactionStrength": 1.45,
+          "blend": "glow",
+          "colorMode": "accent",
+          "secondaryColorMode": "custom",
+          "customColor2": {
+            "r": 1,
+            "g": 0.8,
+            "b": 0.22,
+            "a": 1
+          }
+        }
+      },
+      "asset": {
+        "path": "celebration.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/celebration.clinktheme",
+        "sha256": "d2d0ed09b4c105c98917eaba66bb2edcd7e8c65d6b2779f9db78024c09b05af0",
+        "byteCount": 654
       }
     },
     {
@@ -1225,6 +1828,172 @@
       }
     },
     {
+      "id": "classic-cream",
+      "name": "Classic Cream",
+      "version": "latest",
+      "preview": {
+        "id": "classic-cream",
+        "name": "Classic Cream",
+        "material": "classic",
+        "background": {
+          "r": 0.48,
+          "g": 0.52,
+          "b": 0.58,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.98,
+          "g": 0.98,
+          "b": 0.97,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.02,
+          "g": 0.02,
+          "b": 0.02,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.52,
+          "g": 0.56,
+          "b": 0.62,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.12,
+          "g": 0.42,
+          "b": 0.88,
+          "a": 1
+        },
+        "isDark": false,
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "medium",
+        "keyInnerStroke": {
+          "style": "solid",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.72
+          },
+          "width": 1
+        },
+        "keyOuterStroke": {
+          "style": "solid",
+          "color": {
+            "r": 0.12,
+            "g": 0.15,
+            "b": 0.2,
+            "a": 0.22
+          },
+          "width": 0.75
+        },
+        "keyShadow": {
+          "isOn": true,
+          "color": {
+            "r": 0.05,
+            "g": 0.07,
+            "b": 0.1,
+            "a": 0.32
+          },
+          "radius": 1.5,
+          "x": 0,
+          "y": 1.5
+        }
+      },
+      "asset": {
+        "path": "classic-cream.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/classic-cream.clinktheme",
+        "sha256": "2986a054e9f790bc2b5108d087bf97b614016695d89c78587a6a7cc98b4283eb",
+        "byteCount": 685
+      }
+    },
+    {
+      "id": "cobalt-night",
+      "name": "Cobalt Night",
+      "version": "latest",
+      "preview": {
+        "id": "cobalt-night",
+        "name": "Cobalt Night",
+        "material": "solid",
+        "background": {
+          "r": 0.025,
+          "g": 0.055,
+          "b": 0.14,
+          "a": 1
+        },
+        "backgroundGradient": {
+          "type": "linear",
+          "rotation": 155,
+          "stops": [
+            {
+              "color": {
+                "r": 0.04,
+                "g": 0.13,
+                "b": 0.31,
+                "a": 1
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "r": 0.012,
+                "g": 0.025,
+                "b": 0.075,
+                "a": 1
+              },
+              "position": 1
+            }
+          ]
+        },
+        "keyFill": {
+          "r": 0.075,
+          "g": 0.16,
+          "b": 0.33,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.89,
+          "g": 0.95,
+          "b": 1,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.035,
+          "g": 0.09,
+          "b": 0.21,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.5,
+          "g": 0.77,
+          "b": 1,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.18,
+          "g": 0.56,
+          "b": 1,
+          "a": 1
+        },
+        "isDark": true,
+        "keyFontDesign": "monospaced",
+        "keyFontWeight": "medium"
+      },
+      "asset": {
+        "path": "cobalt-night.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/cobalt-night.clinktheme",
+        "sha256": "7decc86ef039e45ab7e292762c7aec3e55cdadd2b7abd19d39f385db20bfbc22",
+        "byteCount": 738
+      }
+    },
+    {
       "id": "console",
       "name": "Console",
       "version": "latest",
@@ -1413,7 +2182,6 @@
           "r": 0.16470588235294117
         },
         "material": "metal",
-        "metalVariant": "copper",
         "name": "Copper",
         "specialKeyFill": {
           "a": 1,
@@ -1432,8 +2200,8 @@
       "asset": {
         "path": "copper.clinktheme",
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/copper.clinktheme",
-        "sha256": "72295ac37df415d3040c5f006d705b112a4bd240ca41eb91b67e7e9c89d45c1a",
-        "byteCount": 1739
+        "sha256": "16b3b8c4f52dff9bde397f31a97b1bdc0203051cbcb2ef2248da37b2afd9f499",
+        "byteCount": 1711
       }
     },
     {
@@ -1989,6 +2757,61 @@
       }
     },
     {
+      "id": "forge-molten",
+      "name": "Forge Molten",
+      "version": "latest",
+      "preview": {
+        "id": "forge-molten",
+        "name": "Forge Molten",
+        "material": "molten",
+        "background": {
+          "r": 0.055,
+          "g": 0.018,
+          "b": 0.008,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.22,
+          "g": 0.055,
+          "b": 0.018,
+          "a": 1
+        },
+        "keyText": {
+          "r": 1,
+          "g": 0.91,
+          "b": 0.75,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.12,
+          "g": 0.027,
+          "b": 0.008,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 1,
+          "g": 0.65,
+          "b": 0.34,
+          "a": 1
+        },
+        "accent": {
+          "r": 1,
+          "g": 0.22,
+          "b": 0.025,
+          "a": 1
+        },
+        "isDark": true,
+        "keyFontDesign": "copperplate",
+        "keyFontWeight": "bold"
+      },
+      "asset": {
+        "path": "forge-molten.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/forge-molten.clinktheme",
+        "sha256": "6c001ca2b39dfe5379d8d1f0393ce3f627361873e768f7e394f4e418e04b1483",
+        "byteCount": 416
+      }
+    },
+    {
       "id": "gunmetal",
       "name": "Gunmetal",
       "version": "latest",
@@ -2071,7 +2894,6 @@
           "r": 0.9019607843137255
         },
         "material": "metal",
-        "metalVariant": "gunmetal",
         "name": "Gunmetal",
         "specialKeyFill": {
           "a": 1,
@@ -2090,8 +2912,8 @@
       "asset": {
         "path": "gunmetal.clinktheme",
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/gunmetal.clinktheme",
-        "sha256": "ea1f173a4942f3a11036239b97746fd3965a7aca88a5894be5844fc4442d50ea",
-        "byteCount": 1754
+        "sha256": "ab1780d0f285fd62e29e038876531742508a1e04abfbfe26cb08a4b887c813b6",
+        "byteCount": 1724
       }
     },
     {
@@ -2766,6 +3588,85 @@
       }
     },
     {
+      "id": "linen",
+      "name": "Linen",
+      "version": "latest",
+      "preview": {
+        "id": "linen",
+        "name": "Linen",
+        "material": "solid",
+        "background": {
+          "r": 0.93,
+          "g": 0.9,
+          "b": 0.84,
+          "a": 1
+        },
+        "backgroundGradient": {
+          "type": "linear",
+          "rotation": 145,
+          "stops": [
+            {
+              "color": {
+                "r": 0.97,
+                "g": 0.94,
+                "b": 0.88,
+                "a": 1
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "r": 0.86,
+                "g": 0.82,
+                "b": 0.74,
+                "a": 1
+              },
+              "position": 1
+            }
+          ]
+        },
+        "keyFill": {
+          "r": 1,
+          "g": 0.985,
+          "b": 0.94,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.19,
+          "g": 0.15,
+          "b": 0.1,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.78,
+          "g": 0.72,
+          "b": 0.62,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.16,
+          "g": 0.12,
+          "b": 0.08,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.58,
+          "g": 0.31,
+          "b": 0.16,
+          "a": 1
+        },
+        "isDark": false,
+        "keyFontDesign": "georgia",
+        "keyFontWeight": "regular"
+      },
+      "asset": {
+        "path": "linen.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/linen.clinktheme",
+        "sha256": "8927e2465a5b61334b92f61cfd4627920527235e4489f0d7443d180e95388dae",
+        "byteCount": 723
+      }
+    },
+    {
       "id": "liquid-aqua",
       "name": "Liquid Aqua",
       "version": "latest",
@@ -2869,6 +3770,87 @@
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/liquid-aqua.clinktheme",
         "sha256": "91646e2f6766c373ad684780939ae55d0a47f6d241e87895de56f07384543f99",
         "byteCount": 1658
+      }
+    },
+    {
+      "id": "liquid-coral",
+      "name": "Liquid Coral",
+      "version": "latest",
+      "preview": {
+        "id": "liquid-coral",
+        "name": "Liquid Coral",
+        "material": "liquidGlass",
+        "background": {
+          "r": 0.98,
+          "g": 0.48,
+          "b": 0.4,
+          "a": 0.26
+        },
+        "backgroundGradient": {
+          "type": "radial",
+          "rotation": 0,
+          "stops": [
+            {
+              "color": {
+                "r": 1,
+                "g": 0.76,
+                "b": 0.61,
+                "a": 1
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "r": 0.83,
+                "g": 0.22,
+                "b": 0.39,
+                "a": 1
+              },
+              "position": 1
+            }
+          ]
+        },
+        "keyFill": {
+          "r": 1,
+          "g": 0.98,
+          "b": 0.94,
+          "a": 0.2
+        },
+        "keyText": {
+          "r": 0.26,
+          "g": 0.06,
+          "b": 0.1,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.88,
+          "g": 0.16,
+          "b": 0.34,
+          "a": 0.19
+        },
+        "specialKeyText": {
+          "r": 0.31,
+          "g": 0.04,
+          "b": 0.11,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.79,
+          "g": 0.08,
+          "b": 0.25,
+          "a": 1
+        },
+        "isDark": false,
+        "glassVariant": "clear",
+        "glassTintStrength": 0.62,
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "semibold"
+      },
+      "asset": {
+        "path": "liquid-coral.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/liquid-coral.clinktheme",
+        "sha256": "dd519e27feb4942ae800ad1bff8bf858479ef31b3ab0356144a063fdf9ef4aff",
+        "byteCount": 803
       }
     },
     {
@@ -4025,7 +5007,6 @@
           "r": 0.16470588235294117
         },
         "material": "metal",
-        "metalVariant": "gold",
         "name": "Machined",
         "specialKeyFill": {
           "a": 1,
@@ -4044,8 +5025,8 @@
       "asset": {
         "path": "mechanical.clinktheme",
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/mechanical.clinktheme",
-        "sha256": "3e2b24c1431c70668979c822d7ee150f0fd8d29e5df2a81095b04acaae2e4b51",
-        "byteCount": 1755
+        "sha256": "6d498ae50699282becde25c83cd8c1a1fcb8eac9db5435f3994349ade9727a7b",
+        "byteCount": 1729
       }
     },
     {
@@ -4983,6 +5964,112 @@
       }
     },
     {
+      "id": "pilsner",
+      "name": "Pilsner",
+      "version": "latest",
+      "preview": {
+        "accent": {
+          "a": 1,
+          "b": 0.2627450980392157,
+          "g": 0.7215686274509804,
+          "r": 0.8431372549019608
+        },
+        "background": {
+          "a": 1,
+          "b": 0.07058823529411765,
+          "g": 0.21176470588235294,
+          "r": 0
+        },
+        "glassInteractive": false,
+        "glassTintStrength": 1,
+        "glassVariant": "regular",
+        "groupPaint": [],
+        "id": "pilsner",
+        "isDark": true,
+        "keyFill": {
+          "a": 1,
+          "b": 0.17647058823529413,
+          "g": 0.4666666666666667,
+          "r": 0.027450980392156862
+        },
+        "keyFontDesign": "rounded",
+        "keyFontWeight": "medium",
+        "keyInnerShadow": {
+          "color": {
+            "a": 0.28,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": true,
+          "radius": 2,
+          "x": 0,
+          "y": 1
+        },
+        "keyInnerStroke": {
+          "color": {
+            "a": 0.22,
+            "b": 1,
+            "g": 1,
+            "r": 1
+          },
+          "style": "solid",
+          "width": 0.75
+        },
+        "keyOuterStroke": {
+          "color": {
+            "a": 0.16,
+            "b": 0.7490196078431373,
+            "g": 0.8509803921568627,
+            "r": 0.7490196078431373
+          },
+          "style": "solid",
+          "width": 0.75
+        },
+        "keyPaint": {},
+        "keyShadow": {
+          "color": {
+            "a": 0.38,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "isOn": true,
+          "radius": 3,
+          "x": 0,
+          "y": 2
+        },
+        "keyText": {
+          "a": 1,
+          "b": 0.9254901960784314,
+          "g": 0.9686274509803922,
+          "r": 0.9803921568627451
+        },
+        "material": "metal",
+        "metalVariant": "silver",
+        "name": "Pilsner",
+        "specialKeyFill": {
+          "a": 1,
+          "b": 0.12549019607843137,
+          "g": 0.33725490196078434,
+          "r": 0
+        },
+        "specialKeyText": {
+          "a": 1,
+          "b": 0.8549019607843137,
+          "g": 0.9333333333333333,
+          "r": 0.9019607843137255
+        },
+        "threeDVariant": "modern"
+      },
+      "asset": {
+        "path": "pilsner.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/pilsner.clinktheme",
+        "sha256": "d6d791037b2290c772393d3fcc35735aa3140ccb4b0bca9ba192aac8e0966ba8",
+        "byteCount": 1689
+      }
+    },
+    {
       "id": "pistachio",
       "name": "Pistachio",
       "version": "latest",
@@ -5171,7 +6258,6 @@
           "r": 0.1411764705882353
         },
         "material": "metal",
-        "metalVariant": "silver",
         "name": "Platinum",
         "specialKeyFill": {
           "a": 1,
@@ -5190,8 +6276,131 @@
       "asset": {
         "path": "platinum.clinktheme",
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/platinum.clinktheme",
-        "sha256": "a3ebead33c73ec2bd1ce8d1337b3f167eebaa9331ca271cc90446cdb7f37840e",
-        "byteCount": 1746
+        "sha256": "c4b16630d0736c79c003a9e204a988419bada603a226692c979c85f36d996b6d",
+        "byteCount": 1718
+      }
+    },
+    {
+      "id": "prism-glass",
+      "name": "Prism Glass",
+      "version": "latest",
+      "preview": {
+        "id": "prism-glass",
+        "name": "Prism Glass",
+        "material": "liquidGlass",
+        "background": {
+          "r": 0.12,
+          "g": 0.035,
+          "b": 0.25,
+          "a": 0.32
+        },
+        "backgroundGradient": {
+          "type": "angular",
+          "rotation": 35,
+          "stops": [
+            {
+              "color": {
+                "r": 0.15,
+                "g": 0.03,
+                "b": 0.33,
+                "a": 1
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "r": 0.02,
+                "g": 0.42,
+                "b": 0.54,
+                "a": 1
+              },
+              "position": 0.38
+            },
+            {
+              "color": {
+                "r": 0.78,
+                "g": 0.12,
+                "b": 0.48,
+                "a": 1
+              },
+              "position": 0.72
+            },
+            {
+              "color": {
+                "r": 0.15,
+                "g": 0.03,
+                "b": 0.33,
+                "a": 1
+              },
+              "position": 1
+            }
+          ]
+        },
+        "keyGradient": {
+          "type": "linear",
+          "rotation": 118,
+          "stops": [
+            {
+              "color": {
+                "r": 0.44,
+                "g": 0.83,
+                "b": 1,
+                "a": 0.25
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "r": 1,
+                "g": 0.45,
+                "b": 0.78,
+                "a": 0.22
+              },
+              "position": 1
+            }
+          ]
+        },
+        "keyFill": {
+          "r": 0.9,
+          "g": 0.78,
+          "b": 1,
+          "a": 0.16
+        },
+        "keyText": {
+          "r": 1,
+          "g": 0.96,
+          "b": 1,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.12,
+          "g": 0.82,
+          "b": 0.92,
+          "a": 0.2
+        },
+        "specialKeyText": {
+          "r": 0.87,
+          "g": 0.98,
+          "b": 1,
+          "a": 1
+        },
+        "accent": {
+          "r": 1,
+          "g": 0.38,
+          "b": 0.74,
+          "a": 1
+        },
+        "isDark": true,
+        "glassVariant": "clear",
+        "glassInteractive": true,
+        "glassTintStrength": 0.58,
+        "keyFontWeight": "medium"
+      },
+      "asset": {
+        "path": "prism-glass.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/prism-glass.clinktheme",
+        "sha256": "74e8fd68df5941e1852642d4d2e7159aa067b0cd2828a784bba9d78691e81351",
+        "byteCount": 934
       }
     },
     {
@@ -5277,7 +6486,6 @@
           "r": 0.22745098039215686
         },
         "material": "metal",
-        "metalVariant": "roseGold",
         "name": "Rose Gold",
         "specialKeyFill": {
           "a": 1,
@@ -5296,8 +6504,8 @@
       "asset": {
         "path": "rosegold.clinktheme",
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/rosegold.clinktheme",
-        "sha256": "fff102d4d255af53ea6d25ef1374c109f162a0df11f5aa50b2d48e3ad6ed759a",
-        "byteCount": 1737
+        "sha256": "31b45e22f41ba6a6b321857cefe5612afc6430d35948cefeee104b02b3a00659",
+        "byteCount": 1707
       }
     },
     {
@@ -5736,6 +6944,148 @@
       }
     },
     {
+      "id": "snow-script",
+      "name": "Snow Script",
+      "version": "latest",
+      "preview": {
+        "id": "snow-script",
+        "name": "Snow Script",
+        "material": "solid",
+        "background": {
+          "r": 0.09,
+          "g": 0.16,
+          "b": 0.27,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.88,
+          "g": 0.95,
+          "b": 1,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.05,
+          "g": 0.16,
+          "b": 0.29,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.45,
+          "g": 0.67,
+          "b": 0.82,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.03,
+          "g": 0.12,
+          "b": 0.22,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.18,
+          "g": 0.62,
+          "b": 0.86,
+          "a": 1
+        },
+        "isDark": true,
+        "keyFontDesign": "script",
+        "keyFontWeight": "regular",
+        "backgroundEffect": {
+          "style": "snow",
+          "speed": 0.58,
+          "intensity": 0.78,
+          "density": 0.72,
+          "scale": 0.9,
+          "reactive": true,
+          "reactionStrength": 0.82,
+          "blend": "solid",
+          "colorMode": "keyFill",
+          "secondaryColorMode": "custom",
+          "customColor2": {
+            "r": 0.46,
+            "g": 0.78,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      "asset": {
+        "path": "snow-script.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/snow-script.clinktheme",
+        "sha256": "ecaf89c55dab811e708a1570d24a8325227fdc7b4b877e59626e3ebf8a82e0b6",
+        "byteCount": 657
+      }
+    },
+    {
+      "id": "soda-bubbles",
+      "name": "Soda Bubbles",
+      "version": "latest",
+      "preview": {
+        "id": "soda-bubbles",
+        "name": "Soda Bubbles",
+        "material": "liquidGlass",
+        "background": {
+          "r": 0.16,
+          "g": 0.03,
+          "b": 0.17,
+          "a": 0.44
+        },
+        "keyFill": {
+          "r": 1,
+          "g": 0.72,
+          "b": 0.9,
+          "a": 0.19
+        },
+        "keyText": {
+          "r": 1,
+          "g": 0.94,
+          "b": 0.99,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.7,
+          "g": 0.18,
+          "b": 0.7,
+          "a": 0.2
+        },
+        "specialKeyText": {
+          "r": 1,
+          "g": 0.82,
+          "b": 0.96,
+          "a": 1
+        },
+        "accent": {
+          "r": 1,
+          "g": 0.3,
+          "b": 0.66,
+          "a": 1
+        },
+        "isDark": true,
+        "glassVariant": "regular",
+        "glassTintStrength": 0.66,
+        "keyFontDesign": "marker",
+        "keyFontWeight": "medium",
+        "backgroundEffect": {
+          "style": "bubbles",
+          "speed": 0.72,
+          "intensity": 0.72,
+          "density": 0.76,
+          "scale": 1.1,
+          "reactive": true,
+          "reactionStrength": 1.12,
+          "blend": "glow",
+          "colorMode": "accent",
+          "secondaryColorMode": "keyFill"
+        }
+      },
+      "asset": {
+        "path": "soda-bubbles.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/soda-bubbles.clinktheme",
+        "sha256": "af3b79ac66c14cda7a9fc8c14f52c8db87ccc23fa5207810ceb0293922447ce6",
+        "byteCount": 669
+      }
+    },
+    {
       "id": "steel",
       "name": "Steel",
       "version": "latest",
@@ -5818,7 +7168,6 @@
           "r": 0.9215686274509803
         },
         "material": "metal",
-        "metalVariant": "steel",
         "name": "Steel",
         "specialKeyFill": {
           "a": 1,
@@ -5837,8 +7186,8 @@
       "asset": {
         "path": "steel.clinktheme",
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/steel.clinktheme",
-        "sha256": "e011494624ff4bba5c33f6931994fcde25860224c204079881577c2948319788",
-        "byteCount": 1731
+        "sha256": "64fb77aec6b7c12feeb23eab70cfec4b9380a891725963bfe8161b84d4bfcd97",
+        "byteCount": 1704
       }
     },
     {
@@ -6278,6 +7627,61 @@
       }
     },
     {
+      "id": "terminal-amber",
+      "name": "Terminal Amber",
+      "version": "latest",
+      "preview": {
+        "id": "terminal-amber",
+        "name": "Terminal Amber",
+        "material": "solid",
+        "background": {
+          "r": 0.025,
+          "g": 0.02,
+          "b": 0.012,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.1,
+          "g": 0.073,
+          "b": 0.025,
+          "a": 1
+        },
+        "keyText": {
+          "r": 1,
+          "g": 0.74,
+          "b": 0.27,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.055,
+          "g": 0.04,
+          "b": 0.015,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.84,
+          "g": 0.51,
+          "b": 0.16,
+          "a": 1
+        },
+        "accent": {
+          "r": 1,
+          "g": 0.49,
+          "b": 0.08,
+          "a": 1
+        },
+        "isDark": true,
+        "keyFontDesign": "typewriter",
+        "keyFontWeight": "medium"
+      },
+      "asset": {
+        "path": "terminal-amber.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/terminal-amber.clinktheme",
+        "sha256": "130f2209b4bfa7734333bb679050b3a331c26ed68f35fbef3f9a25468d9634c7",
+        "byteCount": 526
+      }
+    },
+    {
       "id": "tide",
       "name": "Tide",
       "version": "latest",
@@ -6466,7 +7870,6 @@
           "r": 0.14901960784313725
         },
         "material": "metal",
-        "metalVariant": "titanium",
         "name": "Titanium",
         "specialKeyFill": {
           "a": 1,
@@ -6485,8 +7888,75 @@
       "asset": {
         "path": "titanium.clinktheme",
         "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/titanium.clinktheme",
-        "sha256": "89bc23bbe70163ef3ad770160de28e687d7df2d6f61a0f05711219b101b7a459",
-        "byteCount": 1751
+        "sha256": "bafc34d41a8323d3908af1ba58f5ee2df0331ccae1467e24068cad3a884992df",
+        "byteCount": 1721
+      }
+    },
+    {
+      "id": "warp-terminal",
+      "name": "Warp Terminal",
+      "version": "latest",
+      "preview": {
+        "id": "warp-terminal",
+        "name": "Warp Terminal",
+        "material": "solid",
+        "background": {
+          "r": 0.002,
+          "g": 0.012,
+          "b": 0.027,
+          "a": 1
+        },
+        "keyFill": {
+          "r": 0.025,
+          "g": 0.09,
+          "b": 0.16,
+          "a": 1
+        },
+        "keyText": {
+          "r": 0.62,
+          "g": 0.92,
+          "b": 1,
+          "a": 1
+        },
+        "specialKeyFill": {
+          "r": 0.01,
+          "g": 0.04,
+          "b": 0.08,
+          "a": 1
+        },
+        "specialKeyText": {
+          "r": 0.28,
+          "g": 0.75,
+          "b": 1,
+          "a": 1
+        },
+        "accent": {
+          "r": 0.22,
+          "g": 0.62,
+          "b": 1,
+          "a": 1
+        },
+        "isDark": true,
+        "keyFontDesign": "monospaced",
+        "keyFontWeight": "heavy",
+        "backgroundEffect": {
+          "style": "warpSpeed",
+          "speed": 1.3,
+          "intensity": 0.78,
+          "density": 0.66,
+          "scale": 0.95,
+          "reactive": true,
+          "reactionStrength": 1.4,
+          "blend": "glow",
+          "colorMode": "accent",
+          "secondaryColorMode": "keyFill"
+        }
+      },
+      "asset": {
+        "path": "warp-terminal.clinktheme",
+        "url": "https://github.com/anti-ltd/clink-themes/releases/download/latest/warp-terminal.clinktheme",
+        "sha256": "c6afd4ad2259fb62c0830722eaf285b38830303bbcbea5b0b4bfb1785cb26b4d",
+        "byteCount": 617
       }
     }
   ]
