@@ -1,0 +1,191 @@
+{
+  "id": "berry-dark",
+  "name": "Berry Dark",
+  "material": "3d",
+  "threeDVariant": "berry",
+  "background": {
+    "r": 0.06274509803921569,
+    "g": 0.07058823529411765,
+    "b": 0.0784313725490196,
+    "a": 1.0
+  },
+  "keyFill": {
+    "r": 0.1450980392156863,
+    "g": 0.1568627450980392,
+    "b": 0.17254901960784313,
+    "a": 1.0
+  },
+  "keyText": {
+    "r": 0.9764705882352941,
+    "g": 0.9803921568627451,
+    "b": 0.9882352941176471,
+    "a": 1.0
+  },
+  "specialKeyFill": {
+    "r": 0.11372549019607843,
+    "g": 0.12549019607843137,
+    "b": 0.1411764705882353,
+    "a": 1.0
+  },
+  "specialKeyText": {
+    "r": 0.9254901960784314,
+    "g": 0.9372549019607843,
+    "b": 0.9529411764705882,
+    "a": 1.0
+  },
+  "accent": {
+    "r": 0.4235294117647059,
+    "g": 0.4470588235294118,
+    "b": 0.47843137254901963,
+    "a": 1.0
+  },
+  "isDark": true,
+  "liquidGlass": false,
+  "keyCapShape": "rect",
+  "keyFan": 0,
+  "berryWallSide": "right",
+  "berryMirrorWall": true,
+  "berryRampEnabled": true,
+  "keyFontDesign": "default",
+  "keyFontWeight": "medium",
+  "keyInnerStroke": {
+    "style": "none",
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.3
+    },
+    "width": 1
+  },
+  "keyOuterStroke": {
+    "style": "none",
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.3
+    },
+    "width": 1
+  },
+  "keyShadow": {
+    "isOn": false,
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.35
+    },
+    "radius": 4,
+    "x": 0,
+    "y": 2
+  },
+  "keyInnerShadow": {
+    "isOn": false,
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.35
+    },
+    "radius": 4,
+    "x": 0,
+    "y": 2
+  },
+  "keyPaint": {
+    "f:planeToggle": {
+      "berryOppositeEdge": "oval"
+    }
+  },
+  "groupPaint": {
+    "modifiers": {
+      "activeFill": {
+        "r": 0.11372549019607843,
+        "g": 0.12549019607843137,
+        "b": 0.1411764705882353,
+        "a": 1.0
+      },
+      "activeText": {
+        "r": 0.9254901960784314,
+        "g": 0.9372549019607843,
+        "b": 0.9529411764705882,
+        "a": 1.0
+      }
+    },
+    "shift": {
+      "activeFill": {
+        "r": 0.11372549019607843,
+        "g": 0.12549019607843137,
+        "b": 0.1411764705882353,
+        "a": 1.0
+      },
+      "activeText": {
+        "r": 0.9254901960784314,
+        "g": 0.9372549019607843,
+        "b": 0.9529411764705882,
+        "a": 1.0
+      },
+      "berryWallSide": "right",
+      "berryMirrorWall": true,
+      "berryRampEnabled": true,
+      "berryOppositeEdge": "ovalRaised"
+    },
+    "backspace": {
+      "pressed": {
+        "r": 0.4235294117647059,
+        "g": 0.4470588235294118,
+        "b": 0.47843137254901963,
+        "a": 1.0
+      },
+      "berryWallSide": "right",
+      "berryMirrorWall": true,
+      "berryRampEnabled": true,
+      "berryOppositeEdge": "ovalRaised"
+    },
+    "return": {
+      "activeFill": {
+        "r": 0.11372549019607843,
+        "g": 0.12549019607843137,
+        "b": 0.1411764705882353,
+        "a": 1.0
+      },
+      "activeText": {
+        "r": 0.9254901960784314,
+        "g": 0.9372549019607843,
+        "b": 0.9529411764705882,
+        "a": 1.0
+      },
+      "berryWallSide": "right",
+      "berryMirrorWall": true,
+      "berryRampEnabled": true,
+      "berryOppositeEdge": "oval"
+    },
+    "space": {
+      "fill": {
+        "r": 0.1450980392156863,
+        "g": 0.1568627450980392,
+        "b": 0.17254901960784313,
+        "a": 1.0
+      },
+      "text": {
+        "r": 0.9764705882352941,
+        "g": 0.9803921568627451,
+        "b": 0.9882352941176471,
+        "a": 1.0
+      },
+      "activeFill": {
+        "r": 0.1450980392156863,
+        "g": 0.1568627450980392,
+        "b": 0.17254901960784313,
+        "a": 1.0
+      },
+      "activeText": {
+        "r": 0.9764705882352941,
+        "g": 0.9803921568627451,
+        "b": 0.9882352941176471,
+        "a": 1.0
+      },
+      "berryOppositeEdge": "allCorners"
+    }
+  }
+}

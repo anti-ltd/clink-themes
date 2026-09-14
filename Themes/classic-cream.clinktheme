@@ -1,1 +1,126 @@
-{"id":"classic-cream","name":"Classic Cream","material":"classic","background":{"r":0.48,"g":0.52,"b":0.58,"a":1},"keyFill":{"r":0.98,"g":0.98,"b":0.97,"a":1},"keyText":{"r":0.02,"g":0.02,"b":0.02,"a":1},"specialKeyFill":{"r":0.52,"g":0.56,"b":0.62,"a":1},"specialKeyText":{"r":1,"g":1,"b":1,"a":1},"accent":{"r":0.12,"g":0.42,"b":0.88,"a":1},"isDark":false,"keyFontDesign":"rounded","keyFontWeight":"medium","keyInnerStroke":{"style":"solid","color":{"r":1,"g":1,"b":1,"a":0.72},"width":1},"keyOuterStroke":{"style":"solid","color":{"r":0.12,"g":0.15,"b":0.20,"a":0.22},"width":0.75},"keyShadow":{"isOn":true,"color":{"r":0.05,"g":0.07,"b":0.10,"a":0.32},"radius":1.5,"x":0,"y":1.5}}
+{
+  "id": "classic-cream",
+  "name": "Classic Cream",
+  "material": "classic",
+  "background": {
+    "r": 0.32549,
+    "g": 0.364706,
+    "b": 0.411765,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.941176,
+    "g": 0.945098,
+    "b": 0.94902,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.494118,
+    "g": 0.533333,
+    "b": 0.584314,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.12,
+    "g": 0.42,
+    "b": 0.88,
+    "a": 1
+  },
+  "isDark": false,
+  "keyFontDesign": "default",
+  "keyFontWeight": "bold",
+  "keyFontPostScriptName": "Helvetica-Bold",
+  "backgroundGradient": {
+    "type": "linear",
+    "rotation": 180,
+    "stops": [
+      {
+        "color": {
+          "r": 0.552941,
+          "g": 0.580392,
+          "b": 0.619608,
+          "a": 1
+        },
+        "position": 0
+      },
+      {
+        "color": {
+          "r": 0.27451,
+          "g": 0.317647,
+          "b": 0.364706,
+          "a": 1
+        },
+        "position": 1
+      }
+    ]
+  },
+  "groupPaint": {
+    "letters": {
+      "cornerRadius": 4
+    },
+    "numbers": {
+      "cornerRadius": 4
+    },
+    "punctuation": {
+      "cornerRadius": 4
+    },
+    "modifiers": {
+      "cornerRadius": 4
+    },
+    "space": {
+      "cornerRadius": 4,
+      "fill": {
+        "r": 0.807843,
+        "g": 0.819608,
+        "b": 0.839216,
+        "a": 1
+      },
+      "text": {
+        "r": 0.313725,
+        "g": 0.356863,
+        "b": 0.403922,
+        "a": 1
+      },
+      "pressed": {
+        "r": 0.537255,
+        "g": 0.580392,
+        "b": 0.631373,
+        "a": 1
+      }
+    },
+    "backspace": {
+      "pressed": {
+        "r": 0.537255,
+        "g": 0.580392,
+        "b": 0.631373,
+        "a": 1
+      }
+    },
+    "shift": {
+      "activeFill": {
+        "r": 0.831373,
+        "g": 0.843137,
+        "b": 0.862745,
+        "a": 1
+      },
+      "activeText": {
+        "r": 0.27451,
+        "g": 0.396078,
+        "b": 0.517647,
+        "a": 1
+      }
+    }
+  }
+}
