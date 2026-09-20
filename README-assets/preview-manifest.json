@@ -1,0 +1,318 @@
+{
+  "amethyst": {
+    "themeSHA256": "8e7eaa06a95992fe27cd4e89c374306027ff893da09a5ccac3fffb4066cc8f06",
+    "previewSHA256": "5467999590fea11021e0c30c036e52a6209eaa8f5bb562949d1450bb98470216"
+  },
+  "apricot": {
+    "themeSHA256": "60a44b7c58035348b5faca8c6b39c89b7dc4c91890324523bcbb42773dbba68f",
+    "previewSHA256": "602d12fc7f2e7a859bd63e93cd82380e9b75427837180d1a346a88893fbe3aa7"
+  },
+  "arcade-gamepad": {
+    "themeSHA256": "063e0153a23d1f5b136953a6cd4248bef240e335464f08ce55ea05b326a399b6",
+    "previewSHA256": "f76dd7d8da37c22d53285e536a7c8ab8a4479bc1a18c203492b6d1d41c6f6a32"
+  },
+  "arctic-ice": {
+    "themeSHA256": "5e490045b186ccedfb0c7f8a7def75a235ec288e956d4929ece10cedecf5eebe",
+    "previewSHA256": "2a1178899da141914362a41f60cce85bacc7a06ee04d72bc1b9a6afd535933d0"
+  },
+  "arctic-ice-clear": {
+    "themeSHA256": "a0adf5e10379cfeb8c1cd612f8d2e6aaf3d8b5e90ba615bc6813823cb4dea888",
+    "previewSHA256": "a9f2956198cc59777a3dfcfb66f556d1d2c595c582190e219355e7f43bbd76ae"
+  },
+  "aurora-grove": {
+    "themeSHA256": "77145c306ca60ec56ad38af033597c87e3843c6219b4b83a26060dfcf632f8aa",
+    "previewSHA256": "322b06adbe90c4cea27221bf28b08cb6b23a2e20639d94b20fd6b2dc08b06fa7"
+  },
+  "bauhaus": {
+    "themeSHA256": "82bd2a71050e556e5a7bc73b30a6fbdb5fbeb4f0133fed1f14c89dd597184154",
+    "previewSHA256": "dd0bb87d13a98bcdc0bbf5e87d787dcfcfdde3773d61325ca6ad57dff72e68f5"
+  },
+  "berry-dark": {
+    "themeSHA256": "986f5427a1f0c086da010db4cf4859cd4e013152abed4fd8a311dd757828c3bc",
+    "previewSHA256": "c114aed272e595bb9f04a32ee3102b34902df55e5e8a80416dd48b6742b8b29f"
+  },
+  "berry-light": {
+    "themeSHA256": "5a1978c2198716ba2a6c71c0b436e27fbd655114059d54b281dcca56deb8adcd",
+    "previewSHA256": "c59778fa346ba11c9739aedabcffb546964b25be2747bd209d7f80a8ae14984e"
+  },
+  "bronze": {
+    "themeSHA256": "11f930e2f14f2eadde7509791b9ee7a9a1077eb4c8d65b9b1e1caaef6f1b9dde",
+    "previewSHA256": "0d99c6e609bdbda3b5445ea134207a336ec90eaec25d1f415aa73cfb1cd84e38"
+  },
+  "bubblegum": {
+    "themeSHA256": "f8ced439f78649bb271de03543cf9487e183ad54cf9aecbc6dba018eb03d30b0",
+    "previewSHA256": "f8d77ecf5b6ad0bc8249ad465ba7d500794af7e9fc3fa85596b307e35474b8b6"
+  },
+  "canvas-signal": {
+    "themeSHA256": "ab252cd480d6b2a97ffd93bb0e5adc569c6731fe2a505db7fbfd655f45cf9014",
+    "previewSHA256": "5326eec190bd5de2be3314565aba6431fef2958f07295e1a113ef86613c0c4de"
+  },
+  "celebration": {
+    "themeSHA256": "d2d0ed09b4c105c98917eaba66bb2edcd7e8c65d6b2779f9db78024c09b05af0",
+    "previewSHA256": "2afbdb5baf7db016ddeb8444648239c7c4d30563c5ea644d633eab48bf761473"
+  },
+  "chalk": {
+    "themeSHA256": "38a28a7ac39557dd84860b20b28e6400e54737c2e3e5ea00cea4c47967d92bd2",
+    "previewSHA256": "b8557532e97fa4b6e5f6d01d1c7e9312045411214fdcb490d6fe0ec8ce414053"
+  },
+  "cherry": {
+    "themeSHA256": "231de64ac0397385027756f77f5290d2916e03cb2680cd8d085152ec99b47f82",
+    "previewSHA256": "270f979ad345b24b720664c80a94b524ce67779d5ac65190861c98f62b1af3bf"
+  },
+  "cherry-mechanical": {
+    "themeSHA256": "9299d7593a546b18e105d66acccc5f029ee896aeffb33ee5ae4cf08f4466b470",
+    "previewSHA256": "8293b0e519c993f4440a97a7d24e889cedf52dcad1a97125799cec1151a09323"
+  },
+  "chloe": {
+    "themeSHA256": "0abfa5c00c8cb55cd9f74aa0cb46b2643276ada856d6ff600c554202fad67749",
+    "previewSHA256": "70f36f8febad347c126c35c657f0d225694797e28ce01e666876836cfd6fa971"
+  },
+  "citrus": {
+    "themeSHA256": "39a22e8262161b62325fc5b8fe1edeb83ea8e4bdd1c43d4929084c8de76b0100",
+    "previewSHA256": "a4f0978e81745840116f9c5a3bd966d54bb1add1636c7edf2aa8e3fb1bdac83a"
+  },
+  "citrus-modern": {
+    "themeSHA256": "85ac0f75dd8f711c18ec9515bcfcdb3e2da5a7249341332bd4d072b3dbef82e2",
+    "previewSHA256": "df93aa0368d4f352f0ce3a2c21f3f8895fdb90a37d255b904423d92f23c05c10"
+  },
+  "classic-cream": {
+    "themeSHA256": "496064df8f4c2535b81f020888b7b18982a620b45a2465951ca1f8f39032c1c6",
+    "previewSHA256": "bcb2267137f98099e347f37da5b0cfc68ea86b30d18ed9a970c91a25d1e6eb4d"
+  },
+  "cobalt-night": {
+    "themeSHA256": "7decc86ef039e45ab7e292762c7aec3e55cdadd2b7abd19d39f385db20bfbc22",
+    "previewSHA256": "cb2e8e201af8157070aa859bae1681c8d45a6ab028037c238629d9fb63b6c5dd"
+  },
+  "console": {
+    "themeSHA256": "4de6960253cc6dc130e5f38f43079cf22074f7385ab2715b0c6c9e2dd46d8b7d",
+    "previewSHA256": "444fec99d25206f86e9babc4d8c695ccb4ba269cc708045fd8c241ed4826c684"
+  },
+  "copper": {
+    "themeSHA256": "16b3b8c4f52dff9bde397f31a97b1bdc0203051cbcb2ef2248da37b2afd9f499",
+    "previewSHA256": "96bbabf21ba8fddb03d037baf2f755695a62726553dcbfe4508d595d8e0be66d"
+  },
+  "dracula": {
+    "themeSHA256": "b313f08ae8b40b520e3915426d062cdbe10e653f4143569c9a3b3991cd2f5068",
+    "previewSHA256": "d58bf46cbffa2e323da892122e706e2bb2544415ff759b1ec3d19168d2dc84b5"
+  },
+  "ember": {
+    "themeSHA256": "5d8ee07205d25b590e827e3e3fe08cc815d606a218a2962da74182e2cc96c45b",
+    "previewSHA256": "81e0bbe9e17becf90cabf11657827bf6994ab9489925261623fac5436a7c9e12"
+  },
+  "engraved": {
+    "themeSHA256": "3acd3ce8c573840a21628de9e9c6183c4717ecfcdb2e23776845f27231c12809",
+    "previewSHA256": "cd6baaf85e48af1d19afe05d991f113a08985a759ba635d61bf1e972d3733bdb"
+  },
+  "folio": {
+    "themeSHA256": "44eecd72c4ededebb6c712f075e39ddf5d950735ca31b2a4a0d8e9ff38eb0079",
+    "previewSHA256": "b738e45129723a7a289ecc867307e7864bcacad9329ee63ebae8538d8586889b"
+  },
+  "forest": {
+    "themeSHA256": "5416d28a3416f2506a4fc53e3e595171222ebf233d09e63c02627cc3e7547515",
+    "previewSHA256": "c0f426e045e62736c97de3360763e8093f55a9c83613b6344a6d650c29efc027"
+  },
+  "forge-molten": {
+    "themeSHA256": "6c001ca2b39dfe5379d8d1f0393ce3f627361873e768f7e394f4e418e04b1483",
+    "previewSHA256": "e7717a2a821ed9c30d946f8726636802b3565e4987493d123f1c03aebb3acbbe"
+  },
+  "gunmetal": {
+    "themeSHA256": "ab1780d0f285fd62e29e038876531742508a1e04abfbfe26cb08a4b887c813b6",
+    "previewSHA256": "9b8b1c8d974e5e75368616b365b417d04c93188de1f879858c54c771e7c65ca5"
+  },
+  "hailey": {
+    "themeSHA256": "65cd0b9038ac39c5fcb51ea3e5bc05a83d29892e6ced5cacfb40cf74260ce7ed",
+    "previewSHA256": "b35ec76d5ba66ba8935e2c4ee51aa2b915630f48c34027a72d69d2729a1e723c"
+  },
+  "honey": {
+    "themeSHA256": "3a4e30b405c80411d4d97dd899753b20113492fe8ecf0765b24988d0726a98a1",
+    "previewSHA256": "0d27377b59e9ac3bcf8f0ffa01f4a93c09a7959d12e335b657450db0d36a02aa"
+  },
+  "jade": {
+    "themeSHA256": "37dd4a19a37e7100628f65fc90e04d448374d59aef4a8031b8e21280fd5617a2",
+    "previewSHA256": "39b01c4185c9075546f27a7b2dc2b9a25e6ef6c3904d4284dc889d86f1044387"
+  },
+  "keycap": {
+    "themeSHA256": "6cfcbf40d78dda3fa6925cbf35921501bd8cff0a5f4a818cdd8272a68ba5b96d",
+    "previewSHA256": "0e87d2a4cafd3fad49116eafe904c6570ce3c3a0c8b959a55e11d47222deff09"
+  },
+  "latte": {
+    "themeSHA256": "21d520579b01d4326d04afe7b4678f73cd178dc821fcfe7533dcd134f9c8c279",
+    "previewSHA256": "93e6fc2727f713e4ff4fbb3094d8da6286f5571c279e687e3464bef8d0e77952"
+  },
+  "lilac": {
+    "themeSHA256": "6af21ddaa95b2fbb11832c313227092080658e77be9a3f03c4d1e6626837a74b",
+    "previewSHA256": "da07467970e9b855f139b6e92298e0629d318134c658eaae6688e4dc214cad07"
+  },
+  "linen": {
+    "themeSHA256": "8927e2465a5b61334b92f61cfd4627920527235e4489f0d7443d180e95388dae",
+    "previewSHA256": "d02ec3b097fcbd07e0a6078b8a2d0e1c41444f5c79fed0e869c1eb237d677213"
+  },
+  "liquid-aqua": {
+    "themeSHA256": "91646e2f6766c373ad684780939ae55d0a47f6d241e87895de56f07384543f99",
+    "previewSHA256": "9b5f11f65eae922a5f6a21f5b93e43113e14b0e7affca6a247fce6832cd485e9"
+  },
+  "liquid-coral": {
+    "themeSHA256": "dd519e27feb4942ae800ad1bff8bf858479ef31b3ab0356144a063fdf9ef4aff",
+    "previewSHA256": "c54a56a379ed215b9b7a8ad0b145174a20de3624161d7d3539f368eb21bd4fe3"
+  },
+  "liquid-ember": {
+    "themeSHA256": "3a2782bcde2cf54fcdf75d80487f1971910881d47e9ef5c2c84fcb28309d4951",
+    "previewSHA256": "fe5d6cf3695ece77a5375f790206cecb9a6b1773fdd08be115af523138af47fd"
+  },
+  "liquid-gold": {
+    "themeSHA256": "52a436a404ce7eefea46a855f1d54bcc81f56be780d7d374f45b488847e8d16c",
+    "previewSHA256": "0a13f1a69b54db337c5c9850e4d0c99f801bcd8e04d7a5e11a2dabc37ad75f4b"
+  },
+  "liquid-light": {
+    "themeSHA256": "07d646007ee0488ca69dcce3e5016a9ac370c557ea5824b6892de40774bcaccb",
+    "previewSHA256": "ef93f9535da551ef7cda8efaea85cfa0a2cf94d7a682c65afa8f275d62d1b142"
+  },
+  "liquid-mint": {
+    "themeSHA256": "69c4cd3a174edb831403ff72601eee63fb1d3cf0d259988e5447811ca59961e7",
+    "previewSHA256": "836510ba04e1cdb753835ad9e33ffe5f596ab6f79ab802d954b70bfa7f637094"
+  },
+  "liquid-noir": {
+    "themeSHA256": "7f8a6afa68b25fea711eaa7b75e4ec55b6074e553e5fbb7276a134304824b83a",
+    "previewSHA256": "f68391e166d69910f6a8bd2c0ed0ecd79341afa43ca607f56a26a83568ef0fe9"
+  },
+  "liquid-rose": {
+    "themeSHA256": "a49a03d9bc59fbfa5e303c10be057a19acc3c64022de796b79ea7f1b5b4012c6",
+    "previewSHA256": "85015d3a12c76d6183789b1900daeef820cd0f5f8ec230033b67dc2309f2466b"
+  },
+  "liquid-violet": {
+    "themeSHA256": "f8af7957e115440df5fae8e0fd4b6fd77ed6d574c0e2ee4ce9c9f18ff09dd50f",
+    "previewSHA256": "6fc0e65188c32ad9dd711e3a3cd10aa60dff8d50be388d443647b26a3db17712"
+  },
+  "mechanical": {
+    "themeSHA256": "6d498ae50699282becde25c83cd8c1a1fcb8eac9db5435f3994349ade9727a7b",
+    "previewSHA256": "be7223fd675b12cfc7a1394a73cd2a8ad171d2f571a7249c08b192e9bdef587d"
+  },
+  "manuscript": {
+    "themeSHA256": "fa195a9f03436ddbd6214a3b00e8c65cfaa717c32d6d41c1b37f23bcec972e10",
+    "previewSHA256": "ee2fb79667a5085f42e93e85919823c76185f39f44c878aec1a7a3eda5a9f9c0"
+  },
+  "matrix": {
+    "themeSHA256": "4057d29c179b27d321cf634994ac383f0b81bdfd9176fa73e4162bcc7055c323",
+    "previewSHA256": "65bf6a6b99d855b38367cdaa626386566e2c97b41bbc04d535595e3a9d0012a9"
+  },
+  "meadow": {
+    "themeSHA256": "be34b74f953839601e62f66fcd11dd76f3128da26507eb15f3cf5b6e45d83f3e",
+    "previewSHA256": "cf667cbcf375a1507030bddea4a46b0cab8d6511f662c08a576fdfd0a61cc2b7"
+  },
+  "mint": {
+    "themeSHA256": "e9825358b74904aa8bd73ae690ad045def15a9de500ae3163d7b771da1577659",
+    "previewSHA256": "a63e47291c58374e0bd2189d19d61c605044db7d839490b17faaa6079c57ab89"
+  },
+  "repo-nebula": {
+    "themeSHA256": "b28b538307f3aef01b97cb633f8e4a7e489829abb764f72c51ad570692a46bd2",
+    "previewSHA256": "6d83d73f9f24366fcf596c2d0564295e8adad9009826656b7069ffdb5360a543"
+  },
+  "nightcap": {
+    "themeSHA256": "7b90c1498664825a9d1b446f59baa8b1e7b4bfe1d8e9d77d7ee73ce3d15b8a37",
+    "previewSHA256": "1e053212f381f26d3ed09dd5b4e998a96e1e025a74fa38fe830cec0bf93e01ac"
+  },
+  "nightcap-modern": {
+    "themeSHA256": "e1375338cfe8c0d9116edb45beba4a8506eabe2482349d2cf146c33086368363",
+    "previewSHA256": "69378d5cd5b4845e0190c1bb0f1e29244e61d23c3168d372eed91c45133429f2"
+  },
+  "nocturne": {
+    "themeSHA256": "a199a03589bef7bb18850c190323b99cbce266989902b486d77c3fe11141eef4",
+    "previewSHA256": "5a1a47409f3a1fc1c30b932da6ad3b50e273fc32901767a155fde050312d8955"
+  },
+  "nord": {
+    "themeSHA256": "1288e9e89d59f775a24d6fc77d06fc40066a0cd242a21141ff02103d9902ade0",
+    "previewSHA256": "ba95d4eac6fe06617ddc7e942ea885d4aa6451b6253ed7371ab18821dd7f31f3"
+  },
+  "ocean": {
+    "themeSHA256": "fee89c86ad0b4f99e60d97317af5f089e51b1b2de21e141e89086545336d46e2",
+    "previewSHA256": "24b4619f5acb7d3f0d9126ec7d29b781103e6ec6b2aa89fc9a9811795e96109f"
+  },
+  "orchid": {
+    "themeSHA256": "6799602d82f24f2d96cf9f40c4ed81a1bd64aa86bd16a7bde9eaa738a3a6f43d",
+    "previewSHA256": "576868b81b4f1ae66313aa7bf7b9703b1c8bdba2e8fd1ebd597add4ca45c0fcc"
+  },
+  "paper": {
+    "themeSHA256": "0fdd3d3bee9dd79aa97c2f30ebc32a6f588f8de707b3641e9f30403bcb0f7bde",
+    "previewSHA256": "4c3300e3478084cc05d83524f2486adec83f9b9907b3609a8979078488fb09c2"
+  },
+  "pilsner": {
+    "themeSHA256": "d6d791037b2290c772393d3fcc35735aa3140ccb4b0bca9ba192aac8e0966ba8",
+    "previewSHA256": "6ede26703ae454fc6fd23538fbad489905a956edb87b32cb5acde6e70fc58949"
+  },
+  "pistachio": {
+    "themeSHA256": "8de5f32eeb27f4d8fa08a4fc37832dba91c577ea0b0f0533a49b492554f547a8",
+    "previewSHA256": "1ce204895e869f601d237b735a2d1f85c68a39440854467fc4ce64ab06b5509e"
+  },
+  "platinum": {
+    "themeSHA256": "c4b16630d0736c79c003a9e204a988419bada603a226692c979c85f36d996b6d",
+    "previewSHA256": "f63cc1efc94971528d4565afb745e930863125c5696db0bd63c3d138e7d32a36"
+  },
+  "prism-glass": {
+    "themeSHA256": "74e8fd68df5941e1852642d4d2e7159aa067b0cd2828a784bba9d78691e81351",
+    "previewSHA256": "22b8177ec2f965237d5bf79b9bc7c65ea0c45200e414aa88bf1f635f39a7caf4"
+  },
+  "rosegold": {
+    "themeSHA256": "31b45e22f41ba6a6b321857cefe5612afc6430d35948cefeee104b02b3a00659",
+    "previewSHA256": "490e798af73e8662d7c2d141fc2071e3a91c7d8d8970f476b0c95747a3f4403d"
+  },
+  "royal": {
+    "themeSHA256": "bb013b1b716e081fb7ca841cda91d7aff8f5d437bc764a674daea81c516d379b",
+    "previewSHA256": "e3fa1ffe98e52da887d141d89df213411c59c621f62bde47f88ca6a112b05fab"
+  },
+  "sakura": {
+    "themeSHA256": "3ca214b28c3cec12781a38aee9c225b9694c6b9463b8dc5e3a6ec1f76824b55c",
+    "previewSHA256": "c1add2c6aa2d08666d5f5c9a20d589e52deb32d8f8f2e5847f3b148f891bb929"
+  },
+  "sketch": {
+    "themeSHA256": "f7abcb3f088467daa5c5c3b362d33574a176fab6af0095f1f725970a66b481f1",
+    "previewSHA256": "0041df1d6e19bdda44650fe32a22ed1fcb5420f58f91abd6fc7e1f40720165d1"
+  },
+  "slate": {
+    "themeSHA256": "fa57344f95fe93859e7967c7bf1bde28cf0856b2478d5e5f22e98eaf6ef30bb0",
+    "previewSHA256": "20cdb64c15913284e74d7efc9dc4952fb9a8cd72ffb371909c03ad563bf19e86"
+  },
+  "snow-script": {
+    "themeSHA256": "ecaf89c55dab811e708a1570d24a8325227fdc7b4b877e59626e3ebf8a82e0b6",
+    "previewSHA256": "25a51f00aa5f5cf9c83a25058cf75b5f9d90a00c47c12fef55015727b468f6fc"
+  },
+  "soda-bubbles": {
+    "themeSHA256": "af3b79ac66c14cda7a9fc8c14f52c8db87ccc23fa5207810ceb0293922447ce6",
+    "previewSHA256": "8177225bdc2c5bab186061b4213e7bef382a2d9f69e0fda96990dd0840483d36"
+  },
+  "steel": {
+    "themeSHA256": "64fb77aec6b7c12feeb23eab70cfec4b9380a891725963bfe8161b84d4bfcd97",
+    "previewSHA256": "8dc22df2d23603aff02286f24a0d62d2da3aa445d1f5a2171360789f7975e470"
+  },
+  "studio": {
+    "themeSHA256": "774c7df8d0b747e2e600de1ab1cd11d5b466b58f553a9aeefd04d1640e7e5e41",
+    "previewSHA256": "86466a629df3c8f16f399dc81e18bf1dab29b121606b088ec34e045fd60eb1fa"
+  },
+  "synthwave": {
+    "themeSHA256": "8fbbea791dbaeef9e084c8e487f0fcd50b4ecde2abbe728f2538e3f6cfc60a0e",
+    "previewSHA256": "f9f16e8025c637ffb6adc5823fddaa092d9bb88d3622b38bf28391c8a66c02f5"
+  },
+  "tealcap": {
+    "themeSHA256": "15807e4847c8b87d1bf680fddb6dd0b9d68a7e0d63ee25401337f7fc0c1ef374",
+    "previewSHA256": "f640132ee5991ad75b6f84b2bf259349c8e6eb62ddc746abaaedcb284d690e73"
+  },
+  "tealcap-mechanical": {
+    "themeSHA256": "4028f680ead272857ca7b43a2ac5f9395ede8654b6268ac409ee3065792f7bfa",
+    "previewSHA256": "9b7b344780f1fb4cb3916a20149ce7945e5aa000e72f0b3d57e333986dff954e"
+  },
+  "terminal-amber": {
+    "themeSHA256": "130f2209b4bfa7734333bb679050b3a331c26ed68f35fbef3f9a25468d9634c7",
+    "previewSHA256": "da25968c5a5378989de5d1c2d5791f6942f53d77d960e943c376179fd417ccd6"
+  },
+  "tide": {
+    "themeSHA256": "2717164929ec4d9d9e3442722cff820056e7914b363386365b3ae50b7a2ce6ee",
+    "previewSHA256": "bab81ed37858a21e40fcab5d6006c39e57eb352dea0117df08de905823e55855"
+  },
+  "titanium": {
+    "themeSHA256": "bafc34d41a8323d3908af1ba58f5ee2df0331ccae1467e24068cad3a884992df",
+    "previewSHA256": "390f2311013509d560163476e44e96b07808e6cbd207c1c8c3e8135e832ae9d2"
+  },
+  "warp-terminal": {
+    "themeSHA256": "c6afd4ad2259fb62c0830722eaf285b38830303bbcbea5b0b4bfb1785cb26b4d",
+    "previewSHA256": "c8f90114541c3bb367772f505af7cc3eb82f894f935e8e4b24f96b53c64e86c8"
+  }
+}
