@@ -3,7 +3,12 @@ name: Release themes
 on:
   push:
     branches: [main]
-    paths: ["Themes/**", "tools/build-manifest.py", ".github/workflows/release.yml"]
+    paths: ["Themes/**", "tools/**", "tests/**", ".github/workflows/release.yml"]
+  workflow_dispatch:
+
+concurrency:
+  group: theme-release
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -13,8 +18,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Run local tests when included
+        run: |
+          if [ -d tests ]; then
+            python3 -m unittest discover -s tests
+          fi
       - run: python3 tools/build-manifest.py
-      - run: gh release delete latest --yes || true
+      - name: Publish a permanent theme release
         env: { GH_TOKEN: "${{ github.token }}" }
-      - run: gh release create latest Themes/*.clinktheme manifest.json --title "Latest themes" --latest
-        env: { GH_TOKEN: "${{ github.token }}" }
+        shell: bash
+        run: |
+          shopt -s nullglob
+          assets=(Themes/*.clinktheme manifest.json)
+          tag=$(python3 -c 'import json; print(json.load(open("manifest.json"))["version"])')
+          if draft=$(gh release view "$tag" --json isDraft --jq .isDraft); then
+            if [ "$draft" = true ]; then
+              # Resume an interrupted upload while the release is still hidden.
+              gh release upload "$tag" "${assets[@]}" --clobber
+              gh release edit "$tag" --draft=false --latest
+            else
+              gh release edit "$tag" --latest
+            fi
+          else
+            gh release create "$tag" "${assets[@]}" \
+              --target "$GITHUB_SHA" --title "Latest themes" --draft
+            gh release edit "$tag" --draft=false --latest
+          fi
