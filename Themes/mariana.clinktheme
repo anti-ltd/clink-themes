@@ -1,0 +1,98 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.7843137254901961,
+    "g" : 0.5607843137254902,
+    "r" : 0.43529411764705883
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.13333333333333333,
+    "g" : 0.08235294117647059,
+    "r" : 0.058823529411764705
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "mariana",
+  "isDark" : true,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.3215686274509804,
+    "g" : 0.22745098039215686,
+    "r" : 0.17647058823529413
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.9725490196078431,
+    "g" : 0.9490196078431372,
+    "r" : 0.9333333333333333
+  },
+  "material" : "metal",
+  "name" : "Mariana",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.21176470588235294,
+    "g" : 0.1450980392156863,
+    "r" : 0.10980392156862745
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.8313725490196079,
+    "g" : 0.7568627450980392,
+    "r" : 0.7098039215686275
+  },
+  "threeDVariant" : "retro"
+}

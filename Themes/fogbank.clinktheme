@@ -1,0 +1,98 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.6588235294117647,
+    "g" : 0.5137254901960784,
+    "r" : 0.4
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.8823529411764706,
+    "g" : 0.8274509803921568,
+    "r" : 0.7803921568627451
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "fogbank",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.9686274509803922,
+    "g" : 0.9490196078431372,
+    "r" : 0.9333333333333333
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.12,
+      "b" : 0.0,
+      "g" : 0.0,
+      "r" : 0.0
+    },
+    "isOn" : true,
+    "radius" : 2,
+    "x" : 0,
+    "y" : 1
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.2235294117647059,
+    "g" : 0.16470588235294117,
+    "r" : 0.11764705882352941
+  },
+  "material" : "solid",
+  "name" : "Fogbank",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.8274509803921568,
+    "g" : 0.7490196078431373,
+    "r" : 0.6862745098039216
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.2235294117647059,
+    "g" : 0.16470588235294117,
+    "r" : 0.11764705882352941
+  },
+  "threeDVariant" : "retro"
+}

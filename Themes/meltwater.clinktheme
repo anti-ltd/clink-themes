@@ -1,0 +1,98 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.6745098039215687,
+    "g" : 0.5098039215686274,
+    "r" : 0.3058823529411765
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.9568627450980393,
+    "g" : 0.9294117647058824,
+    "r" : 0.8901960784313725
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "meltwater",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.8980392156862745,
+    "g" : 0.8313725490196079,
+    "r" : 0.7372549019607844
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.21176470588235294,
+    "g" : 0.14901960784313725,
+    "r" : 0.08627450980392157
+  },
+  "material" : "metal",
+  "name" : "Meltwater",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.9254901960784314,
+    "g" : 0.8784313725490196,
+    "r" : 0.807843137254902
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.21176470588235294,
+    "g" : 0.14901960784313725,
+    "r" : 0.08627450980392157
+  },
+  "threeDVariant" : "retro"
+}

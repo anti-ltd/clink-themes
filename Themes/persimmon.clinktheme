@@ -1,0 +1,98 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.047058823529411764,
+    "g" : 0.1803921568627451,
+    "r" : 0.47843137254901963
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.10196078431372549,
+    "g" : 0.35294117647058826,
+    "r" : 0.8392156862745098
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "persimmon",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.23529411764705882,
+    "g" : 0.5254901960784314,
+    "r" : 0.9568627450980393
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.0196078431372549,
+    "g" : 0.06666666666666667,
+    "r" : 0.16470588235294117
+  },
+  "material" : "metal",
+  "name" : "Persimmon",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.1568627450980392,
+    "g" : 0.43137254901960786,
+    "r" : 0.8901960784313725
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.0196078431372549,
+    "g" : 0.06666666666666667,
+    "r" : 0.16470588235294117
+  },
+  "threeDVariant" : "retro"
+}

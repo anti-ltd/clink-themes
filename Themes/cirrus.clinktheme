@@ -1,0 +1,98 @@
+{
+  "accent" : {
+    "a" : 1,
+    "b" : 0.7607843137254902,
+    "g" : 0.5176470588235295,
+    "r" : 0.23921568627450981
+  },
+  "background" : {
+    "a" : 1,
+    "b" : 0.9411764705882353,
+    "g" : 0.8823529411764706,
+    "r" : 0.8
+  },
+  "glassInteractive" : false,
+  "glassTintStrength" : 1,
+  "glassVariant" : "regular",
+  "groupPaint" : [
+
+  ],
+  "id" : "cirrus",
+  "isDark" : false,
+  "keyFill" : {
+    "a" : 1,
+    "b" : 0.9921568627450981,
+    "g" : 0.9764705882352941,
+    "r" : 0.9529411764705882
+  },
+  "keyFontDesign" : "default",
+  "keyFontWeight" : "regular",
+  "keyInnerShadow" : {
+    "color" : {
+      "a" : 0.35,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "isOn" : false,
+    "radius" : 4,
+    "x" : 0,
+    "y" : 2
+  },
+  "keyInnerStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyOuterStroke" : {
+    "color" : {
+      "a" : 0.3,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+    },
+    "style" : "none",
+    "width" : 1
+  },
+  "keyPaint" : {
+
+  },
+  "keyShadow" : {
+    "color" : {
+      "a" : 0.12,
+      "b" : 0.0,
+      "g" : 0.0,
+      "r" : 0.0
+    },
+    "isOn" : true,
+    "radius" : 2,
+    "x" : 0,
+    "y" : 1
+  },
+  "keyText" : {
+    "a" : 1,
+    "b" : 0.2901960784313726,
+    "g" : 0.18823529411764706,
+    "r" : 0.0784313725490196
+  },
+  "material" : "solid",
+  "name" : "Cirrus",
+  "specialKeyFill" : {
+    "a" : 1,
+    "b" : 0.9019607843137255,
+    "g" : 0.807843137254902,
+    "r" : 0.6901960784313725
+  },
+  "specialKeyText" : {
+    "a" : 1,
+    "b" : 0.2901960784313726,
+    "g" : 0.18823529411764706,
+    "r" : 0.0784313725490196
+  },
+  "threeDVariant" : "retro"
+}
