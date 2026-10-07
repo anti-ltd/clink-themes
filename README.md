@@ -8,6 +8,13 @@
 
 Themes change the keyboard's colours, materials, type treatment, and gradients. They are ordinary JSON data, so you can read every setting before publishing a theme.
 
+[Brick](Themes/brick.clinktheme) is a paired light/dark theme inspired by classic mobile-phone keypads, with rounded plastic keys, navy controls and a muted green Return key. Select 3D > Brick in the theme editor to use its finish with your own colours. Choose a T9 layout separately for a three-column keypad; the theme also works with full keyboard layouts.
+
+<p align="center">
+  <img src="README-assets/brick-light-t9.png" width="390" alt="Brick light appearance with a T9 keypad">
+  <img src="README-assets/brick-dark-t9.png" width="390" alt="Brick dark appearance with a T9 keypad">
+</p>
+
 ## Official Clink repositories
 
 [Language packs](https://github.com/anti-ltd/clink-language-packs) · [Layouts](https://github.com/anti-ltd/clink-layouts) · [Profiles](https://github.com/anti-ltd/clink-profiles) · [Themes](https://github.com/anti-ltd/clink-themes) · [Panels](https://github.com/anti-ltd/clink-panels) · [Actions](https://github.com/anti-ltd/clink-actions) · [Fonts](https://github.com/anti-ltd/clink-fonts) · [Sounds](https://github.com/anti-ltd/clink-sounds)
@@ -15,7 +22,7 @@ Themes change the keyboard's colours, materials, type treatment, and gradients. 
 <!-- theme-gallery:start -->
 ## Included themes
 
-79 keyboard themes. Select a name to open its theme file, or a preview to see it at full size.
+89 keyboard themes. Select a name to open its theme file, or a preview to see it at full size.
 
 ### Solid
 

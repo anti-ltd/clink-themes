@@ -94,7 +94,7 @@
   },
   "keyPaint": {
     "f:planeToggle": {
-      "berryOppositeEdge": "oval"
+      "berryOppositeEdge": "ovalRaised"
     }
   },
   "groupPaint": {
