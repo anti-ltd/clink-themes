@@ -161,3 +161,7 @@ Adding a repository is a trust decision. Only add repositories whose release con
 ## Publishing is automatic
 
 Keep `Themes/`, `tools/`, and `.github/workflows/` in your fork. Add or update a theme, regenerate the manifest, and push to `main`. GitHub Actions validates the files and refreshes the `latest` release so Clink can download them.
+
+## Platform availability
+
+`platforms.json` sets the default platform for packs in this repository and optional overrides keyed by pack ID (language code or locale for language packs). Use `ios`, `android`, or `both`. The manifest builder writes `platform` on every entry; older entries without it mean `both`. Platform targeting affects repository discovery and downloads, not the portable format of a person’s own exported content.
