@@ -1,0 +1,134 @@
+{
+  "id": "marquee",
+  "name": "Marquee",
+  "material": "neon",
+  "keyFinish": "marquee",
+  "background": {
+    "r": 0.102,
+    "g": 0.047,
+    "b": 0.047,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.69,
+    "g": 0.118,
+    "b": 0.137,
+    "a": 1
+  },
+  "keyText": {
+    "r": 1,
+    "g": 0.965,
+    "b": 0.878,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.122,
+    "g": 0.227,
+    "b": 0.541,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1,
+    "g": 0.965,
+    "b": 0.878,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 0.827,
+    "b": 0.416,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "marquee-light",
+      "name": "Marquee",
+      "material": "neon",
+      "keyFinish": "marquee",
+      "background": {
+        "r": 0.9,
+        "g": 0.846,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.882,
+        "b": 0.8853,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.7499,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.4631,
+        "b": 0.233,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "marquee-dark",
+      "name": "Marquee",
+      "material": "neon",
+      "keyFinish": "marquee",
+      "background": {
+        "r": 0.102,
+        "g": 0.047,
+        "b": 0.047,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.69,
+        "g": 0.118,
+        "b": 0.137,
+        "a": 1
+      },
+      "keyText": {
+        "r": 1,
+        "g": 0.965,
+        "b": 0.878,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.122,
+        "g": 0.227,
+        "b": 0.541,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 0.965,
+        "b": 0.878,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.827,
+        "b": 0.416,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "portable",
+  "name": "Portable",
+  "material": "typewriter",
+  "keyFinish": "square",
+  "background": {
+    "r": 0.169,
+    "g": 0.227,
+    "b": 0.212,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.91,
+    "g": 0.882,
+    "b": 0.812,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.133,
+    "g": 0.188,
+    "b": 0.173,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.788,
+    "g": 0.337,
+    "b": 0.235,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.06666666666666667,
+    "g": 0.07450980392156863,
+    "b": 0.09411764705882353,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.788,
+    "g": 0.337,
+    "b": 0.235,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontDesign": "typewriter",
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "portable-light",
+      "name": "Portable",
+      "material": "typewriter",
+      "keyFinish": "square",
+      "background": {
+        "r": 0.846,
+        "g": 0.9,
+        "b": 0.886,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.952,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.7376,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.2395,
+        "b": 0.167,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontDesign": "typewriter",
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "portable-dark",
+      "name": "Portable",
+      "material": "typewriter",
+      "keyFinish": "square",
+      "background": {
+        "r": 0.169,
+        "g": 0.227,
+        "b": 0.212,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.91,
+        "g": 0.882,
+        "b": 0.812,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.133,
+        "g": 0.188,
+        "b": 0.173,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.788,
+        "g": 0.337,
+        "b": 0.235,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.06666666666666667,
+        "g": 0.07450980392156863,
+        "b": 0.09411764705882353,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.788,
+        "g": 0.337,
+        "b": 0.235,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontDesign": "typewriter",
+      "keyFontWeight": "medium"
+    }
+  ]
+}

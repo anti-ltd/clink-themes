@@ -1,0 +1,134 @@
+{
+  "id": "selvedge-denim",
+  "name": "Selvedge Denim",
+  "material": "stitched",
+  "keyFinish": "denim",
+  "background": {
+    "r": 0.125,
+    "g": 0.157,
+    "b": 0.227,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.235,
+    "g": 0.353,
+    "b": 0.541,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.965,
+    "g": 0.937,
+    "b": 0.886,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.196,
+    "g": 0.298,
+    "b": 0.463,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.965,
+    "g": 0.937,
+    "b": 0.886,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.851,
+    "g": 0.549,
+    "b": 0.18,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "bold",
+  "pairedVariants": [
+    {
+      "id": "selvedge-denim-light",
+      "name": "Selvedge Denim",
+      "material": "stitched",
+      "keyFinish": "denim",
+      "background": {
+        "r": 0.846,
+        "g": 0.8629,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.9198,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.7745,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.3613,
+        "b": 0.1184,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "bold"
+    },
+    {
+      "id": "selvedge-denim-dark",
+      "name": "Selvedge Denim",
+      "material": "stitched",
+      "keyFinish": "denim",
+      "background": {
+        "r": 0.125,
+        "g": 0.157,
+        "b": 0.227,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.235,
+        "g": 0.353,
+        "b": 0.541,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.965,
+        "g": 0.937,
+        "b": 0.886,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.196,
+        "g": 0.298,
+        "b": 0.463,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.965,
+        "g": 0.937,
+        "b": 0.886,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.851,
+        "g": 0.549,
+        "b": 0.18,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "bold"
+    }
+  ]
+}

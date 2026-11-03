@@ -1,0 +1,140 @@
+{
+  "id": "inverse-video",
+  "name": "Inverse Video",
+  "material": "terminal",
+  "keyFinish": "inverse",
+  "background": {
+    "r": 0.027,
+    "g": 0.063,
+    "b": 0.043,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.027,
+    "g": 0.063,
+    "b": 0.043,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.365,
+    "g": 1,
+    "b": 0.604,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.027,
+    "g": 0.063,
+    "b": 0.043,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.365,
+    "g": 1,
+    "b": 0.604,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.365,
+    "g": 1,
+    "b": 0.604,
+    "a": 1
+  },
+  "isDark": true,
+  "terminalGlitch": 0.8,
+  "keyFontDesign": "monospaced",
+  "keyFontWeight": "semibold",
+  "pairedVariants": [
+    {
+      "id": "inverse-video-light",
+      "name": "Inverse Video",
+      "material": "terminal",
+      "keyFinish": "inverse",
+      "background": {
+        "r": 0.846,
+        "g": 0.9,
+        "b": 0.87,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.98,
+        "b": 0.9256,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.89,
+        "b": 0.7862,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.2044,
+        "g": 0.56,
+        "b": 0.3382,
+        "a": 1
+      },
+      "isDark": false,
+      "terminalGlitch": 0.8,
+      "keyFontDesign": "monospaced",
+      "keyFontWeight": "semibold"
+    },
+    {
+      "id": "inverse-video-dark",
+      "name": "Inverse Video",
+      "material": "terminal",
+      "keyFinish": "inverse",
+      "background": {
+        "r": 0.027,
+        "g": 0.063,
+        "b": 0.043,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.027,
+        "g": 0.063,
+        "b": 0.043,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.365,
+        "g": 1,
+        "b": 0.604,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.027,
+        "g": 0.063,
+        "b": 0.043,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.365,
+        "g": 1,
+        "b": 0.604,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.365,
+        "g": 1,
+        "b": 0.604,
+        "a": 1
+      },
+      "isDark": true,
+      "terminalGlitch": 0.8,
+      "keyFontDesign": "monospaced",
+      "keyFontWeight": "semibold"
+    }
+  ]
+}

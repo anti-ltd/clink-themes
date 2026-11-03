@@ -1,0 +1,134 @@
+{
+  "id": "type-case",
+  "name": "Type Case",
+  "material": "wood",
+  "background": {
+    "r": 0.231,
+    "g": 0.165,
+    "b": 0.118,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.784,
+    "g": 0.604,
+    "b": 0.388,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.114,
+    "g": 0.086,
+    "b": 0.071,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.722,
+    "g": 0.529,
+    "b": 0.31,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.114,
+    "g": 0.086,
+    "b": 0.071,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.114,
+    "g": 0.086,
+    "b": 0.071,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontDesign": "serif",
+  "keyFontWeight": "semibold",
+  "pairedVariants": [
+    {
+      "id": "type-case-light",
+      "name": "Type Case",
+      "material": "wood",
+      "background": {
+        "r": 0.9,
+        "g": 0.8685,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.9355,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.8024,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.4225,
+        "b": 0.3488,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontDesign": "serif",
+      "keyFontWeight": "semibold"
+    },
+    {
+      "id": "type-case-dark",
+      "name": "Type Case",
+      "material": "wood",
+      "background": {
+        "r": 0.231,
+        "g": 0.165,
+        "b": 0.118,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.784,
+        "g": 0.604,
+        "b": 0.388,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.114,
+        "g": 0.086,
+        "b": 0.071,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.722,
+        "g": 0.529,
+        "b": 0.31,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.114,
+        "g": 0.086,
+        "b": 0.071,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.114,
+        "g": 0.086,
+        "b": 0.071,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontDesign": "serif",
+      "keyFontWeight": "semibold"
+    }
+  ]
+}

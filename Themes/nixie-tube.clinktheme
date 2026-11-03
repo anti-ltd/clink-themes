@@ -1,0 +1,134 @@
+{
+  "id": "nixie-tube",
+  "name": "Nixie Tube",
+  "material": "instrument",
+  "keyFinish": "nixie",
+  "background": {
+    "r": 0.102,
+    "g": 0.078,
+    "b": 0.063,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.227,
+    "g": 0.18,
+    "b": 0.141,
+    "a": 1
+  },
+  "keyText": {
+    "r": 1,
+    "g": 0.604,
+    "b": 0.227,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.227,
+    "g": 0.18,
+    "b": 0.141,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1,
+    "g": 0.604,
+    "b": 0.227,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 0.478,
+    "b": 0.122,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "semibold",
+  "pairedVariants": [
+    {
+      "id": "nixie-tube-light",
+      "name": "Nixie Tube",
+      "material": "instrument",
+      "keyFinish": "nixie",
+      "background": {
+        "r": 0.9,
+        "g": 0.8668,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.227,
+        "g": 0.18,
+        "b": 0.141,
+        "a": 1
+      },
+      "keyText": {
+        "r": 1,
+        "g": 0.604,
+        "b": 0.227,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.227,
+        "g": 0.18,
+        "b": 0.141,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 0.604,
+        "b": 0.227,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.478,
+        "b": 0.122,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "semibold"
+    },
+    {
+      "id": "nixie-tube-dark",
+      "name": "Nixie Tube",
+      "material": "instrument",
+      "keyFinish": "nixie",
+      "background": {
+        "r": 0.102,
+        "g": 0.078,
+        "b": 0.063,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.227,
+        "g": 0.18,
+        "b": 0.141,
+        "a": 1
+      },
+      "keyText": {
+        "r": 1,
+        "g": 0.604,
+        "b": 0.227,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.227,
+        "g": 0.18,
+        "b": 0.141,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 0.604,
+        "b": 0.227,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.478,
+        "b": 0.122,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "semibold"
+    }
+  ]
+}

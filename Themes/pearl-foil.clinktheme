@@ -1,0 +1,134 @@
+{
+  "id": "pearl-foil",
+  "name": "Pearl Foil",
+  "material": "holo",
+  "keyFinish": "starburst",
+  "background": {
+    "r": 0.812,
+    "g": 0.82,
+    "b": 0.847,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.914,
+    "g": 0.918,
+    "b": 0.941,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.169,
+    "g": 0.18,
+    "b": 0.227,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.851,
+    "g": 0.859,
+    "b": 0.89,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.169,
+    "g": 0.18,
+    "b": 0.227,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.541,
+    "g": 0.424,
+    "b": 1,
+    "a": 1
+  },
+  "isDark": false,
+  "keyFontWeight": "regular",
+  "pairedVariants": [
+    {
+      "id": "pearl-foil-light",
+      "name": "Pearl Foil",
+      "material": "holo",
+      "keyFinish": "starburst",
+      "background": {
+        "r": 0.812,
+        "g": 0.82,
+        "b": 0.847,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.914,
+        "g": 0.918,
+        "b": 0.941,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.169,
+        "g": 0.18,
+        "b": 0.227,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.851,
+        "g": 0.859,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.169,
+        "g": 0.18,
+        "b": 0.227,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.541,
+        "g": 0.424,
+        "b": 1,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "regular"
+    },
+    {
+      "id": "pearl-foil-dark",
+      "name": "Pearl Foil",
+      "material": "holo",
+      "keyFinish": "starburst",
+      "background": {
+        "r": 0.0836,
+        "g": 0.0862,
+        "b": 0.095,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.2024,
+        "g": 0.2065,
+        "b": 0.23,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.2728,
+        "g": 0.2804,
+        "b": 0.31,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.5184,
+        "g": 0.4338,
+        "b": 0.85,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "regular"
+    }
+  ]
+}

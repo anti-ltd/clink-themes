@@ -1,0 +1,137 @@
+{
+  "id": "chalkboard",
+  "name": "Chalkboard",
+  "material": "paperCraft",
+  "keyFinish": "chalkboard",
+  "background": {
+    "r": 0.169,
+    "g": 0.129,
+    "b": 0.094,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.184,
+    "g": 0.29,
+    "b": 0.243,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.949,
+    "g": 0.941,
+    "b": 0.902,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.165,
+    "g": 0.259,
+    "b": 0.216,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.949,
+    "g": 0.941,
+    "b": 0.902,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.949,
+    "g": 0.941,
+    "b": 0.902,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontDesign": "marker",
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "chalkboard-light",
+      "name": "Chalkboard",
+      "material": "paperCraft",
+      "keyFinish": "chalkboard",
+      "background": {
+        "r": 0.9,
+        "g": 0.8712,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.98,
+        "b": 0.9365,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.89,
+        "b": 0.8045,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.5266,
+        "b": 0.364,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontDesign": "marker",
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "chalkboard-dark",
+      "name": "Chalkboard",
+      "material": "paperCraft",
+      "keyFinish": "chalkboard",
+      "background": {
+        "r": 0.169,
+        "g": 0.129,
+        "b": 0.094,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.184,
+        "g": 0.29,
+        "b": 0.243,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.949,
+        "g": 0.941,
+        "b": 0.902,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.165,
+        "g": 0.259,
+        "b": 0.216,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.949,
+        "g": 0.941,
+        "b": 0.902,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.949,
+        "g": 0.941,
+        "b": 0.902,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontDesign": "marker",
+      "keyFontWeight": "medium"
+    }
+  ]
+}

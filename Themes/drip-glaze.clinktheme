@@ -1,0 +1,134 @@
+{
+  "id": "drip-glaze",
+  "name": "Drip Glaze",
+  "material": "ceramic",
+  "keyFinish": "drip",
+  "background": {
+    "r": 0.184,
+    "g": 0.227,
+    "b": 0.212,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.184,
+    "g": 0.373,
+    "b": 0.541,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.949,
+    "g": 0.937,
+    "b": 0.902,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.149,
+    "g": 0.302,
+    "b": 0.439,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.949,
+    "g": 0.937,
+    "b": 0.902,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.914,
+    "g": 0.945,
+    "b": 0.918,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "drip-glaze-light",
+      "name": "Drip Glaze",
+      "material": "ceramic",
+      "keyFinish": "drip",
+      "background": {
+        "r": 0.846,
+        "g": 0.9,
+        "b": 0.8812,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.9339,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.8017,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.364,
+        "g": 0.56,
+        "b": 0.3893,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "drip-glaze-dark",
+      "name": "Drip Glaze",
+      "material": "ceramic",
+      "keyFinish": "drip",
+      "background": {
+        "r": 0.184,
+        "g": 0.227,
+        "b": 0.212,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.184,
+        "g": 0.373,
+        "b": 0.541,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.949,
+        "g": 0.937,
+        "b": 0.902,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.149,
+        "g": 0.302,
+        "b": 0.439,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.949,
+        "g": 0.937,
+        "b": 0.902,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.914,
+        "g": 0.945,
+        "b": 0.918,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

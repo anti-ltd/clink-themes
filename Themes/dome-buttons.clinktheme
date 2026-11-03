@@ -1,0 +1,134 @@
+{
+  "id": "dome-buttons",
+  "name": "Dome Buttons",
+  "material": "arcade",
+  "keyFinish": "dome",
+  "background": {
+    "r": 0.043,
+    "g": 0.043,
+    "b": 0.051,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.184,
+    "g": 0.49,
+    "b": 0.965,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.0853,
+    "g": 0.093,
+    "b": 0.1122,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.133,
+    "g": 0.773,
+    "b": 0.369,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.244,
+    "g": 0.2504,
+    "b": 0.2662,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.133,
+    "g": 0.773,
+    "b": 0.369,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "dome-buttons-light",
+      "name": "Dome Buttons",
+      "material": "arcade",
+      "keyFinish": "dome",
+      "background": {
+        "r": 0.846,
+        "g": 0.846,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.9204,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.89,
+        "b": 0.772,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.112,
+        "g": 0.56,
+        "b": 0.2772,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "dome-buttons-dark",
+      "name": "Dome Buttons",
+      "material": "arcade",
+      "keyFinish": "dome",
+      "background": {
+        "r": 0.043,
+        "g": 0.043,
+        "b": 0.051,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.184,
+        "g": 0.49,
+        "b": 0.965,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.0853,
+        "g": 0.093,
+        "b": 0.1122,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.133,
+        "g": 0.773,
+        "b": 0.369,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.244,
+        "g": 0.2504,
+        "b": 0.2662,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.133,
+        "g": 0.773,
+        "b": 0.369,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "saddle-leather",
+  "name": "Saddle Leather",
+  "material": "stitched",
+  "keyFinish": "leather",
+  "background": {
+    "r": 0.165,
+    "g": 0.11,
+    "b": 0.078,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.541,
+    "g": 0.294,
+    "b": 0.165,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.945,
+    "g": 0.89,
+    "b": 0.784,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.451,
+    "g": 0.251,
+    "b": 0.122,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.945,
+    "g": 0.89,
+    "b": 0.784,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.945,
+    "g": 0.89,
+    "b": 0.784,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "bold",
+  "pairedVariants": [
+    {
+      "id": "saddle-leather-light",
+      "name": "Saddle Leather",
+      "material": "stitched",
+      "keyFinish": "leather",
+      "background": {
+        "r": 0.9,
+        "g": 0.8659,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.9156,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.7764,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.493,
+        "b": 0.364,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "bold"
+    },
+    {
+      "id": "saddle-leather-dark",
+      "name": "Saddle Leather",
+      "material": "stitched",
+      "keyFinish": "leather",
+      "background": {
+        "r": 0.165,
+        "g": 0.11,
+        "b": 0.078,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.541,
+        "g": 0.294,
+        "b": 0.165,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.945,
+        "g": 0.89,
+        "b": 0.784,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.451,
+        "g": 0.251,
+        "b": 0.122,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.945,
+        "g": 0.89,
+        "b": 0.784,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.945,
+        "g": 0.89,
+        "b": 0.784,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "bold"
+    }
+  ]
+}

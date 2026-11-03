@@ -1,0 +1,131 @@
+{
+  "id": "flight-deck",
+  "name": "Flight Deck",
+  "material": "instrument",
+  "background": {
+    "r": 0.086,
+    "g": 0.098,
+    "b": 0.114,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.165,
+    "g": 0.227,
+    "b": 0.322,
+    "a": 1
+  },
+  "keyText": {
+    "r": 1,
+    "g": 0.812,
+    "b": 0.478,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.247,
+    "g": 0.29,
+    "b": 0.227,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1,
+    "g": 0.812,
+    "b": 0.478,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.349,
+    "g": 1,
+    "b": 0.612,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "semibold",
+  "pairedVariants": [
+    {
+      "id": "flight-deck-light",
+      "name": "Flight Deck",
+      "material": "instrument",
+      "background": {
+        "r": 0.846,
+        "g": 0.8691,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.9207,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7624,
+        "g": 0.89,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 0.812,
+        "b": 0.478,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.349,
+        "g": 1,
+        "b": 0.612,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "semibold"
+    },
+    {
+      "id": "flight-deck-dark",
+      "name": "Flight Deck",
+      "material": "instrument",
+      "background": {
+        "r": 0.086,
+        "g": 0.098,
+        "b": 0.114,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.165,
+        "g": 0.227,
+        "b": 0.322,
+        "a": 1
+      },
+      "keyText": {
+        "r": 1,
+        "g": 0.812,
+        "b": 0.478,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.247,
+        "g": 0.29,
+        "b": 0.227,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 0.812,
+        "b": 0.478,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.349,
+        "g": 1,
+        "b": 0.612,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "semibold"
+    }
+  ]
+}

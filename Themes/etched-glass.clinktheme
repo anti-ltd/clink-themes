@@ -1,0 +1,134 @@
+{
+  "id": "etched-glass",
+  "name": "Etched Glass",
+  "material": "artGlass",
+  "keyFinish": "etched",
+  "background": {
+    "r": 0.106,
+    "g": 0.141,
+    "b": 0.188,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.608,
+    "g": 0.702,
+    "b": 0.8,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.102,
+    "g": 0.149,
+    "b": 0.2,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.541,
+    "g": 0.635,
+    "b": 0.733,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.102,
+    "g": 0.149,
+    "b": 0.2,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "etched-glass-light",
+      "name": "Etched Glass",
+      "material": "artGlass",
+      "keyFinish": "etched",
+      "background": {
+        "r": 0.846,
+        "g": 0.869,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.93,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.7946,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.364,
+        "b": 0.364,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "etched-glass-dark",
+      "name": "Etched Glass",
+      "material": "artGlass",
+      "keyFinish": "etched",
+      "background": {
+        "r": 0.106,
+        "g": 0.141,
+        "b": 0.188,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.608,
+        "g": 0.702,
+        "b": 0.8,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.102,
+        "g": 0.149,
+        "b": 0.2,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.541,
+        "g": 0.635,
+        "b": 0.733,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.102,
+        "g": 0.149,
+        "b": 0.2,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "arcade-cabinet",
+  "name": "Arcade Cabinet",
+  "material": "arcade",
+  "background": {
+    "r": 0.043,
+    "g": 0.043,
+    "b": 0.051,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.902,
+    "g": 0.224,
+    "b": 0.275,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.06666666666666667,
+    "g": 0.07450980392156863,
+    "b": 0.09411764705882353,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 1,
+    "g": 0.824,
+    "b": 0.247,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.102,
+    "g": 0.102,
+    "b": 0.102,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 0.824,
+    "b": 0.247,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "arcade-cabinet-light",
+      "name": "Arcade Cabinet",
+      "material": "arcade",
+      "background": {
+        "r": 0.846,
+        "g": 0.846,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.882,
+        "b": 0.8894,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.8463,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.4614,
+        "b": 0.1383,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "arcade-cabinet-dark",
+      "name": "Arcade Cabinet",
+      "material": "arcade",
+      "background": {
+        "r": 0.043,
+        "g": 0.043,
+        "b": 0.051,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.902,
+        "g": 0.224,
+        "b": 0.275,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.06666666666666667,
+        "g": 0.07450980392156863,
+        "b": 0.09411764705882353,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 1,
+        "g": 0.824,
+        "b": 0.247,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.102,
+        "g": 0.102,
+        "b": 0.102,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.824,
+        "b": 0.247,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "pyrography",
+  "name": "Pyrography",
+  "material": "wood",
+  "keyFinish": "burned",
+  "background": {
+    "r": 0.227,
+    "g": 0.188,
+    "b": 0.141,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.91,
+    "g": 0.827,
+    "b": 0.678,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.227,
+    "g": 0.149,
+    "b": 0.09,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.863,
+    "g": 0.769,
+    "b": 0.604,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.227,
+    "g": 0.149,
+    "b": 0.09,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.227,
+    "g": 0.149,
+    "b": 0.09,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontDesign": "serif",
+  "keyFontWeight": "semibold",
+  "pairedVariants": [
+    {
+      "id": "pyrography-light",
+      "name": "Pyrography",
+      "material": "wood",
+      "keyFinish": "burned",
+      "background": {
+        "r": 0.9,
+        "g": 0.8755,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.9449,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.8222,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.3676,
+        "b": 0.222,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontDesign": "serif",
+      "keyFontWeight": "semibold"
+    },
+    {
+      "id": "pyrography-dark",
+      "name": "Pyrography",
+      "material": "wood",
+      "keyFinish": "burned",
+      "background": {
+        "r": 0.227,
+        "g": 0.188,
+        "b": 0.141,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.91,
+        "g": 0.827,
+        "b": 0.678,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.227,
+        "g": 0.149,
+        "b": 0.09,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.863,
+        "g": 0.769,
+        "b": 0.604,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.227,
+        "g": 0.149,
+        "b": 0.09,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.227,
+        "g": 0.149,
+        "b": 0.09,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontDesign": "serif",
+      "keyFontWeight": "semibold"
+    }
+  ]
+}

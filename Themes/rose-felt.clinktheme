@@ -1,0 +1,131 @@
+{
+  "id": "rose-felt",
+  "name": "Rose Felt",
+  "material": "stitched",
+  "background": {
+    "r": 0.847,
+    "g": 0.765,
+    "b": 0.733,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.91,
+    "g": 0.663,
+    "b": 0.627,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.2907,
+    "g": 0.2882,
+    "b": 0.2918,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.835,
+    "g": 0.557,
+    "b": 0.525,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.216,
+    "g": 0.217,
+    "b": 0.2259,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.482,
+    "g": 0.231,
+    "b": 0.231,
+    "a": 1
+  },
+  "isDark": false,
+  "keyFontWeight": "bold",
+  "pairedVariants": [
+    {
+      "id": "rose-felt-light",
+      "name": "Rose Felt",
+      "material": "stitched",
+      "background": {
+        "r": 0.847,
+        "g": 0.765,
+        "b": 0.733,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.91,
+        "g": 0.663,
+        "b": 0.627,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.2907,
+        "g": 0.2882,
+        "b": 0.2918,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.835,
+        "g": 0.557,
+        "b": 0.525,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.216,
+        "g": 0.217,
+        "b": 0.2259,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.482,
+        "g": 0.231,
+        "b": 0.231,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "bold"
+    },
+    {
+      "id": "rose-felt-dark",
+      "name": "Rose Felt",
+      "material": "stitched",
+      "background": {
+        "r": 0.095,
+        "g": 0.0868,
+        "b": 0.0836,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.23,
+        "g": 0.1769,
+        "b": 0.1692,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.31,
+        "g": 0.2223,
+        "b": 0.2122,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.85,
+        "g": 0.4738,
+        "b": 0.4738,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "bold"
+    }
+  ]
+}

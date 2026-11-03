@@ -1,0 +1,54 @@
+{
+  "accent": {
+    "a": 1,
+    "b": 0.8471,
+    "g": 0.4353,
+    "r": 0.2392
+  },
+  "background": {
+    "a": 1,
+    "b": 0.8667,
+    "g": 0.851,
+    "r": 0.8392
+  },
+  "groupPaint": {},
+  "id": "porcelain-roll",
+  "isDark": false,
+  "keyFill": {
+    "a": 1,
+    "b": 0.9451,
+    "g": 0.9529,
+    "r": 0.9529
+  },
+  "keyFontDesign": "default",
+  "keyFontWeight": "regular",
+  "keyPaint": {},
+  "keyText": {
+    "a": 1,
+    "b": 0.149,
+    "g": 0.1373,
+    "r": 0.1333
+  },
+  "labeledFunctionKeys": true,
+  "material": "3d",
+  "mechanicalCurve": 0.75,
+  "mechanicalCurveDirection": "outset",
+  "mechanicalFaceInset": 8,
+  "mechanicalInnerRadius": 14,
+  "mechanicalLightAngle": 315,
+  "name": "Porcelain Roll",
+  "source": "custom",
+  "specialKeyFill": {
+    "a": 1,
+    "b": 0.8157,
+    "g": 0.7922,
+    "r": 0.7765
+  },
+  "specialKeyText": {
+    "a": 1,
+    "b": 0.2667,
+    "g": 0.2392,
+    "r": 0.2275
+  },
+  "threeDVariant": "mechanical"
+}

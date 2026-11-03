@@ -1,0 +1,134 @@
+{
+  "id": "hi-fi",
+  "name": "Hi-Fi",
+  "material": "instrument",
+  "keyFinish": "hifi",
+  "background": {
+    "r": 0.141,
+    "g": 0.157,
+    "b": 0.173,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.914,
+    "g": 0.89,
+    "b": 0.827,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.118,
+    "g": 0.129,
+    "b": 0.141,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.788,
+    "g": 0.325,
+    "b": 0.184,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.06666666666666667,
+    "g": 0.07450980392156863,
+    "b": 0.09411764705882353,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 0.604,
+    "b": 0.227,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "semibold",
+  "pairedVariants": [
+    {
+      "id": "hi-fi-light",
+      "name": "Hi-Fi",
+      "material": "instrument",
+      "keyFinish": "hifi",
+      "background": {
+        "r": 0.846,
+        "g": 0.873,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.953,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.7467,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.604,
+        "b": 0.227,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "semibold"
+    },
+    {
+      "id": "hi-fi-dark",
+      "name": "Hi-Fi",
+      "material": "instrument",
+      "keyFinish": "hifi",
+      "background": {
+        "r": 0.141,
+        "g": 0.157,
+        "b": 0.173,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.914,
+        "g": 0.89,
+        "b": 0.827,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.118,
+        "g": 0.129,
+        "b": 0.141,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.788,
+        "g": 0.325,
+        "b": 0.184,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.06666666666666667,
+        "g": 0.07450980392156863,
+        "b": 0.09411764705882353,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.604,
+        "b": 0.227,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "semibold"
+    }
+  ]
+}

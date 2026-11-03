@@ -1,0 +1,131 @@
+{
+  "id": "gummy-bears",
+  "name": "Gummy Bears",
+  "material": "candy",
+  "background": {
+    "r": 0.165,
+    "g": 0.063,
+    "b": 0.125,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 1,
+    "g": 0.247,
+    "b": 0.498,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.1413,
+    "g": 0.1485,
+    "b": 0.1666,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 1,
+    "g": 0.541,
+    "b": 0.165,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.2347,
+    "g": 0.2411,
+    "b": 0.2572,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 0.882,
+    "b": 0.31,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "gummy-bears-light",
+      "name": "Gummy Bears",
+      "material": "candy",
+      "background": {
+        "r": 0.9,
+        "g": 0.846,
+        "b": 0.8788,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.882,
+        "b": 0.9147,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.7873,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.4939,
+        "b": 0.1736,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "gummy-bears-dark",
+      "name": "Gummy Bears",
+      "material": "candy",
+      "background": {
+        "r": 0.165,
+        "g": 0.063,
+        "b": 0.125,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 1,
+        "g": 0.247,
+        "b": 0.498,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.1413,
+        "g": 0.1485,
+        "b": 0.1666,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 1,
+        "g": 0.541,
+        "b": 0.165,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.2347,
+        "g": 0.2411,
+        "b": 0.2572,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.882,
+        "b": 0.31,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

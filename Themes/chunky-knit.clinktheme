@@ -1,0 +1,134 @@
+{
+  "id": "chunky-knit",
+  "name": "Chunky Knit",
+  "material": "stitched",
+  "keyFinish": "knit",
+  "background": {
+    "r": 0.165,
+    "g": 0.204,
+    "b": 0.251,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.851,
+    "g": 0.325,
+    "b": 0.31,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.076,
+    "g": 0.0838,
+    "b": 0.1032,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.243,
+    "g": 0.486,
+    "b": 0.694,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.06666666666666667,
+    "g": 0.07450980392156863,
+    "b": 0.09411764705882353,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "bold",
+  "pairedVariants": [
+    {
+      "id": "chunky-knit-light",
+      "name": "Chunky Knit",
+      "material": "stitched",
+      "keyFinish": "knit",
+      "background": {
+        "r": 0.846,
+        "g": 0.8705,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.8847,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.8038,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.364,
+        "b": 0.364,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "bold"
+    },
+    {
+      "id": "chunky-knit-dark",
+      "name": "Chunky Knit",
+      "material": "stitched",
+      "keyFinish": "knit",
+      "background": {
+        "r": 0.165,
+        "g": 0.204,
+        "b": 0.251,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.851,
+        "g": 0.325,
+        "b": 0.31,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.076,
+        "g": 0.0838,
+        "b": 0.1032,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.243,
+        "g": 0.486,
+        "b": 0.694,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.06666666666666667,
+        "g": 0.07450980392156863,
+        "b": 0.09411764705882353,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "bold"
+    }
+  ]
+}

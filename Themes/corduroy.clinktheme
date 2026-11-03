@@ -1,0 +1,134 @@
+{
+  "id": "corduroy",
+  "name": "Corduroy",
+  "material": "stitched",
+  "keyFinish": "corduroy",
+  "background": {
+    "r": 0.165,
+    "g": 0.122,
+    "b": 0.086,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.69,
+    "g": 0.478,
+    "b": 0.243,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.1133,
+    "g": 0.1184,
+    "b": 0.1333,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.561,
+    "g": 0.384,
+    "b": 0.188,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1,
+    "g": 0.953,
+    "b": 0.878,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 0.953,
+    "b": 0.878,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "bold",
+  "pairedVariants": [
+    {
+      "id": "corduroy-light",
+      "name": "Corduroy",
+      "material": "stitched",
+      "keyFinish": "corduroy",
+      "background": {
+        "r": 0.9,
+        "g": 0.8706,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.9335,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.8013,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.4845,
+        "b": 0.364,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "bold"
+    },
+    {
+      "id": "corduroy-dark",
+      "name": "Corduroy",
+      "material": "stitched",
+      "keyFinish": "corduroy",
+      "background": {
+        "r": 0.165,
+        "g": 0.122,
+        "b": 0.086,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.69,
+        "g": 0.478,
+        "b": 0.243,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.1133,
+        "g": 0.1184,
+        "b": 0.1333,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.561,
+        "g": 0.384,
+        "b": 0.188,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 0.953,
+        "b": 0.878,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.953,
+        "b": 0.878,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "bold"
+    }
+  ]
+}

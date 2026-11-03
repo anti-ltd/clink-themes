@@ -1,0 +1,134 @@
+{
+  "id": "crackle-glaze",
+  "name": "Crackle Glaze",
+  "material": "ceramic",
+  "keyFinish": "crackle",
+  "background": {
+    "r": 0.184,
+    "g": 0.227,
+    "b": 0.212,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.663,
+    "g": 0.784,
+    "b": 0.714,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.125,
+    "g": 0.2,
+    "b": 0.169,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.553,
+    "g": 0.698,
+    "b": 0.62,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.125,
+    "g": 0.2,
+    "b": 0.169,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.914,
+    "g": 0.945,
+    "b": 0.918,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "crackle-glaze-light",
+      "name": "Crackle Glaze",
+      "material": "ceramic",
+      "keyFinish": "crackle",
+      "background": {
+        "r": 0.846,
+        "g": 0.9,
+        "b": 0.8812,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.98,
+        "b": 0.9233,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.89,
+        "b": 0.7895,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.364,
+        "g": 0.56,
+        "b": 0.3893,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "crackle-glaze-dark",
+      "name": "Crackle Glaze",
+      "material": "ceramic",
+      "keyFinish": "crackle",
+      "background": {
+        "r": 0.184,
+        "g": 0.227,
+        "b": 0.212,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.663,
+        "g": 0.784,
+        "b": 0.714,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.125,
+        "g": 0.2,
+        "b": 0.169,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.553,
+        "g": 0.698,
+        "b": 0.62,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.125,
+        "g": 0.2,
+        "b": 0.169,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.914,
+        "g": 0.945,
+        "b": 0.918,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

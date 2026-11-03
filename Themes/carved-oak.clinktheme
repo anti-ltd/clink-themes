@@ -1,0 +1,137 @@
+{
+  "id": "carved-oak",
+  "name": "Carved Oak",
+  "material": "wood",
+  "keyFinish": "carved",
+  "background": {
+    "r": 0.173,
+    "g": 0.129,
+    "b": 0.094,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.725,
+    "g": 0.541,
+    "b": 0.353,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.227,
+    "g": 0.149,
+    "b": 0.09,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.659,
+    "g": 0.475,
+    "b": 0.294,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.126,
+    "g": 0.1021,
+    "b": 0.0926,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.227,
+    "g": 0.149,
+    "b": 0.09,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontDesign": "serif",
+  "keyFontWeight": "semibold",
+  "pairedVariants": [
+    {
+      "id": "carved-oak-light",
+      "name": "Carved Oak",
+      "material": "wood",
+      "keyFinish": "carved",
+      "background": {
+        "r": 0.9,
+        "g": 0.8699,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.9315,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.7958,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.3676,
+        "b": 0.222,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontDesign": "serif",
+      "keyFontWeight": "semibold"
+    },
+    {
+      "id": "carved-oak-dark",
+      "name": "Carved Oak",
+      "material": "wood",
+      "keyFinish": "carved",
+      "background": {
+        "r": 0.173,
+        "g": 0.129,
+        "b": 0.094,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.725,
+        "g": 0.541,
+        "b": 0.353,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.227,
+        "g": 0.149,
+        "b": 0.09,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.659,
+        "g": 0.475,
+        "b": 0.294,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.126,
+        "g": 0.1021,
+        "b": 0.0926,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.227,
+        "g": 0.149,
+        "b": 0.09,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontDesign": "serif",
+      "keyFontWeight": "semibold"
+    }
+  ]
+}

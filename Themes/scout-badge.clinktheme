@@ -1,0 +1,134 @@
+{
+  "id": "scout-badge",
+  "name": "Scout Badge",
+  "material": "stitched",
+  "keyFinish": "badge",
+  "background": {
+    "r": 0.122,
+    "g": 0.165,
+    "b": 0.141,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.184,
+    "g": 0.29,
+    "b": 0.227,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.949,
+    "g": 0.902,
+    "b": 0.769,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.149,
+    "g": 0.239,
+    "b": 0.188,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.949,
+    "g": 0.902,
+    "b": 0.769,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.851,
+    "g": 0.706,
+    "b": 0.29,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "bold",
+  "pairedVariants": [
+    {
+      "id": "scout-badge-light",
+      "name": "Scout Badge",
+      "material": "stitched",
+      "keyFinish": "badge",
+      "background": {
+        "r": 0.846,
+        "g": 0.9,
+        "b": 0.8699,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.98,
+        "b": 0.9218,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.89,
+        "b": 0.7841,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.4646,
+        "b": 0.1908,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "bold"
+    },
+    {
+      "id": "scout-badge-dark",
+      "name": "Scout Badge",
+      "material": "stitched",
+      "keyFinish": "badge",
+      "background": {
+        "r": 0.122,
+        "g": 0.165,
+        "b": 0.141,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.184,
+        "g": 0.29,
+        "b": 0.227,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.949,
+        "g": 0.902,
+        "b": 0.769,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.149,
+        "g": 0.239,
+        "b": 0.188,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.949,
+        "g": 0.902,
+        "b": 0.769,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.851,
+        "g": 0.706,
+        "b": 0.29,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "bold"
+    }
+  ]
+}

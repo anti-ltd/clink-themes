@@ -1,0 +1,134 @@
+{
+  "id": "cut-crystal",
+  "name": "Cut Crystal",
+  "material": "artGlass",
+  "keyFinish": "cutCrystal",
+  "background": {
+    "r": 0.055,
+    "g": 0.063,
+    "b": 0.078,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.624,
+    "g": 0.816,
+    "b": 1,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.047,
+    "g": 0.102,
+    "b": 0.165,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.525,
+    "g": 0.722,
+    "b": 0.918,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.047,
+    "g": 0.102,
+    "b": 0.165,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "cut-crystal-light",
+      "name": "Cut Crystal",
+      "material": "artGlass",
+      "keyFinish": "cutCrystal",
+      "background": {
+        "r": 0.846,
+        "g": 0.8648,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.932,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.7968,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.364,
+        "b": 0.364,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "cut-crystal-dark",
+      "name": "Cut Crystal",
+      "material": "artGlass",
+      "keyFinish": "cutCrystal",
+      "background": {
+        "r": 0.055,
+        "g": 0.063,
+        "b": 0.078,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.624,
+        "g": 0.816,
+        "b": 1,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.047,
+        "g": 0.102,
+        "b": 0.165,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.525,
+        "g": 0.722,
+        "b": 0.918,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.047,
+        "g": 0.102,
+        "b": 0.165,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

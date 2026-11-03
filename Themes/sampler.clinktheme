@@ -1,0 +1,134 @@
+{
+  "id": "sampler",
+  "name": "Sampler",
+  "material": "stitched",
+  "keyFinish": "crossStitch",
+  "background": {
+    "r": 0.847,
+    "g": 0.812,
+    "b": 0.749,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.957,
+    "g": 0.937,
+    "b": 0.902,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.722,
+    "g": 0.263,
+    "b": 0.184,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.922,
+    "g": 0.894,
+    "b": 0.843,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.6958,
+    "g": 0.2555,
+    "b": 0.1804,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.173,
+    "g": 0.373,
+    "b": 0.365,
+    "a": 1
+  },
+  "isDark": false,
+  "keyFontWeight": "bold",
+  "pairedVariants": [
+    {
+      "id": "sampler-light",
+      "name": "Sampler",
+      "material": "stitched",
+      "keyFinish": "crossStitch",
+      "background": {
+        "r": 0.847,
+        "g": 0.812,
+        "b": 0.749,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.957,
+        "g": 0.937,
+        "b": 0.902,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.722,
+        "g": 0.263,
+        "b": 0.184,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.922,
+        "g": 0.894,
+        "b": 0.843,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.6958,
+        "g": 0.2555,
+        "b": 0.1804,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.173,
+        "g": 0.373,
+        "b": 0.365,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "bold"
+    },
+    {
+      "id": "sampler-dark",
+      "name": "Sampler",
+      "material": "stitched",
+      "keyFinish": "crossStitch",
+      "background": {
+        "r": 0.095,
+        "g": 0.0909,
+        "b": 0.0836,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.23,
+        "g": 0.22,
+        "b": 0.2024,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.31,
+        "g": 0.2968,
+        "b": 0.2728,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.4626,
+        "g": 0.85,
+        "b": 0.8345,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "bold"
+    }
+  ]
+}

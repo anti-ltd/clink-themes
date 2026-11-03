@@ -1,0 +1,134 @@
+{
+  "id": "stoneware",
+  "name": "Stoneware",
+  "material": "ceramic",
+  "keyFinish": "stoneware",
+  "background": {
+    "r": 0.812,
+    "g": 0.773,
+    "b": 0.714,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.914,
+    "g": 0.886,
+    "b": 0.827,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.227,
+    "g": 0.184,
+    "b": 0.145,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.851,
+    "g": 0.812,
+    "b": 0.737,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.227,
+    "g": 0.184,
+    "b": 0.145,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.227,
+    "g": 0.184,
+    "b": 0.145,
+    "a": 1
+  },
+  "isDark": false,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "stoneware-light",
+      "name": "Stoneware",
+      "material": "ceramic",
+      "keyFinish": "stoneware",
+      "background": {
+        "r": 0.812,
+        "g": 0.773,
+        "b": 0.714,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.914,
+        "g": 0.886,
+        "b": 0.827,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.227,
+        "g": 0.184,
+        "b": 0.145,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.851,
+        "g": 0.812,
+        "b": 0.737,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.227,
+        "g": 0.184,
+        "b": 0.145,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.227,
+        "g": 0.184,
+        "b": 0.145,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "stoneware-dark",
+      "name": "Stoneware",
+      "material": "ceramic",
+      "keyFinish": "stoneware",
+      "background": {
+        "r": 0.095,
+        "g": 0.0905,
+        "b": 0.0836,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.23,
+        "g": 0.2211,
+        "b": 0.2024,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.31,
+        "g": 0.2973,
+        "b": 0.2728,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.85,
+        "g": 0.7131,
+        "b": 0.589,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

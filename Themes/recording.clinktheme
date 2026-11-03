@@ -1,0 +1,134 @@
+{
+  "id": "recording",
+  "name": "Recording",
+  "material": "instrument",
+  "keyFinish": "readout",
+  "background": {
+    "r": 0.078,
+    "g": 0.078,
+    "b": 0.078,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.227,
+    "g": 0.227,
+    "b": 0.235,
+    "a": 1
+  },
+  "keyText": {
+    "r": 1.0,
+    "g": 0.4848,
+    "b": 0.4284,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.227,
+    "g": 0.227,
+    "b": 0.235,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1.0,
+    "g": 0.4848,
+    "b": 0.4284,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 0.231,
+    "b": 0.184,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "semibold",
+  "pairedVariants": [
+    {
+      "id": "recording-light",
+      "name": "Recording",
+      "material": "instrument",
+      "keyFinish": "readout",
+      "background": {
+        "r": 0.9,
+        "g": 0.846,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.227,
+        "g": 0.227,
+        "b": 0.235,
+        "a": 1
+      },
+      "keyText": {
+        "r": 1,
+        "g": 0.353,
+        "b": 0.29,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.227,
+        "g": 0.227,
+        "b": 0.235,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 0.353,
+        "b": 0.29,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.231,
+        "b": 0.184,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "semibold"
+    },
+    {
+      "id": "recording-dark",
+      "name": "Recording",
+      "material": "instrument",
+      "keyFinish": "readout",
+      "background": {
+        "r": 0.078,
+        "g": 0.078,
+        "b": 0.078,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.227,
+        "g": 0.227,
+        "b": 0.235,
+        "a": 1
+      },
+      "keyText": {
+        "r": 1.0,
+        "g": 0.4848,
+        "b": 0.4284,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.227,
+        "g": 0.227,
+        "b": 0.235,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1.0,
+        "g": 0.4848,
+        "b": 0.4284,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.231,
+        "b": 0.184,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "semibold"
+    }
+  ]
+}

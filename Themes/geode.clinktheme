@@ -1,0 +1,134 @@
+{
+  "id": "geode",
+  "name": "Geode",
+  "material": "stone",
+  "keyFinish": "geode",
+  "background": {
+    "r": 0.102,
+    "g": 0.086,
+    "b": 0.125,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.804,
+    "g": 0.722,
+    "b": 0.91,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.3,
+    "g": 0.3059,
+    "b": 0.3206,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.725,
+    "g": 0.635,
+    "b": 0.847,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.244,
+    "g": 0.2504,
+    "b": 0.2662,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.541,
+    "g": 0.337,
+    "b": 0.784,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "geode-light",
+      "name": "Geode",
+      "material": "stone",
+      "keyFinish": "geode",
+      "background": {
+        "r": 0.8682,
+        "g": 0.846,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.9247,
+        "g": 0.882,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7824,
+        "g": 0.7031,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.3864,
+        "g": 0.2407,
+        "b": 0.56,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "geode-dark",
+      "name": "Geode",
+      "material": "stone",
+      "keyFinish": "geode",
+      "background": {
+        "r": 0.102,
+        "g": 0.086,
+        "b": 0.125,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.804,
+        "g": 0.722,
+        "b": 0.91,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.3,
+        "g": 0.3059,
+        "b": 0.3206,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.725,
+        "g": 0.635,
+        "b": 0.847,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.244,
+        "g": 0.2504,
+        "b": 0.2662,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.541,
+        "g": 0.337,
+        "b": 0.784,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

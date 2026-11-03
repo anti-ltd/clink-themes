@@ -1,0 +1,54 @@
+{
+  "accent": {
+    "a": 1,
+    "b": 0.5647,
+    "g": 0.5216,
+    "r": 0.4902
+  },
+  "background": {
+    "a": 1,
+    "b": 0.051,
+    "g": 0.0471,
+    "r": 0.0431
+  },
+  "groupPaint": {},
+  "id": "roll",
+  "isDark": true,
+  "keyFill": {
+    "a": 1,
+    "b": 0.1255,
+    "g": 0.1176,
+    "r": 0.1137
+  },
+  "keyFontDesign": "monospaced",
+  "keyFontWeight": "regular",
+  "keyPaint": {},
+  "keyText": {
+    "a": 1,
+    "b": 0.8627,
+    "g": 0.851,
+    "r": 0.8471
+  },
+  "labeledFunctionKeys": true,
+  "material": "3d",
+  "mechanicalCurve": 1.0,
+  "mechanicalCurveDirection": "outset",
+  "mechanicalFaceInset": 9,
+  "mechanicalInnerRadius": 16,
+  "mechanicalLightAngle": 20,
+  "name": "Roll",
+  "source": "custom",
+  "specialKeyFill": {
+    "a": 1,
+    "b": 0.1059,
+    "g": 0.098,
+    "r": 0.0941
+  },
+  "specialKeyText": {
+    "a": 1,
+    "b": 0.8118,
+    "g": 0.7961,
+    "r": 0.7882
+  },
+  "threeDVariant": "mechanical"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "imperial-jade",
+  "name": "Imperial Jade",
+  "material": "stone",
+  "keyFinish": "jade",
+  "background": {
+    "r": 0.063,
+    "g": 0.125,
+    "b": 0.094,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.31,
+    "g": 0.604,
+    "b": 0.431,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.1284,
+    "g": 0.1393,
+    "b": 0.1551,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.247,
+    "g": 0.51,
+    "b": 0.349,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1.0,
+    "g": 0.9803921568627451,
+    "b": 0.9490196078431372,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.843,
+    "g": 0.961,
+    "b": 0.878,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "imperial-jade-light",
+      "name": "Imperial Jade",
+      "material": "stone",
+      "keyFinish": "jade",
+      "background": {
+        "r": 0.846,
+        "g": 0.9,
+        "b": 0.873,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.98,
+        "b": 0.9223,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.89,
+        "b": 0.7756,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.364,
+        "g": 0.56,
+        "b": 0.4221,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "imperial-jade-dark",
+      "name": "Imperial Jade",
+      "material": "stone",
+      "keyFinish": "jade",
+      "background": {
+        "r": 0.063,
+        "g": 0.125,
+        "b": 0.094,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.31,
+        "g": 0.604,
+        "b": 0.431,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.1284,
+        "g": 0.1393,
+        "b": 0.1551,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.247,
+        "g": 0.51,
+        "b": 0.349,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1.0,
+        "g": 0.9803921568627451,
+        "b": 0.9490196078431372,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.843,
+        "g": 0.961,
+        "b": 0.878,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

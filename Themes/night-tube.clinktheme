@@ -1,0 +1,131 @@
+{
+  "id": "night-tube",
+  "name": "Night Tube",
+  "material": "neon",
+  "background": {
+    "r": 0.02,
+    "g": 0.02,
+    "b": 0.031,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.063,
+    "g": 0.063,
+    "b": 0.094,
+    "a": 1
+  },
+  "keyText": {
+    "r": 1,
+    "g": 0.31,
+    "b": 0.639,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.063,
+    "g": 0.063,
+    "b": 0.094,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1,
+    "g": 0.31,
+    "b": 0.639,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.247,
+    "g": 0.941,
+    "b": 1,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "night-tube-light",
+      "name": "Night Tube",
+      "material": "neon",
+      "background": {
+        "r": 0.846,
+        "g": 0.846,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.882,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.7031,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.1383,
+        "g": 0.527,
+        "b": 0.56,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "night-tube-dark",
+      "name": "Night Tube",
+      "material": "neon",
+      "background": {
+        "r": 0.02,
+        "g": 0.02,
+        "b": 0.031,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.063,
+        "g": 0.063,
+        "b": 0.094,
+        "a": 1
+      },
+      "keyText": {
+        "r": 1,
+        "g": 0.31,
+        "b": 0.639,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.063,
+        "g": 0.063,
+        "b": 0.094,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 0.31,
+        "b": 0.639,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.247,
+        "g": 0.941,
+        "b": 1,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

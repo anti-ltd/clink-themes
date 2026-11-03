@@ -1,0 +1,137 @@
+{
+  "id": "marquetry",
+  "name": "Marquetry",
+  "material": "wood",
+  "keyFinish": "inlay",
+  "background": {
+    "r": 0.165,
+    "g": 0.141,
+    "b": 0.125,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.839,
+    "g": 0.725,
+    "b": 0.549,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.29,
+    "g": 0.173,
+    "b": 0.102,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.78,
+    "g": 0.659,
+    "b": 0.471,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.29,
+    "g": 0.173,
+    "b": 0.102,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.29,
+    "g": 0.173,
+    "b": 0.102,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontDesign": "serif",
+  "keyFontWeight": "semibold",
+  "pairedVariants": [
+    {
+      "id": "marquetry-light",
+      "name": "Marquetry",
+      "material": "wood",
+      "keyFinish": "inlay",
+      "background": {
+        "r": 0.9,
+        "g": 0.8676,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.9415,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.8168,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.3341,
+        "b": 0.197,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontDesign": "serif",
+      "keyFontWeight": "semibold"
+    },
+    {
+      "id": "marquetry-dark",
+      "name": "Marquetry",
+      "material": "wood",
+      "keyFinish": "inlay",
+      "background": {
+        "r": 0.165,
+        "g": 0.141,
+        "b": 0.125,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.839,
+        "g": 0.725,
+        "b": 0.549,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.29,
+        "g": 0.173,
+        "b": 0.102,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.78,
+        "g": 0.659,
+        "b": 0.471,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.29,
+        "g": 0.173,
+        "b": 0.102,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.29,
+        "g": 0.173,
+        "b": 0.102,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontDesign": "serif",
+      "keyFontWeight": "semibold"
+    }
+  ]
+}

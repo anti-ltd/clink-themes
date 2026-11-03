@@ -1,0 +1,137 @@
+{
+  "id": "bakelite",
+  "name": "Bakelite",
+  "material": "typewriter",
+  "keyFinish": "bakelite",
+  "background": {
+    "r": 0.165,
+    "g": 0.141,
+    "b": 0.125,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.137,
+    "g": 0.102,
+    "b": 0.082,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.949,
+    "g": 0.91,
+    "b": 0.831,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.227,
+    "g": 0.09,
+    "b": 0.071,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.949,
+    "g": 0.91,
+    "b": 0.831,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.788,
+    "g": 0.643,
+    "b": 0.361,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontDesign": "typewriter",
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "bakelite-light",
+      "name": "Bakelite",
+      "material": "typewriter",
+      "keyFinish": "bakelite",
+      "background": {
+        "r": 0.9,
+        "g": 0.8676,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.9176,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.7259,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.457,
+        "b": 0.2565,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontDesign": "typewriter",
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "bakelite-dark",
+      "name": "Bakelite",
+      "material": "typewriter",
+      "keyFinish": "bakelite",
+      "background": {
+        "r": 0.165,
+        "g": 0.141,
+        "b": 0.125,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.137,
+        "g": 0.102,
+        "b": 0.082,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.949,
+        "g": 0.91,
+        "b": 0.831,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.227,
+        "g": 0.09,
+        "b": 0.071,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.949,
+        "g": 0.91,
+        "b": 0.831,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.788,
+        "g": 0.643,
+        "b": 0.361,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontDesign": "typewriter",
+      "keyFontWeight": "medium"
+    }
+  ]
+}

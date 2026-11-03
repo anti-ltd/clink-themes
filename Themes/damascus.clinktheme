@@ -1,0 +1,134 @@
+{
+  "id": "damascus",
+  "name": "Damascus",
+  "material": "metal",
+  "keyFinish": "damascus",
+  "background": {
+    "r": 0.059,
+    "g": 0.063,
+    "b": 0.071,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.604,
+    "g": 0.627,
+    "b": 0.659,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.2067,
+    "g": 0.2133,
+    "b": 0.23,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.522,
+    "g": 0.545,
+    "b": 0.576,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.132,
+    "g": 0.1393,
+    "b": 0.1575,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "damascus-light",
+      "name": "Damascus",
+      "material": "metal",
+      "keyFinish": "damascus",
+      "background": {
+        "r": 0.846,
+        "g": 0.864,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.923,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.7827,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.364,
+        "b": 0.364,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "damascus-dark",
+      "name": "Damascus",
+      "material": "metal",
+      "keyFinish": "damascus",
+      "background": {
+        "r": 0.059,
+        "g": 0.063,
+        "b": 0.071,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.604,
+        "g": 0.627,
+        "b": 0.659,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.2067,
+        "g": 0.2133,
+        "b": 0.23,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.522,
+        "g": 0.545,
+        "b": 0.576,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.132,
+        "g": 0.1393,
+        "b": 0.1575,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

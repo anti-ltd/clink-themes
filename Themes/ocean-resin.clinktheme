@@ -1,0 +1,134 @@
+{
+  "id": "ocean-resin",
+  "name": "Ocean Resin",
+  "material": "resin",
+  "keyFinish": "ocean",
+  "background": {
+    "r": 0.059,
+    "g": 0.165,
+    "b": 0.2,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.122,
+    "g": 0.561,
+    "b": 0.69,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.104,
+    "g": 0.1115,
+    "b": 0.1304,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.102,
+    "g": 0.471,
+    "b": 0.588,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "ocean-resin-light",
+      "name": "Ocean Resin",
+      "material": "resin",
+      "keyFinish": "ocean",
+      "background": {
+        "r": 0.846,
+        "g": 0.8866,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.9577,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.845,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.364,
+        "b": 0.364,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "ocean-resin-dark",
+      "name": "Ocean Resin",
+      "material": "resin",
+      "keyFinish": "ocean",
+      "background": {
+        "r": 0.059,
+        "g": 0.165,
+        "b": 0.2,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.122,
+        "g": 0.561,
+        "b": 0.69,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.104,
+        "g": 0.1115,
+        "b": 0.1304,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.102,
+        "g": 0.471,
+        "b": 0.588,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

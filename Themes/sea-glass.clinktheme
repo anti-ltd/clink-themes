@@ -1,0 +1,134 @@
+{
+  "id": "sea-glass",
+  "name": "Sea Glass",
+  "material": "artGlass",
+  "keyFinish": "seaGlass",
+  "background": {
+    "r": 0.851,
+    "g": 0.831,
+    "b": 0.784,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.498,
+    "g": 0.769,
+    "b": 0.706,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.122,
+    "g": 0.227,
+    "b": 0.204,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.416,
+    "g": 0.682,
+    "b": 0.62,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.122,
+    "g": 0.227,
+    "b": 0.204,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "isDark": false,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "sea-glass-light",
+      "name": "Sea Glass",
+      "material": "artGlass",
+      "keyFinish": "seaGlass",
+      "background": {
+        "r": 0.851,
+        "g": 0.831,
+        "b": 0.784,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.498,
+        "g": 0.769,
+        "b": 0.706,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.122,
+        "g": 0.227,
+        "b": 0.204,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.416,
+        "g": 0.682,
+        "b": 0.62,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.122,
+        "g": 0.227,
+        "b": 0.204,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "sea-glass-dark",
+      "name": "Sea Glass",
+      "material": "artGlass",
+      "keyFinish": "seaGlass",
+      "background": {
+        "r": 0.095,
+        "g": 0.0916,
+        "b": 0.0836,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.1611,
+        "g": 0.23,
+        "b": 0.214,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.2072,
+        "g": 0.31,
+        "b": 0.286,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.85,
+        "g": 0.748,
+        "b": 0.748,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

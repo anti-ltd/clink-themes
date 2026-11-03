@@ -1,0 +1,134 @@
+{
+  "id": "praline",
+  "name": "Praline",
+  "material": "candy",
+  "keyFinish": "chocolate",
+  "background": {
+    "r": 0.165,
+    "g": 0.094,
+    "b": 0.063,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.353,
+    "g": 0.196,
+    "b": 0.11,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.965,
+    "g": 0.902,
+    "b": 0.812,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.29,
+    "g": 0.157,
+    "b": 0.086,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.965,
+    "g": 0.902,
+    "b": 0.812,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.965,
+    "g": 0.902,
+    "b": 0.812,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "praline-light",
+      "name": "Praline",
+      "material": "candy",
+      "keyFinish": "chocolate",
+      "background": {
+        "r": 0.9,
+        "g": 0.8624,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.9167,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.7681,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.4793,
+        "b": 0.364,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "praline-dark",
+      "name": "Praline",
+      "material": "candy",
+      "keyFinish": "chocolate",
+      "background": {
+        "r": 0.165,
+        "g": 0.094,
+        "b": 0.063,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.353,
+        "g": 0.196,
+        "b": 0.11,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.965,
+        "g": 0.902,
+        "b": 0.812,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.29,
+        "g": 0.157,
+        "b": 0.086,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.965,
+        "g": 0.902,
+        "b": 0.812,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.965,
+        "g": 0.902,
+        "b": 0.812,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

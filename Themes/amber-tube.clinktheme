@@ -1,0 +1,137 @@
+{
+  "id": "amber-tube",
+  "name": "Amber Tube",
+  "material": "terminal",
+  "background": {
+    "r": 0.071,
+    "g": 0.047,
+    "b": 0.016,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.071,
+    "g": 0.047,
+    "b": 0.016,
+    "a": 1
+  },
+  "keyText": {
+    "r": 1,
+    "g": 0.71,
+    "b": 0.29,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.071,
+    "g": 0.047,
+    "b": 0.016,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1,
+    "g": 0.71,
+    "b": 0.29,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 0.478,
+    "b": 0.239,
+    "a": 1
+  },
+  "isDark": true,
+  "terminalGlitch": 0.8,
+  "keyFontDesign": "monospaced",
+  "keyFontWeight": "semibold",
+  "pairedVariants": [
+    {
+      "id": "amber-tube-light",
+      "name": "Amber Tube",
+      "material": "terminal",
+      "background": {
+        "r": 0.9,
+        "g": 0.8764,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.98,
+        "g": 0.9372,
+        "b": 0.882,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.8084,
+        "b": 0.7031,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.2677,
+        "b": 0.1338,
+        "a": 1
+      },
+      "isDark": false,
+      "terminalGlitch": 0.8,
+      "keyFontDesign": "monospaced",
+      "keyFontWeight": "semibold"
+    },
+    {
+      "id": "amber-tube-dark",
+      "name": "Amber Tube",
+      "material": "terminal",
+      "background": {
+        "r": 0.071,
+        "g": 0.047,
+        "b": 0.016,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.071,
+        "g": 0.047,
+        "b": 0.016,
+        "a": 1
+      },
+      "keyText": {
+        "r": 1,
+        "g": 0.71,
+        "b": 0.29,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.071,
+        "g": 0.047,
+        "b": 0.016,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 0.71,
+        "b": 0.29,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 0.478,
+        "b": 0.239,
+        "a": 1
+      },
+      "isDark": true,
+      "terminalGlitch": 0.8,
+      "keyFontDesign": "monospaced",
+      "keyFontWeight": "semibold"
+    }
+  ]
+}

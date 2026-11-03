@@ -1,0 +1,134 @@
+{
+  "id": "hammered-copper",
+  "name": "Hammered Copper",
+  "material": "metal",
+  "keyFinish": "hammered",
+  "background": {
+    "r": 0.086,
+    "g": 0.094,
+    "b": 0.106,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.725,
+    "g": 0.737,
+    "b": 0.761,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.102,
+    "g": 0.11,
+    "b": 0.125,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.62,
+    "g": 0.635,
+    "b": 0.663,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.102,
+    "g": 0.11,
+    "b": 0.125,
+    "a": 1
+  },
+  "accent": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "hammered-copper-light",
+      "name": "Hammered Copper",
+      "material": "metal",
+      "keyFinish": "hammered",
+      "background": {
+        "r": 0.846,
+        "g": 0.8676,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.9147,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.7683,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.364,
+        "b": 0.364,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "hammered-copper-dark",
+      "name": "Hammered Copper",
+      "material": "metal",
+      "keyFinish": "hammered",
+      "background": {
+        "r": 0.086,
+        "g": 0.094,
+        "b": 0.106,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.725,
+        "g": 0.737,
+        "b": 0.761,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.102,
+        "g": 0.11,
+        "b": 0.125,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.62,
+        "g": 0.635,
+        "b": 0.663,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.102,
+        "g": 0.11,
+        "b": 0.125,
+        "a": 1
+      },
+      "accent": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

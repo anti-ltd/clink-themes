@@ -1,0 +1,131 @@
+{
+  "id": "nero-marquina",
+  "name": "Nero Marquina",
+  "material": "stone",
+  "background": {
+    "r": 0.059,
+    "g": 0.059,
+    "b": 0.063,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.114,
+    "g": 0.114,
+    "b": 0.125,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.945,
+    "g": 0.906,
+    "b": 0.816,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.094,
+    "g": 0.094,
+    "b": 0.102,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.945,
+    "g": 0.906,
+    "b": 0.816,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.851,
+    "g": 0.706,
+    "b": 0.416,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "nero-marquina-light",
+      "name": "Nero Marquina",
+      "material": "stone",
+      "background": {
+        "r": 0.846,
+        "g": 0.846,
+        "b": 0.9,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.882,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.7031,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.4646,
+        "b": 0.2737,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "nero-marquina-dark",
+      "name": "Nero Marquina",
+      "material": "stone",
+      "background": {
+        "r": 0.059,
+        "g": 0.059,
+        "b": 0.063,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.114,
+        "g": 0.114,
+        "b": 0.125,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.945,
+        "g": 0.906,
+        "b": 0.816,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.094,
+        "g": 0.094,
+        "b": 0.102,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.945,
+        "g": 0.906,
+        "b": 0.816,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.851,
+        "g": 0.706,
+        "b": 0.416,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

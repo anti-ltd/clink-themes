@@ -1,0 +1,134 @@
+{
+  "id": "boiled-sweets",
+  "name": "Boiled Sweets",
+  "material": "candy",
+  "keyFinish": "hardCandy",
+  "background": {
+    "r": 0.953,
+    "g": 0.914,
+    "b": 0.918,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.227,
+    "g": 0.063,
+    "b": 0.094,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.227,
+    "g": 0.063,
+    "b": 0.094,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.902,
+    "g": 0.224,
+    "b": 0.275,
+    "a": 1
+  },
+  "isDark": false,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "boiled-sweets-light",
+      "name": "Boiled Sweets",
+      "material": "candy",
+      "keyFinish": "hardCandy",
+      "background": {
+        "r": 0.953,
+        "g": 0.914,
+        "b": 0.918,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.227,
+        "g": 0.063,
+        "b": 0.094,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.227,
+        "g": 0.063,
+        "b": 0.094,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.902,
+        "g": 0.224,
+        "b": 0.275,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "boiled-sweets-dark",
+      "name": "Boiled Sweets",
+      "material": "candy",
+      "keyFinish": "hardCandy",
+      "background": {
+        "r": 0.095,
+        "g": 0.0836,
+        "b": 0.0848,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.23,
+        "g": 0.2024,
+        "b": 0.2024,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.31,
+        "g": 0.2728,
+        "b": 0.2728,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.85,
+        "g": 0.3069,
+        "b": 0.3478,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

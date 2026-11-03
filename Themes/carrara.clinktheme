@@ -1,0 +1,131 @@
+{
+  "id": "carrara",
+  "name": "Carrara",
+  "material": "stone",
+  "background": {
+    "r": 0.839,
+    "g": 0.824,
+    "b": 0.796,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.949,
+    "g": 0.941,
+    "b": 0.925,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.169,
+    "g": 0.165,
+    "b": 0.157,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.902,
+    "g": 0.89,
+    "b": 0.867,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.169,
+    "g": 0.165,
+    "b": 0.157,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.541,
+    "g": 0.518,
+    "b": 0.471,
+    "a": 1
+  },
+  "isDark": false,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "carrara-light",
+      "name": "Carrara",
+      "material": "stone",
+      "background": {
+        "r": 0.839,
+        "g": 0.824,
+        "b": 0.796,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.949,
+        "g": 0.941,
+        "b": 0.925,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.169,
+        "g": 0.165,
+        "b": 0.157,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.902,
+        "g": 0.89,
+        "b": 0.867,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.169,
+        "g": 0.165,
+        "b": 0.157,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.541,
+        "g": 0.518,
+        "b": 0.471,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "carrara-dark",
+      "name": "Carrara",
+      "material": "stone",
+      "background": {
+        "r": 0.095,
+        "g": 0.091,
+        "b": 0.0836,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.23,
+        "g": 0.2208,
+        "b": 0.2024,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.31,
+        "g": 0.2972,
+        "b": 0.2728,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.85,
+        "g": 0.8165,
+        "b": 0.748,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

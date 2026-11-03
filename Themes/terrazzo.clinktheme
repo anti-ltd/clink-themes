@@ -1,0 +1,134 @@
+{
+  "id": "terrazzo",
+  "name": "Terrazzo",
+  "material": "stone",
+  "keyFinish": "terrazzo",
+  "background": {
+    "r": 0.894,
+    "g": 0.867,
+    "b": 0.824,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.937,
+    "g": 0.914,
+    "b": 0.875,
+    "a": 1
+  },
+  "keyText": {
+    "r": 0.173,
+    "g": 0.243,
+    "b": 0.314,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.89,
+    "g": 0.863,
+    "b": 0.812,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 0.173,
+    "g": 0.243,
+    "b": 0.314,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.878,
+    "g": 0.478,
+    "b": 0.373,
+    "a": 1
+  },
+  "isDark": false,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "terrazzo-light",
+      "name": "Terrazzo",
+      "material": "stone",
+      "keyFinish": "terrazzo",
+      "background": {
+        "r": 0.894,
+        "g": 0.867,
+        "b": 0.824,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.937,
+        "g": 0.914,
+        "b": 0.875,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.173,
+        "g": 0.243,
+        "b": 0.314,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.89,
+        "g": 0.863,
+        "b": 0.812,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.173,
+        "g": 0.243,
+        "b": 0.314,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.878,
+        "g": 0.478,
+        "b": 0.373,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "terrazzo-dark",
+      "name": "Terrazzo",
+      "material": "stone",
+      "keyFinish": "terrazzo",
+      "background": {
+        "r": 0.095,
+        "g": 0.0906,
+        "b": 0.0836,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.23,
+        "g": 0.2198,
+        "b": 0.2024,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.31,
+        "g": 0.2971,
+        "b": 0.2728,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.9254901960784314,
+        "g": 0.9450980392156862,
+        "b": 0.9686274509803922,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.85,
+        "g": 0.5208,
+        "b": 0.4344,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}

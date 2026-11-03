@@ -1,0 +1,131 @@
+{
+  "id": "cathedral",
+  "name": "Cathedral",
+  "material": "artGlass",
+  "background": {
+    "r": 0.078,
+    "g": 0.071,
+    "b": 0.063,
+    "a": 1
+  },
+  "keyFill": {
+    "r": 0.184,
+    "g": 0.435,
+    "b": 0.706,
+    "a": 1
+  },
+  "keyText": {
+    "r": 1,
+    "g": 0.973,
+    "b": 0.91,
+    "a": 1
+  },
+  "specialKeyFill": {
+    "r": 0.165,
+    "g": 0.369,
+    "b": 0.596,
+    "a": 1
+  },
+  "specialKeyText": {
+    "r": 1,
+    "g": 0.973,
+    "b": 0.91,
+    "a": 1
+  },
+  "accent": {
+    "r": 0.886,
+    "g": 0.659,
+    "b": 0.227,
+    "a": 1
+  },
+  "isDark": true,
+  "keyFontWeight": "medium",
+  "pairedVariants": [
+    {
+      "id": "cathedral-light",
+      "name": "Cathedral",
+      "material": "artGlass",
+      "background": {
+        "r": 0.9,
+        "g": 0.8748,
+        "b": 0.846,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.882,
+        "g": 0.9291,
+        "b": 0.98,
+        "a": 1
+      },
+      "keyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.7031,
+        "g": 0.7916,
+        "b": 0.89,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 0.09411764705882353,
+        "g": 0.12549019607843137,
+        "b": 0.16470588235294117,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.56,
+        "g": 0.4165,
+        "b": 0.1435,
+        "a": 1
+      },
+      "isDark": false,
+      "keyFontWeight": "medium"
+    },
+    {
+      "id": "cathedral-dark",
+      "name": "Cathedral",
+      "material": "artGlass",
+      "background": {
+        "r": 0.078,
+        "g": 0.071,
+        "b": 0.063,
+        "a": 1
+      },
+      "keyFill": {
+        "r": 0.184,
+        "g": 0.435,
+        "b": 0.706,
+        "a": 1
+      },
+      "keyText": {
+        "r": 1,
+        "g": 0.973,
+        "b": 0.91,
+        "a": 1
+      },
+      "specialKeyFill": {
+        "r": 0.165,
+        "g": 0.369,
+        "b": 0.596,
+        "a": 1
+      },
+      "specialKeyText": {
+        "r": 1,
+        "g": 0.973,
+        "b": 0.91,
+        "a": 1
+      },
+      "accent": {
+        "r": 0.886,
+        "g": 0.659,
+        "b": 0.227,
+        "a": 1
+      },
+      "isDark": true,
+      "keyFontWeight": "medium"
+    }
+  ]
+}
